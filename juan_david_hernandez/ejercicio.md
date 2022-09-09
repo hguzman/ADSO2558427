@@ -6,6 +6,7 @@ Sub mientras()
     
         If dinero > 0 Then
             aportaron = aportaron + 1
+            promedio = monto / aportaron
             If dinero >= 10000 Then
                 aportaron10 = aportaron10 + 1
             End If
@@ -14,7 +15,7 @@ Sub mientras()
         End If
         monto = monto + dinero
     Wend
-    promedio = monto / aportaron
+    
     MsgBox ("Total de monto recogido: $") & monto
     MsgBox ("Aportaron ") & aportaron & (" estudiantes ")
     MsgBox ("No aportaron ") & no_aportaron & (" estudiantes ")
@@ -22,4 +23,4 @@ Sub mientras()
     MsgBox ("Hubo un promedio de ") & promedio & (" pesos por estudiante que aportó")
 End Sub
 ~~~
-![Diagrama](diagrama.png)
+![Diagrama](diagrama1.png)
