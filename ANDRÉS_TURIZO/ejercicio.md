@@ -1,6 +1,7 @@
 ~~~
 Sub ejercicio()
 
+    dinero_total = 0
     While dinero_total < 3000000
         pregunta = Int(InputBox("Cuánto va a abonar"))
         If pregunta > 0 Then
@@ -23,4 +24,4 @@ Sub ejercicio()
 End Sub
 ~~~
 
-![Diagrama](EJERCICIO.JPG)
+![Diagrama](diagrama.JPG)
