@@ -27,3 +27,5 @@ Sub ejercicio()
         
 End Sub
 ``` 
+
+![foto](diagrama.jpg)
