@@ -36,6 +36,6 @@ End Sub
 
 # Diagrama de Flujo
 
-![foto](Inkedeventoescolar.jpg)
+![foto](diagrama.jpg)
 
 
