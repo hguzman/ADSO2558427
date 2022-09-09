@@ -14,4 +14,4 @@ Información Basica
 | **GitHub** |[https://github.com/Cristian-pacheco] |
 
 ## Ejercicios
-- [Ejercicio Ciclo Mientras que]()
+- [https://github.com/Cristian-pacheco/ADSO2558427/blob/main/codigo]()
