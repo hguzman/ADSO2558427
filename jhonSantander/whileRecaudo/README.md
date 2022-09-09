@@ -35,6 +35,6 @@ End Sub
 
 <h3 align=center>Diagrama de flujo</h3>
 
-![DiagramaFlujo](https://i.imgur.com/rozurt2.jpg)
+![DiagramaFlujo](https://i.imgur.com/XdDT47h.jpg)
 
 [Descargar](https://drive.google.com/file/d/18zfT8OZzXfuV3hHSjYazYVytbNFxBPgG/view?usp=sharing)
