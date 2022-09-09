@@ -1,6 +1,6 @@
 <h2 align=center>Ejercicio</h2>
 
-<h3 align=center>Programación</h3>
+<h3 align=center>programación</h3>
 
 ```
 Sub recolecta()
