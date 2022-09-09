@@ -4,6 +4,7 @@
 
 Sub eventoescolar()
 
+    total_recaudado <- 0
     While total_recaudado <= 3000000
         dinero_rec = InputBox("Cuanto va a abonar?")
         If dinero_rec > 0 Then
