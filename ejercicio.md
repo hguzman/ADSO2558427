@@ -1,3 +1,4 @@
+``` 
 Sub ejercicio()
     abo = 0
     noabo = 0
@@ -25,3 +26,4 @@ Sub ejercicio()
     MsgBox "Los estudiantes que aportaron una cantidad superior a $10.000:   " & "(" & abosup & ")" & " Estudiantes"
         
 End Sub
+``` 
