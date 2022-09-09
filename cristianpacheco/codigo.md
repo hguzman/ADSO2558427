@@ -8,7 +8,7 @@ Sub b()
        If m < 100000 Then
         am = am + 1
        Else
-       am2 = am2 + 1
+        am2 = am2 + 1
        End If
        If m = 0 Then
         no = no + 1
