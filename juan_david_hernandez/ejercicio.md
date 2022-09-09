@@ -2,7 +2,7 @@
 Sub mientras()
    monto = 0
     While monto < 3000000
-        dinero = InputBox("Cuánto va a donar")
+        dinero = InputBox("Cuánto va a donar?")
     
         If dinero > 0 Then
             aportaron = aportaron + 1

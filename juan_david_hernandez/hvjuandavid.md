@@ -10,7 +10,7 @@ Información Basica
 | **Dirección** | Calle 122 No 09 |
 | **Barrio** | Caribe Verde |
 | **Celular** | 3022358132 |
-| **Email** | jdhernandez032703@gmail.com |
+| **Email** | jdhernandez032703@gmail.com|
 | **GitHub** | https://github.com/juanhsd |
 
 ## Ejercicios
