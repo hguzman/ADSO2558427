@@ -1,3 +1,4 @@
+```
 Sub b()
      m = 0
      i = 0
@@ -24,3 +25,4 @@ Sub b()
      MsgBox "estudiantes que aportaron menos de 100000:" & am
      MsgBox "estudiantes que aportaron mas de 100000:" & am2
 End Sub
+```
