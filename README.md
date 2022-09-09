@@ -11,7 +11,7 @@ Información Basica
 | **Barrio** | nuevo milenio |
 | **Celular** | 3105027548 |
 | **Email** | cristianpacheco10a@gmail.com |
-| **GitHub** |[https://github.com/Cristian-pacheco] |
+| **GitHub** |[cristian pacheco](https://github.com/Cristian-pacheco) |
 
 ## Ejercicios
-- [https://github.com/Cristian-pacheco/ADSO2558427/blob/main/codigo]()
+- [codigo](https://github.com/Cristian-pacheco/ADSO2558427/blob/main/codigo)
