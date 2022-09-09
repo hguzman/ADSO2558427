@@ -4,14 +4,14 @@ Información Basica
 | Campo | Información |
 | --- | --- |
 | **Tipo** | Cedula |
-| **Identificación** | 72230311 |
-| **Nombre completo** | Henry Miguel Guzmán Escorcia |
-| **Edad** | 45 |
-| **Dirección** | Calle |
-| **Barrio** | Montes |
-| **Celular** | 3002077707 |
-| **Email** | hguzman10@gmail.com |
-| **GitHub** | https://github.com/hguzman |
+| **Identificación** | 1075088295 |
+| **Nombre completo** | cristian davith pacheco martinez |
+| **Edad** | 18 |
+| **Dirección** | kr 12#60c-10 |
+| **Barrio** | nuevo milenio |
+| **Celular** | 3105027548 |
+| **Email** | cristianpacheco10a@gmail.com |
+| **GitHub** |[https://github.com/Cristian-pacheco] |
 
 ## Ejercicios
 - [Ejercicio Ciclo Mientras que]()
