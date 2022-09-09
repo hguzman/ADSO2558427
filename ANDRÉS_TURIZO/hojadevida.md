@@ -14,4 +14,4 @@ Información Basica
 | **GitHub** | https://github.com/andresdtd |
 
 ## Ejercicios
-- [EJERCICIO](EJERCICIO.md)
+- [EJERCICIO](ejercicio.md)
