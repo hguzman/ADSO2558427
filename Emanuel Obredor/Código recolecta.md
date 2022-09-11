@@ -24,6 +24,6 @@ Sub Inicio()
  MsgBox "El promedio recaudado por estudiante es: " & prom
  MsgBox "El numero de estudiantes que aportaron es: (" & aportaron & ") estudiantes"
  MsgBox "El numero de estudiantes que no aportaron es: (" & no_aporte & ") estudiantes"
- MsgBox Los estudiantes que aportaron una cantidad superior a $10.000: (" & aportaro"n_10k & ") estudiantes"
+ MsgBox Los estudiantes que aportaron una cantidad superior a $10.000: (" & aportaron_10k & ") estudiantes"
 End Sub
 ```  
