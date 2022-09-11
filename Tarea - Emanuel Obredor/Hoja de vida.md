@@ -9,4 +9,6 @@
 |Estado cívil|Soltero|
 |Sexo|Masculino|  
   
-[Ir a código](https://github.com/LonelyWalker17/ADSO2558427/blob/main/Tarea%20-%20Emanuel%20Obredor/C%C3%B3digo%20recolecta.md)  
+# Ejercicio
+ - [Ir al código](https://github.com/LonelyWalker17/ADSO2558427/blob/main/Tarea%20-%20Emanuel%20Obredor/C%C3%B3digo%20recolecta.md)  
+ - [Ir al diagrama de flujo](https://github.com/LonelyWalker17/ADSO2558427/blob/main/Tarea%20-%20Emanuel%20Obredor/Diagrama%20de%20Flujo.jpg)
