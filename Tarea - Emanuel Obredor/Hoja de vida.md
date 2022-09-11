@@ -9,4 +9,4 @@
 |Estado cívil|Soltero|
 |Sexo|Masculino|  
   
-[Ir a codigo](Tarea%-%Emanuel%Obredor/Código%recolecta.md)
+[Ir a código](https://github.com/LonelyWalker17/ADSO2558427/blob/main/Tarea%20-%20Emanuel%20Obredor/C%C3%B3digo%20recolecta.md)  
