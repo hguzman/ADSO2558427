@@ -7,4 +7,6 @@
 |Dirección|Diagonal 75d #13e - 62|
 |Ocupación actual|Estudiante|
 |Estado cívil|Soltero|
-|Sexo|Masculino|
+|Sexo|Masculino|  
+  
+[Ir a codigo](Tarea%-%Emanuel%Obredor/Código%recolecta.md)
