@@ -6,3 +6,5 @@
 |Número de contacto (teléfono celular)|3026482695
 |Dirección|Diagonal 75d #13e - 62|
 |Ocupación actual|Estudiante|
+|Estado cívil|Soltero|
+|Sexo|Masculino|
