@@ -8,7 +8,7 @@ Sub Inicio()
  no_aporte = 0
  
  While c < 3000000
-     aporte_solo = InputBox("Cuanto va aportar")
+     aporte_solo = InputBox("¿Cuánto desea aportar a la recolecta?")
      If aporte_solo = 0 Then
          no_aporte = no_aporte + 1
      Else
