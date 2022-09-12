@@ -10,5 +10,5 @@
 |Sexo|Masculino|  
   
 # Ejercicio
- - [Ir al código](https://github.com/LonelyWalker17/ADSO2558427/blob/main/Tarea%20-%20Emanuel%20Obredor/C%C3%B3digo%20recolecta.md)  
- - [Ir al diagrama de flujo](https://github.com/LonelyWalker17/ADSO2558427/blob/main/Tarea%20-%20Emanuel%20Obredor/Diagrama%20de%20Flujo.jpg)
+ - [Ir al código](Código_recolecta.md)  
+ - [Ir al diagrama de flujo](Diagrama_de_Flujo.jpg)
