@@ -34,4 +34,8 @@ MsgBox ("El promedio del valor de los estudiantes que aportaron es de: " & "$" &
 End Sub
 ~~~
 
+___
+
+# Diagrama de flujo
+
 ![Ver diagrama](/fabio_poveda/ciclo_while/img/FlowchartDiagram.jpg)
