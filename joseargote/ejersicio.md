@@ -1,3 +1,4 @@
+```
 Sub trabajo()
      p = 0
     m = 0
@@ -25,5 +26,5 @@ Sub trabajo()
       
             
 End Sub
-
+```
 ![foto](diagrama.jpg)
