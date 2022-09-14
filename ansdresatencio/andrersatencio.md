@@ -14,4 +14,4 @@ Información Basica
 | **GitHub** | https://github.com/andresfelipeatenciomendoza |
 
 ## Ejercicios
-- [Ejercicio](ejercicio.md)
+- [Ejercicio](ejercicios.md)
