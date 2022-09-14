@@ -1,4 +1,4 @@
-# JUAN DAVI GARCIA GOMEZ
+# JUAN DAVID GARCIA GOMEZ
 Información Basica
 
 | Campo | Información |
