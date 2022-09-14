@@ -15,3 +15,4 @@ Información Basica
 
 ## Ejercicios
 - [Ejercicio Ciclo Mientras que](ejercicio.md)
+- [Ejercicio 14/09](ejercicio2.md)
