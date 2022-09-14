@@ -25,5 +25,7 @@ inicio
     MsgBox "la cantidad de estudiantes que no donaron" & "(" & x & ")" & "estudiantes"
     MsgBox "la cantidad de estudiantes que aportaron una cantidad superior a $10.000:" & "(" & aps & ")" & "estudiantes"
 End Sub
-![foto](diagrama.jpg)
 ```
+
+![foto](diagrama.jpg)
+
