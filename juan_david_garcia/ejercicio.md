@@ -1,3 +1,4 @@
+```
 Sub algoritmo()
     a = 0
     n = 0
@@ -24,5 +25,6 @@ Sub algoritmo()
     MsgBox "la cantidad de estudiantes que no donaron" & "(" & n & ")" & "estudiantes"
     MsgBox "la cantidad de estudiantes que aportaron una cantidad superior a $10.000:" & "(" & aps & ")" & "estudiantes"
 End Sub
+```
 
 ![Foto](diagrama.jpg)
