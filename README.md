@@ -1,18 +1,9 @@
-# HENRY MIGUEL GUZMAN ESCORCIA
-Información Basica
+<h2 align=center>Lista de aprendices</h2>
 
-| Campo | Información |
-| --- | --- |
-| **Tipo** | Cedula |
-| **Identificación** | 72230311 |
-| **Nombre completo** | Henry Miguel Guzmán Escorcia |
-| **Edad** | 45 |
-| **Dirección** | Calle |
-| **Barrio** | Montes |
-| **Celular** | 3002077707 |
-| **Email** | hguzman10@gmail.com |
-| **GitHub** | https://github.com/hguzman |
 
-## Ejercicios
-- [Ejercicio Ciclo Mientras que]()
+1. [Andrés David Turizo](/andres.turizo/README.md)
+2. [Jhon Fredy Santander Patiño](/jhonSantander/README.md)
+3. [Juan David Hernández Salgado ](/juan_david_hernandez/README.md)
+4. [Luis Enrique Lemus](/luis_enrique_lemus/README.md)
+5. [Zharick Carolina Donado](/zharick_donado/README.md)
 
