@@ -1,3 +1,4 @@
+```
 inicio   
     p = 0
     x = 0
@@ -25,3 +26,4 @@ inicio
     MsgBox "la cantidad de estudiantes que aportaron una cantidad superior a $10.000:" & "(" & aps & ")" & "estudiantes"
 End Sub
 ![foto](diagrama.jpg)
+```
