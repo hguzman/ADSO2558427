@@ -15,3 +15,4 @@
 ## Ejercicio
  - [Ir al código](Codigo.md)  
  - [Ir al diagrama de flujo](Diagrama_de_Flujo.jpg)
+ - [Ir al código de registro de cédula](Cedula_register_code.md)
