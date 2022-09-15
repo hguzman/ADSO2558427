@@ -15,3 +15,4 @@ Información Basica
 
 ## Ejercicios
 - [Ejercicio Ciclo Mientras que](ejercicio.md)
+- [Segundo Ejercicio Ciclo Mientras que](ejercicio2.md)
