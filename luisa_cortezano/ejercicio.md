@@ -1,10 +1,10 @@
 ```
 Sub recolecta()
- tr = total_recaudado
- sb = si_abono
- nb = no_abono
- a = abono
- vs = valor_superior
+ tr = 0
+ sb = 0
+ nb = 0
+ a = 0
+ vs = 0
  
  While tr <= 3000000
    a = Int(InputBox("ingrese una cantidad"))
