@@ -14,5 +14,5 @@ Información Basica
 | **GitHub** |[cristian-pacheco](https://github.com/Cristian-pacheco) |
 
 ## Ejercicios
-- [ciclo mientras que en codigo](cristianpacheco\codigo.md)
+- [ciclo mientras que en codigo](https://github.com/Cristian-pacheco/ADSO2558427/blob/main/cristianpacheco/codigo.md)
 - [ciclo mientras que en diagrama](cristianpacheco\diagrama.png)
