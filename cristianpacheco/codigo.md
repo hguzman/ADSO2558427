@@ -12,6 +12,7 @@ Sub b()
        End If
        If m = 0 Then
         no = no + 1
+        i = i-1
        End If
         
        i = i + 1
