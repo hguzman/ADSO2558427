@@ -15,7 +15,7 @@ Sub actividad()
        MsgBox "documento no registrado"
        sw = False
       End If
-    fl = fl + 1
+      fl = fl + 1
     Wend
       
 End Sub
