@@ -31,4 +31,4 @@ Sub sena()
 End Sub
 
 ```
-![foto](diagrama.JPG)
+
