@@ -1,0 +1,27 @@
+Sub prueba()
+  n = 0
+  c = 0
+  p = 0
+  t = 0
+  While t <= 3000000
+    f = Int(InputBox("cuanto va aportar?"))
+    If f > 0 Then
+      n = n + 1
+      t = t + f
+        If f >= 10000 Then
+          p = p + 1
+        End If
+    Else
+      c = c + 1
+    End If
+  Wend
+  pr = t / n
+  MsgBox "el total de aportes es de $" & t
+  MsgBox "el promedio de los aportes es de $" & pr
+  MsgBox "la cantidad de estudiantes que donaron fueron de: " & n & " estudiantes"
+  MsgBox "la cantidad de estuidantes que no doraron fueron: " & c & " estudiantes"
+  MsgBox "los estudiantes que aportaron más de $10.000 " & p & " estudiantes"
+  MsgBox "se ha alcanzado la meta"
+End Sub
+
+![diagrama_de_flujo](<a href="https://ibb.co/bFLK4HM"><img src="https://i.ibb.co/gdwR0vL/Flowchart-Diagram1.jpg" alt="Flowchart-Diagram1" border="0"></a>)
