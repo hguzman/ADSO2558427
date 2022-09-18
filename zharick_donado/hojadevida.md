@@ -5,3 +5,5 @@ Información Basica
 | **Barrio** | soledad centro |
 | **Celular** | 3242828122|
 | **Email** | zharickdonado848@gmail.com |
+
+[actividad2](buscarcedulas.md)
