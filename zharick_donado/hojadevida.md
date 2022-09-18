@@ -6,4 +6,5 @@ Información Basica
 | **Celular** | 3242828122|
 | **Email** | zharickdonado848@gmail.com |
 
-[actividad2](buscarcedulas.md)
+[actividad1](ejercicio.md)  
+[actividad2](buscarcedulas.md)  
