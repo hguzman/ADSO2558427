@@ -15,3 +15,4 @@ Información Basica
 
 ## Ejercicios
 - [Ejercicio Ciclo Mientras que](/jaiderrojas/ciclowhile/README.MD)
+- [Ejercicio busqueda](/jaiderrojas/ejercicio2/README.MD)
