@@ -15,5 +15,4 @@ Información Basica
 
 ## Ejercicios
 - [Ejercicio Ciclo Mientras que](mientrasque.md)
-- [Ejercicio de Buscador por Cedula](buscadorcedula.md)
 
