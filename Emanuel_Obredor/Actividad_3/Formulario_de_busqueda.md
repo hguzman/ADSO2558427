@@ -20,6 +20,8 @@ Private Sub B_Buscar1_Click()
                 If Registro.Cells(fila, 2) = Empty Then
                     MsgBox "No se encontró el documento"
                     sw = False
+                    Buscar.Hide
+                    Formulario_registro.Show
                 End If
             End If
         End If
