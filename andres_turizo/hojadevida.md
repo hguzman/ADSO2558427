@@ -15,3 +15,4 @@ Información Basica
 
 ## Ejercicios
 - [EJERCICIO](ejercicio.md)
+- [EJERCICIO2](ejercicio2.md)
