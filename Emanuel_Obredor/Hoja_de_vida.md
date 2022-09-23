@@ -11,7 +11,7 @@
 |Ocupación actual|Estudiante|
 |Estado cívil|Soltero|
 |Sexo|Masculino|  
-  
+
 ## Ejercicio  
 - [Ir al codigo](Codigo.md)  
 - [Ir a la actividad 2](Actividad_2/)  
