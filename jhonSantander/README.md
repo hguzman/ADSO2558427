@@ -16,4 +16,8 @@ Información Basica
 
 <h3 align=center>Ejercicios</h3>
 
-- [Ejercicio Ciclo Mientras que](/jhonSantander/whileRecaudo/README.md)
+- [Ejercicio Ciclo Mientras que Recaudo](/jhonSantander/whileRecaudo/README.md)
+
+- [Ejercicio Ciclo mientras que buscador](/jhonSantander/whileBaseDatos/README.md)
+
+- [Ejercicio formulario en VBA](/jhonSantander/Formulario/README.md)
