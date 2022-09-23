@@ -12,7 +12,7 @@
 |Estado cívil|Soltero|
 |Sexo|Masculino|  
   
-    ## Ejercicio
-     - [Ir al código](Codigo.md)  
-     - [Ir al diagrama de flujo](Diagrama_de_Flujo.jpg)
-     - [Ir al código de registro de cédula](Cedula_register_code.md)
+## Ejercicio  
+- [Ir al codigo](Codigo.md)  
+- [Ir a la actividad 2](Actividad_2/)  
+- [Ir a la actividad 3](Actividad_3/)  
