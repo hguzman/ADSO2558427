@@ -15,6 +15,8 @@ Información Basica
 
 ## Ejercicios
 - [Ejercicio Ciclo Mientras que](ejercicio.md)
-- [Base de datos](exercise2.md)
+- [Buscar Cedula](exercise2.md)
+- [Base de datos](exercise3.md)
+
 
 
