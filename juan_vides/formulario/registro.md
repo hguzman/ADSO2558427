@@ -33,6 +33,9 @@ Private Sub btneliminar_Click()
     txtcelular.Text = Empty
     txtedad.Text = Empty
     reg.Cells(1, 16) = reg.Cells(1, 16) - 1
+    MsgBox "Sus datos han sido borrados"
+    btneditar.Enabled = False
+    btneliminar.Enabled = False
 End Sub
 
 Private Sub btnguardar_Click()
