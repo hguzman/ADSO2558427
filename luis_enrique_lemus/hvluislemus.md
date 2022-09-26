@@ -15,9 +15,6 @@ Información Basica
 
 ## Ejercicios
 - [Ejercicio Ciclo Mientras que](mientrasque.md)
-<<<<<<< Updated upstream
-=======
 - [Ejercicio Buscador de Cedula](buscadorcedula.md)
 - [Ejercicio Buscador de Datos por medio de la Cedula](buscadordedatos.md)
 
->>>>>>> Stashed changes
