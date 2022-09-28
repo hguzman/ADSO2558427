@@ -16,5 +16,5 @@ Información Basica
 ## Ejercicios
 - [Ejercicio Ciclo Mientras que](ejercicio.md)
 - [Ejercicio de buscador](ejercicio2.md)
-- [Formulario](formulario\tablaformu.md)
+- [Formulario](juanvides\formulario\tablaformu.md)
 - [Ejercicio Dart](ejercicio3.md)
