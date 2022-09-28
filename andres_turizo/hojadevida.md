@@ -17,3 +17,4 @@ Información Basica
 - [EXERCISE WHILE](ejercicio.md)
 - [EXERCISE SEARCH](ejercicio2.md)
 - [EXERCISE FORMULARIO](ejercicio3.md)
+- [EXERCISE CLASS/OBJECT](ejercicio4.md)
