@@ -16,3 +16,4 @@ Información Basica
 ## Ejercicios
 - [Ejercicio](ejercicio.md)
 - [Ejercicio](ejercicio_2.md)
+- [Ejercicio](ejercicio_3.md)
