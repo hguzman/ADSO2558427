@@ -27,7 +27,7 @@ class Operacion {
 
   void restar() {
     double r = num1! - num2!;
-    print(r);
+    print('La resta es $r');
   }
 }
 ```
