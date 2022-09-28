@@ -1,3 +1,4 @@
+~~~
 Private Sub bbucar_Click()
  nombre.Enabled = True
  telefono.Enabled = True
@@ -86,3 +87,4 @@ Private Sub eliminar_Click()
   datos.Cells(1, 8) = datos.Cells(1, 8) - 1
  
 End Sub
+~~~
