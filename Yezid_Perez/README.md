@@ -15,3 +15,4 @@
 
 ![ejercicio ciclo mientras que](/Ciclo_while/README.ME)
 ![ejercicio ciclo while2](/Ciclo_while/ejercicio_datos.md)
+![ejericio orientado a objetos](/Yezid_Perez/OOP/estructura%20objeto.md)
