@@ -14,8 +14,10 @@ Información Basica
 | **GitHub** | https://github.com/zhxrick |
 
 
-[Actividad colecta](ejercicio.md)  
-[Actividad buscador de cedulas](buscarcedulas.md)  
-[Actividad operaciones en Dartpad](operaciones.md)
+### Mis actividades: 
 
-[Actividad formulario en VBA](Ejercicio_formulario.md)
+[1 Actividad: colecta](ejercicio.md)  
+[2 Actividad: buscador de cedulas](buscarcedulas.md)  
+[3 Actividad: formulario en VBA](Ejercicio_formulario.md)
+[4 Actividad: operaciones en Dartpad](operaciones.md)
+
