@@ -9,3 +9,11 @@ Información Basica
 | **Celular** | 3242828122|
 | **Email** | zharickdonado848@gmail.com |
 | **GitHub** | https://github.com/zhxrick|
+
+### Ejercicio
+[Ejercicio formulario](evidencia_formulario.md)
+[Ejercicio Recolecta](ejercicio.md)
+[Ejercicio para buscar cedula](buscarcedulas.md)
+[Ejercicio operaciones en Dartpad](Operaciones.md)
+
+
