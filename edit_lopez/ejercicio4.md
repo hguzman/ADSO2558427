@@ -4,7 +4,7 @@ void main() {
  
  Operacion operacion = new Operacion();
   operacion.num1 = 5.0; 
-  operacion.num1 = 4.0;
+  operacion.num2 = 4.0;
   
   print('la suma es:${operacion.sumar()}');
   operacion.restar();
