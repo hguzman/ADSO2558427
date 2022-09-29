@@ -15,5 +15,7 @@ Información Basica
 
 ## Ejercicios
 - [Ejercicio Ciclo Mientras que](ejercicio.md)
+- [Base de datos](exercise2.md)
+- [Ejercicio 4](exercise4.md)
 
 

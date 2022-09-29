@@ -1,4 +1,4 @@
-<h2 align=center>Ejercicio</h2>
+<h2 align=center>Ejercicio de recolecta con While</h2>
 
 <h3 align=center>programación</h3>
 

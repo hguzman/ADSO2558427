@@ -15,3 +15,4 @@ Información Basica
 
 ## Ejercicios
 - [Ejercicio Ciclo Mientras que](ejercicio.md)
+- [ejercicio Ciclo Mientras que buscador de nombre](ejercicio2.md)
