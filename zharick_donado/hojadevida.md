@@ -6,5 +6,6 @@ Información Basica
 | **Celular** | 3242828122|
 | **Email** | zharickdonado848@gmail.com |
 
-[actividad_1](ejercicio.md)  
-[actividad_2](buscarcedulas.md)  
+[Actividad colecta](ejercicio.md)  
+[Actividad buscador de cedulas](buscarcedulas.md)  
+[Actividad operaciones en Dartpad](operaciones.md)
