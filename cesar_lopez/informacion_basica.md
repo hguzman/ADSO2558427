@@ -15,5 +15,5 @@ Información Basica
 
 ## Ejercicios
 - [EJERCICIO](ejercicio.md)
-- [ejercicio numero 2](ejercicios2.md)
+- [ejercicio numero 2](ejercicio2.md)
 - [ejercio numero 4](ejercicio4.md)
