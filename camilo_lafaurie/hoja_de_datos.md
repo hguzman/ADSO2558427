@@ -14,5 +14,7 @@ Información Basica
 | **GitHub**          | https://github.com/camilolafaurie |
 
 ## Ejercicios
-![Foto](diagrama_de_flujo.jpg)
-![ejercicio2](ejercicios.md)
+![evidencia ingresos](evidencia_ingre.md)
+![evidencia recolecta](evidencia_rec.md)
+![evidencia dart](evidencia_dart.md)
+![evidencia formulario](evidencia_form.md)
