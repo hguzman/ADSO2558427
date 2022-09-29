@@ -16,8 +16,8 @@ Información Basica
 
 ### Mis actividades: 
 
-[1 Actividad: colecta](ejercicio.md)  
-[2 Actividad: buscador de cedulas](buscarcedulas.md)  
-[3 Actividad: formulario en VBA](Ejercicio_formulario.md)
-[4 Actividad: operaciones en Dartpad](operaciones.md)
+[ Actividad 1: colecta](ejercicio.md)  
+[ Actividad 2: buscador de cedulas](buscarcedulas.md)  
+[ Actividad 3: formulario en VBA](Ejercicio_formulario.md)
+[ Actividad 4: operaciones en Dartpad](operaciones.md)
 
