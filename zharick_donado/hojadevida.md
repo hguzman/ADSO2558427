@@ -9,4 +9,4 @@ Información Basica
 [Actividad colecta](ejercicio.md)  
 [Actividad buscador de cedulas](buscarcedulas.md)  
 [Actividad operaciones en Dartpad](operaciones.md)
-[Actividad formulario en VBA]
+[Actividad formulario en VBA](Ejercicio_formulario.md)
