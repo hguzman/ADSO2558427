@@ -6,7 +6,7 @@ void main(){
       person1.apellido = "Restrepo";
       print(person1.nombreCompleto());
       person1.edad = 3;
-      person1.sumaEdad();
+      person1.sumaEdad(3);
 }
 class Person{
   String? nombre, sexo, apellido;
@@ -22,7 +22,7 @@ class Person{
     return c;
   }
   
-  void sumaEdad({int sumando = 3}){
+  void sumaEdad(int sumando){
     int suma = edad! + sumando;
     print(suma);
   }
