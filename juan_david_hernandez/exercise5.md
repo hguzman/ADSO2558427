@@ -1,6 +1,6 @@
 ~~~
 void main(){
-  Person person_1 = Person(n:"Juan", s:"Macho");
+  Person person_1 = Person(nombre:"Juan", sexo:"Macho");
   person_1.apellido = " Hernández";
   person_1.edad = 19; 
   print (person_1.nombreCompleto());
@@ -12,14 +12,10 @@ void main(){
 class Person { 
   String? nombre, sexo, apellido;
   int? edad;
-  Person({String? n, String? s}){
-    nombre = n; 
-    sexo = s;
-  }
-  String nombreCompleto(){ 
-    String nc = nombre! + apellido!; 
-    return nc; 
-  }
+  Person({this.nombre, this.sexo});
+  
+  String nombreCompleto() => '$nombre $apellido'; 
+  
   void edadMas(int num){
     int j = edad! + num; 
     print('La suma de la edad es: $j');
