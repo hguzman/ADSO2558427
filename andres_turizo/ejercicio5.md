@@ -5,7 +5,8 @@ void main(){
     person.apellido = " Torres";
     person.edad = 18;
     print('El nombre es: ${person.nombre}');
-    print('El apellido es: ${person.apellido}');
+    print('El apellido es:${person.apellido}');
+    print('El sexo es: ${person.sexo}');
     print('El nombre completo es: ${person.nombreCompleto()}');
     print('La edad es: ${person.edad}');
     person.edadMas(10);
