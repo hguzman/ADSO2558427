@@ -6,7 +6,7 @@ void main(){
   print (person_1.nombreCompleto());
   print (person_1.edad);
   person_1.edadMas(2);
- 
+  print (person_1.sexo);
   
 }
 class Person { 
@@ -14,7 +14,7 @@ class Person {
   int? edad;
   Person({String? n, String? s}){
     nombre = n; 
-    sexo = n;
+    sexo = s;
   }
   String nombreCompleto(){ 
     String nc = nombre! + apellido!; 
