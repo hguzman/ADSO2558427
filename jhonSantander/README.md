@@ -23,3 +23,7 @@ Información Basica
 - [Ejercicio formulario en VBA](/jhonSantander/Formulario/README.md)
 
 - [Ejercicio en Dart](/jhonSantander/dartMetodos/README.md)
+
+- [Constructores y parametros](/jhonSantander/constructorParametros/README.md)
+
+
