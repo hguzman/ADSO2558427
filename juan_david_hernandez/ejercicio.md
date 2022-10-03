@@ -23,4 +23,3 @@ Sub mientras()
     MsgBox ("Hubo un promedio de ") & promedio & (" pesos por estudiante que aportó")
 End Sub
 ~~~
-![Diagrama](diagrama1.png)
