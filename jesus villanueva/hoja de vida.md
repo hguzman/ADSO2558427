@@ -17,3 +17,4 @@ Información Basica
 - [Ejercicio Ciclo Mientras que](ejercicio.md)
 - [ejercicio ciclo mietras que 2](ejercicio2.md)
 - [ejercicio dart](ejercicioDARTPAD.md)
+- [ejercicio dart2](ejercicioDARTPAD2.md)
