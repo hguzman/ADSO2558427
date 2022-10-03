@@ -18,3 +18,4 @@ Información Basica
 - [ciclo mientras que en diagrama](https://github.com/Cristian-pacheco/ADSO2558427/blob/main/cristianpacheco/Diagrama%20sin%20t%C3%ADtulo.drawio.png)
 - [codigo buscar](https://github.com/Cristian-pacheco/ADSO2558427/blob/main/cristianpacheco/codigobuscar.md)
 - [codigo objeto](https://github.com/Cristian-pacheco/ADSO2558427/blob/2558427/cristianpacheco/objeto.md)
+- [codigo contructor](https://github.com/Cristian-pacheco/ADSO2558427/blob/2558427/cristianpacheco/contructor.md)
