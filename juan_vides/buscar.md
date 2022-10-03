@@ -1,4 +1,4 @@
-
+``` 
 Private Sub btnbuscar_Click()
     x = 3
     sw = True
@@ -26,4 +26,4 @@ Private Sub btnbuscar_Click()
     txtbuscar.Text = Empty
     
 End Sub
-
+```
