@@ -1,7 +1,7 @@
 ~~~
 
 void main() {
-  Person person = new Person("Luis","Hombre");
+  Person person = new Person(n: "Luis", s:"Hombre");
   
   person.apellido ="Lemus";
   person.edad= 17;
@@ -27,7 +27,7 @@ class Person{
       print("La edad sumada es: $a");
   }
   
-  Person(String n, String s){
+  Person({String? n, String? s}){
     nombre = n;
     sexo = s;
   }
