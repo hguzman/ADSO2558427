@@ -1,5 +1,5 @@
 # TABLA DE CONTENIDO 
 ## FORMULARIO
-- [[Menu](juan_vides\formulario\menu.md)
-- [Registro](juan_vides\formulario\registro.md)
-- [Bucar](juan_vides\formulario\buscar.md)
+- [Menu](juan_vides\menu.md)
+- [Registro](juan_vides\registro.md)
+- [Bucar](juan_vides\buscar.md)
