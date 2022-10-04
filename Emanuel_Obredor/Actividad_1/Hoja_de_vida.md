@@ -13,6 +13,7 @@
 |Sexo|Masculino|  
 
 ## Ejercicio  
-- [Ir al codigo](Codigo.md)  
-- [Ir a la actividad 2](Actividad_2/)  
-- [Ir a la actividad 3](Actividad_3/)  
+
+    - [Ir al codigo](Actividad_1/Codigo.md)  
+    - [Ir a la actividad 2](Actividad_2/)  
+    - [Ir a la actividad 3](Actividad_3/)  
