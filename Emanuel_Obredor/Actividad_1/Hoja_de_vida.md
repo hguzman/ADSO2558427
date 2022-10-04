@@ -12,10 +12,9 @@
 |Estado cívil|Soltero|
 |Sexo|Masculino|  
 
-## Ejercicio  
-
-    - [Ir al codigo](Actividad_1/Codigo.md)  
-    - [Ir a la actividad 2](Actividad_2/)  
-    - [Ir a la actividad 3](Actividad_3/)  
-    - [Ir a la actividad 4](Actividad_4/)  
-    - [Ir a la actividad 5](Actividad_5/)  
+## Ejercicio 
+- [Ir al codigo](/Emanuel_Obredor/Actividad_1/Codigo.md)  
+- [Ir a la actividad 2](/Emanuel_Obredor/Actividad_2//)  
+- [Ir a la actividad 3](/Emanuel_Obredor/Actividad_3/)  
+- [Ir a la actividad 4](/Emanuel_Obredor/Actividad_4/)  
+- [Ir a la actividad 5](/Emanuel_Obredor/Actividad_5/)  
