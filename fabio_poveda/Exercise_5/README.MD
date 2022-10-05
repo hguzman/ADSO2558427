@@ -5,9 +5,9 @@ void main() {
   Person person = new Person(nom: "Pablo", sex: "Masculino");
   person.apellido = "Ramos";
   person.edad = 23;
-  print ('El sexo es ${person.sexo}');
-  print('El nombre completo es ${person.nombrecompleto()}');
-  person.edadMas('Edad final' + num2: 3);
+  print ('El sexo es: ${person.sexo}');
+  print('El nombre completo es: ${person.nombrecompleto()}');
+  person.edadMas();
 }
 
 class Person {
@@ -23,8 +23,8 @@ Person ({String? nom, String? sex}){
     String r = nombre! + ' ' + apellido!;
     return r;
         }
-  void edadMas({int? num2}){
-    int eda = edad! + num2!; 
+  void edadMas({num1}){
+    int eda = edad! + 3; 
     print('${eda}');
   }
 }
