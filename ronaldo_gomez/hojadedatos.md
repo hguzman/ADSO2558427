@@ -13,4 +13,7 @@ Información Basica
 | **GitHub** | https://github.com/RonaldoGomezCastro2558427 |
 
 ## Ejercicios
-- [EJERCICIO](evidencia.md)
+- [Evidencia impuesto](evidencia_impuesto.md)
+- [Evidencia recolecta](evidencia_recolecta.md)
+- [Evidencia formulario](evidencia_formulario.md)
+- [Evidencia dart](evidencia_dart.md)
