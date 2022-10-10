@@ -1,22 +1,18 @@
-# JUAN DAVID GARCIA GOMEZ
-Información Basica
+<h2 align=center>Lista de aprendices</h2>
 
-| Campo | Información |
-| --- | --- |
-| **Tipo** | Cedula |
-| **Identificación** | 1044603866 |
-| **Nombre completo** | Juan David Garcia Gomez |
-| **Edad** | 18 |
-| **Dirección** | Cra 3B N88-113 Apt2 |
-| **Barrio** | Santo Domingo |
-| **Celular** | 3145312445 |
-| **Email** | juandagarcia3006@gmail.com |
-| **GitHub** | https://github.com/JuanDavid0630 |
-
-## Ejercicios
-- [Ejercicio 1 Visual](ejercicio.md)
-- [Ejercicio 2 Visual](ejercicio_2.md)
-- [Formulario](Formulario.md)
-- [Ejercicio 1 DartPad](Ejercicio_Dart.md)
-- [Ejercicio 2 DartPad](ejercicio_4.md)
+1. [Andrés David Turizo](/andres_turizo/hojadevida.md)
+2. [Andrés Felipe Parra](/andres_parra/hojadevida)
+3. [Breitner Daniel Mora](/breitner/README.md)
+4. [Cristian Pacheco](/cristianpacheco/datos.md)
+5. [Fabio Alberto Poveda](/fabio_poveda/README.MD)
+6. [Jaider Camilo Rojas](/Jaidercamiloo/README.md)
+7. [Jose Alberto Argote](/joseargote/joseargote.md)
+8. [Jhon Fredy Santander Patiño](/jhonSantander/README.md)
+9. [Juan David Hernández ](/juan_david_hernandez/hvjuandavid.md)
+10. [Juan David Garcia ](/juan_david_garcia/juandavidgarcia.md)
+11. [Luis Enrique Lemus](/luis_enrique_lemus/hvluislemus.md)
+12. [Ronaldo Gomez Castro](/ronaldo_gomez/hojadedatos.md)
+13. [Wilmer Nicolas Carmona](/wilmer_carmona/informacion_basica.md)
+14. [Yezid Perez Pertuz](/Yezid_Perez/README.ME)
+15. [Zharick Carolina Donado](/zharick_donado/hojadevida.md)
 

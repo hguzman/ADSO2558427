@@ -1,0 +1,41 @@
+~~~
+Sub actividad()
+  c = 0
+  n = 1
+  a = Int(InputBox("cedula"))
+  While c = 0
+    If info.Cells(n, 1) = a Then
+      c = c + 1
+      MsgBox info.Cells(n, 2)
+    Else
+      n = n + 1
+    End If
+    If n = 20 Then
+      MsgBox "no se ha encontrado"
+      c = 2
+    End If
+  Wend
+
+End Sub
+~~~
+
+~~~
+inicio
+  c <= 0
+  n <= 1 
+  lea"cedula",a
+  MQ c = 0 
+    Si info.cells(n,1) = a entonces
+      c <= c + 1
+      Esc info.cells(n,2)
+    Sino
+      n <= n + 1 
+    fin Si
+    Si n = 20 entonces 
+      ESc "no se ha encontrado"
+      c = 2 
+    fin Si
+  fin MQ
+fin
+
+      
