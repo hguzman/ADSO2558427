@@ -16,4 +16,3 @@
 14. [Yezid Perez Pertuz](/Yezid_Perez/README.ME)
 15. [Zharick Carolina Donado](/zharick_donado/hojadevida.md)
 
-
