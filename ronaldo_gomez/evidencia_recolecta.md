@@ -1,4 +1,6 @@
 # Ronaldo Gomez castro
+
+~~~~
 Sub inicio()
 
     abono = 0
@@ -27,5 +29,6 @@ Sub inicio()
     MsgBox "El numero de estudiantes que aportaron una cantidad mayor a $10.000: " & abonodiez
 
 End Sub
+~~~
 
 ![Diagrama](diagramadeflujo.jpg)

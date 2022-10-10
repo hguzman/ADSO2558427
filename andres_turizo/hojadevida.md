@@ -14,5 +14,8 @@ Información Basica
 | **GitHub** | https://github.com/andresdtd |
 
 ## Ejercicios
-- [EJERCICIO](ejercicio.md)
-- [EJERCICIO2](ejercicio2.md)
+- [EXERCISE WHILE](ejercicio.md)
+- [EXERCISE SEARCH](ejercicio2.md)
+- [EXERCISE FORMULARIO](ejercicio3.md)
+- [EXERCISE CLASS/OBJECT](ejercicio4.md)
+- [EXERCISE CONSTRUCTOR](ejercicio5.md)
