@@ -1,4 +1,4 @@
-   FORMULARIO
+  # Formulario
 
 - [Registro](Registro.md)
 - [Menu](menu.md)
