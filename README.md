@@ -1,17 +1,22 @@
-# HENRY MIGUEL GUZMAN ESCORCIA
+# JUAN DAVID GARCIA GOMEZ
 Información Basica
 
 | Campo | Información |
 | --- | --- |
 | **Tipo** | Cedula |
-| **Identificación** | 72230311 |
-| **Nombre completo** | Henry Miguel Guzmán Escorcia |
-| **Edad** | 45 |
-| **Dirección** | Calle |
-| **Barrio** | Montes |
-| **Celular** | 3002077707 |
-| **Email** | hguzman10@gmail.com |
-| **GitHub** | https://github.com/hguzman |
+| **Identificación** | 1044603866 |
+| **Nombre completo** | Juan David Garcia Gomez |
+| **Edad** | 18 |
+| **Dirección** | Cra 3B N88-113 Apt2 |
+| **Barrio** | Santo Domingo |
+| **Celular** | 3145312445 |
+| **Email** | juandagarcia3006@gmail.com |
+| **GitHub** | https://github.com/JuanDavid0630 |
 
 ## Ejercicios
-- [Ejercicio Ciclo Mientras que]()
+- [Ejercicio 1 Visual](ejercicio.md)
+- [Ejercicio 2 Visual](ejercicio_2.md)
+- [Formulario](formulario.md)
+- [Ejercicio 1 DartPad](Ejercicio_Dart.md)
+- [Ejercicio 2 DartPad](ejercicio_4.md)
+
