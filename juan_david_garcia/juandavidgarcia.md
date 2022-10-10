@@ -16,7 +16,6 @@ Información Basica
 ## Ejercicios
 - [Ejercicio 1 Visual](ejercicio.md)
 - [Ejercicio 2 Visual](ejercicio_2.md)
-- [Formulario](Formulario.md)
+- [Formulario](formulario.md)
 - [Ejercicio 1 DartPad](Ejercicio_Dart.md)
 - [Ejercicio 2 DartPad](ejercicio_4.md)
-
