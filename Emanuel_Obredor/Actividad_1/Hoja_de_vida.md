@@ -18,3 +18,4 @@
 - [Ir a la actividad 3](/Emanuel_Obredor/Actividad_3/)  
 - [Ir a la actividad 4](/Emanuel_Obredor/Actividad_4/)  
 - [Ir a la actividad 5](/Emanuel_Obredor/Actividad_5/)  
+- [Ir a la actividad 1 en POO](/Emanuel_Obredor/Actividad1_herencia/C%C3%B3digo_herencia.md)
