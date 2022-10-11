@@ -26,4 +26,7 @@ Información Basica
 
 - [Constructores y parametros](/jhonSantander/constructorParametros/README.md)
 
+- [Herencia en Dart](/jhonSantander/herencia/README.md)
+
+- [Funciones manejo de cadenas para caracteres en Dart](/jhonSantander/manejoCadenasDart/README.md)
 
