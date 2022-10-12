@@ -16,3 +16,7 @@ Información Basica
 ## Ejercicios
 - [Ejercicio Ciclo Mientras que](ejercicio.md)
 - [ejercicio Ciclo Mientras que buscador de nombre](ejercicio2.md)
+- [Ejercicio numero uno de dart](ejercicio_dart.md) 
+- [ejecicio numero dos de dart](ejercicio_dart2.md)
+- [ejercicio numero tres de dart](ejercicio_extends.md)
+
