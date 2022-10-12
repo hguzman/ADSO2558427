@@ -40,7 +40,7 @@ class Empresa{
   int? numero;
 
 
-Empresa(this.pais, this.numero, this.oficina);
+Empresa{(this.pais, this.numero, this.oficina)};
 
 String? generarCodigo(){
   String? paisA = pais!.substring(0,3);
