@@ -1,9 +1,9 @@
 ~~~
 
 void main(){
-  Empresa empresa1 = Empresa(pais= 'Colombia', numero= 10436639, oficina= 'Fedecafe');
-  Empresa empresa2 = Empresa(pais='California', numero=32673178, oficina='Apple');
-  Empresa empresa3 = Empresa(pais='España', numero=30175816, oficina='BBVA');
+  Empresa empresa1 = Empresa(pais:'Colombia',numero:10436639,oficina:'Fedecafe');
+  Empresa empresa2 = Empresa(pais:'California',numero: 32673178,oficina:'Apple');
+  Empresa empresa3 = Empresa(pais:'España',numero: 30175816,oficina:'BBVA');
   
   print("""
   Usuarios de Empresas
@@ -12,6 +12,7 @@ void main(){
     Pais: ${empresa1.pais}.
     Identificacion: ${empresa1.numero}.
     Oficina: ${empresa1.oficina}.
+    
     Codigo: ${empresa1.generarCodigo()}.
 """);
   empresa1.cantCaracteres();
@@ -21,6 +22,7 @@ void main(){
     Pais: ${empresa2.pais}.
     Identificacion: ${empresa2.numero}.
     Oficina: ${empresa2.oficina}.
+    
     Codigo: ${empresa2.generarCodigo()}.
 """);
   empresa2.cantCaracteres();
@@ -30,6 +32,7 @@ void main(){
     Pais: ${empresa3.pais}.
     Identificacion: ${empresa3.numero}.
     Oficina: ${empresa3.oficina}.
+    
     Codigo: ${empresa3.generarCodigo()}.
 """);
   empresa3.cantCaracteres();
@@ -40,7 +43,7 @@ class Empresa{
   int? numero;
 
 
-Empresa{(this.pais, this.numero, this.oficina)};
+Empresa({this.pais, this.numero, this.oficina});
 
 String? generarCodigo(){
   String? paisA = pais!.substring(0,3);
@@ -60,11 +63,12 @@ void cantCaracteres(){
   int cantNum = convNum.length;
 
   print("""
+  ----------------------------------------
     caracteres de oficina son: $cantOfic.
     caracteres de pais: $cantPais.
     caracteres de numero: $cantNum.
+  ----------------------------------------
 """);
 }
 }
-
 ~~~~
