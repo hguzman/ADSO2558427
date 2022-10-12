@@ -2,11 +2,11 @@
 
 ```
 void main(){
-  Empresa empresa1 = new Empresa('Colombia', 81482, 'Parque central');
+  Empresa empresa1 = new Empresa(pais: 'Colombia', numero: 81482, oficina: 'Parque central');
   
-  Empresa empresa2 = new Empresa('Chile', 667145, 'Mall Plaza Trebol');
+  Empresa empresa2 = new Empresa(pais: 'Chile', numero: 667145, oficina: 'Mall Plaza Trebol');
   
-  Empresa empresa3 = new Empresa('Peru', 3065414, 'Jockey Plaza');
+  Empresa empresa3 = new Empresa(pais: 'Peru', oficina: 'Jockey Plaza', numero: 3065414);
 
   String titulo = 'Microsoft - Empresas deportadas por Windows pirata';
   print("""
@@ -41,7 +41,7 @@ class Empresa {
   String? pais, oficina;
   int? numero;
   
-  Empresa(this.pais, this.numero, this.oficina);
+  Empresa({this.pais, this.numero, this.oficina});
   
   String? generarCodigo (){
     String? paisAb = pais!.substring(0,3);
