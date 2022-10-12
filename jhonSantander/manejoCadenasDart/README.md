@@ -26,7 +26,7 @@ void main(){
       Oficina: ${empresa2.oficina}.
       Codigo: ${empresa2.generarCodigo()}.
   """);
-  empresa3.cantCaracteres();
+  empresa2.cantCaracteres();
   print("""
     Empresa n°3:
       Pais: ${empresa3.pais}.
