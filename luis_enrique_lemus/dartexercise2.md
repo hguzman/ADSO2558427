@@ -1,9 +1,9 @@
 ~~~
 
 void main(){
-  Empresa empresa1 = Empresa('Colombia', 10436639, 'Fedecafe');
-  Empresa empresa2 = Empresa('California', 32673178, 'Apple');
-  Empresa empresa3 = Empresa('España', 30175816, 'BBVA');
+  Empresa empresa1 = Empresa(pais= 'Colombia', numero= 10436639, oficina= 'Fedecafe');
+  Empresa empresa2 = Empresa(pais='California', numero=32673178, oficina='Apple');
+  Empresa empresa3 = Empresa(pais='España', numero=30175816, oficina='BBVA');
   
   print("""
   Usuarios de Empresas
