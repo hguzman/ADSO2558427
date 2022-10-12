@@ -1,4 +1,5 @@
-´´´ 
+```
+
 
 void main(){
 
@@ -66,4 +67,5 @@ class Humano extends Omnivoro{
   
 }
 
-´´´ 
+
+``` 
