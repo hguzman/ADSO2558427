@@ -18,5 +18,5 @@ Información Basica
 - [ejercicio Ciclo Mientras que buscador de nombre](ejercicio2.md)
 - [Ejercicio numero uno de dart](ejercicio_dart.md) 
 - [ejecicio numero dos de dart](ejercicio_dart2.md)
-- [ejercicio numero tres de dart](ejercicio_extends.md)
+- [ejercicio numero tres de dart](/wilmer_carmona/ejercicio_extends.md)
 
