@@ -8,8 +8,7 @@ void main() {
   String titulo = 'Puntos de Apple';
   print(titulo);
   for (int l = 0; l < 3; l++) {
-    Empresa empresa =
-        new Empresa(pais: pais[l], oficina: oficina[l], numero: numero[l]);
+    Empresa empresa = new Empresa(pais: pais[l], oficina: oficina[l], numero: numero[l]);
     print('Codigo: ${empresa.generarCodigo()}');
     empresa.cantCaracteres();
   }
