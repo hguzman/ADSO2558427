@@ -12,9 +12,10 @@ Información Basica
 | **Celular** | 3144061466 |
 | **Email** | lopezedo54@gmail.com |
 | **GitHub** | https://github.com/Editlopeztafur |
-
-[Ejercicio 1](/edit_lopez/ejercicios.md)
+[ejercicio 1](/edit_lopez/ejercicios.md)
 
 [Ejercicio 2](/edit_lopez/ejercicios2.md)
 
 [Ejercicio 4](/edit_lopez/ejercicio4.md)
+
+[ejerccio  5](/edit_lopez/ejercicio5.md)
