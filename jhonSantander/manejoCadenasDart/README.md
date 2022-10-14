@@ -1,60 +1,32 @@
 <h2 align="center">Funciones de manejo de cadenas en Dart</h2>
 
 ```
-void main(){
-  Empresa empresa1 = new Empresa(pais: 'Colombia', numero: 81482, oficina: 'Parque central');
-  
-  Empresa empresa2 = new Empresa(pais: 'Chile', numero: 667145, oficina: 'Mall Plaza Trebol');
-  
-  Empresa empresa3 = new Empresa(pais: 'Peru', oficina: 'Jockey Plaza', numero: 3065414);
-
-  String titulo = 'Microsoft - Empresas deportadas por Windows pirata';
-  print("""
-  $titulo
-  Información:
-    Empresa n°1:
-      Pais: ${empresa1.pais}.
-      Numero: ${empresa1.numero}.
-      Oficina: ${empresa1.oficina}.
-      Codigo: ${empresa1.generarCodigo()}.
-  """);
-  empresa1.cantCaracteres();
-  print("""
-    Empresa n°2:
-      Pais: ${empresa2.pais}.
-      Numero: ${empresa2.numero}.
-      Oficina: ${empresa2.oficina}.
-      Codigo: ${empresa2.generarCodigo()}.
-  """);
-  empresa2.cantCaracteres();
-  print("""
-    Empresa n°3:
-      Pais: ${empresa3.pais}.
-      Numero: ${empresa3.numero}.
-      Oficina: ${empresa3.oficina}.
-      Codigo: ${empresa3.generarCodigo()}.
-  """);
-  empresa3.cantCaracteres();
+void main() {
+  List pais = ['Colombia', 'Chile', 'Peru'];
+  List oficina = ['Parque central', 'Jockey Plaza', 'Mall Plaza Trebol'];
+  List numero = [667145, 3065414, 81482];
+  String titulo = 'Puntos de Apple';
+  print(titulo);
+  for (int l = 0; l < 3; l++) {
+    Empresa empresa =
+        new Empresa(pais: pais[l], oficina: oficina[l], numero: numero[l]);
+    print('Codigo: ${empresa.generarCodigo()}');
+    empresa.cantCaracteres();
+  }
 }
 
 class Empresa {
   String? pais, oficina;
   int? numero;
-  
+
   Empresa({this.pais, this.numero, this.oficina});
-  
-  String? generarCodigo (){
-    String? paisAb = pais!.substring(0,3);
-    int? cantidadOficinaAb = oficina?.length;
-    int? posicionOficinaAb = cantidadOficinaAb! - 3;
-    String? oficinaAb = oficina!.substring(posicionOficinaAb, cantidadOficinaAb);
-    String? conversionNumeroAb = numero.toString();
-    String numeroAb = conversionNumeroAb.substring(0,3);
-    String codigo = '$paisAb$numeroAb$oficinaAb';
-    return codigo;
-  }
-  
-  void cantCaracteres(){
+
+  String? generarCodigo() =>
+      pais!.substring(0, 3) +
+      numero!.toString().substring(0, 3) +
+      oficina!.substring(oficina!.length - 3, oficina!.length);
+
+  void cantCaracteres() {
     int cantidadPais = pais!.length;
     int cantidadOficina = oficina!.length;
     String? conversionNumero = numero.toString();
