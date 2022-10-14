@@ -20,10 +20,11 @@ class Empresa1 extends Empresas{
    numero= num1;
    numero_empleados=num2;
     
-    print("la empresa esta ubicada en $p");
-    print("esta empresa esta ditigida por $pre");
-    print("el numero de atencion al cliente es: $num1");
-    print("esta empresa cuenta con unos: $num2 empleados");
+   print("la empresa esta ubicada en $p");
+   print("esta empresa esta ditigida por $pre");
+   print("el numero de atencion al cliente es: $num1");
+   print("esta empresa cuenta con unos: $num2 empleados");
 
   } 
  }
+ 
