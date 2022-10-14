@@ -21,10 +21,7 @@ class Empresa {
 
   Empresa({this.pais, this.numero, this.oficina});
 
-  String? generarCodigo() =>
-      pais!.substring(0, 3) +
-      numero!.toString().substring(0, 3) +
-      oficina!.substring(oficina!.length - 3, oficina!.length);
+  String? generarCodigo() => pais!.substring(0, 3) + numero!.toString().substring(0, 3) + oficina!.substring(oficina!.length - 3, oficina!.length);
 
   void cantCaracteres() {
     int cantidadPais = pais!.length;
