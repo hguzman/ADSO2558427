@@ -17,3 +17,5 @@ Información Basica
 - [Evidencia recolecta](evidencia_recolecta.md)
 - [Evidencia formulario](evidencia_formulario.md)
 - [Evidencia dart](evidencia_dart.md)
+- [Evidencia dart 1](evidencia_dart1.md)
+- [Evidencia dart 2](evidencia_dart2.md)
