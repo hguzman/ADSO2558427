@@ -8,33 +8,40 @@ void main(){
   for(int i=1;i<6;i++){
      print("----------------------------------------");
      print("empresa #$i");
-    Empresa1 empresa= new Empresa1.d(p:paises[i-1],pre:presidentes[i-1],num1:numero_de_atencion[i-1],num2:numero_de_empleados[i-1]);
+    Empresa empresa= new Empresa(p:paises[i-1],pre:presidentes[i-1],num1:numero_de_atencion[i-1],num2:numero_de_empleados[i-1]);
+     print("codigo: ${empresa.generar_codigo()}");
+     empresa.cantidad_de_caracteres();
      print("----------------------------------------");
      print("");
   }
 }
-class Empresas{
+class Empresa{
   String? pais;
   String? presidente;
   int? numero;
- 
-  }
-
-class Empresa1 extends Empresas{
   int? numero_empleados;
    
-  Empresa1.d({String? p,String?pre,int? num1,int? num2} ){
+  Empresa({String? p,String?pre,int? num1,int? num2}){
    pais= p;
    presidente= pre;
    numero= num1;
    numero_empleados=num2;
-  
-   print("la empresa esta ubicada en: $p");
-   print("esta empresa esta ditigida por: $pre");
-   print("el numero de atencion al cliente es: $num1");
-   print("esta empresa cuenta con unos: $num2 empleados");
-  
   } 
+  String generar_codigo()=>pais!.substring(0,2)+presidente!.substring(0,3)+numero.toString().substring(0,4)+numero_empleados.toString().substring(0,3);
+ 
+  void cantidad_de_caracteres(){
+   int cantidad_pais=pais!.length;
+   int cantidad_presidente=presidente!.length;
+   int cantidad_numero= numero.toString().length;
+   int cantidad_numero_empleados=numero_empleados!.toString().length;
+   print("----------------------------------------");
+   print("cantidad de caracteres:");
+   print("  pais: $cantidad_pais");
+   print("  presidente: $cantidad_presidente");
+   print("  numero de contacto:$cantidad_numero");
+   print("  numero de emoleados: $cantidad_numero_empleados");
+    
+  }
  }
  ```
  
