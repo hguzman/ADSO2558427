@@ -1,4 +1,4 @@
-´´´
+```
 void main(){
   Empresa1 riot= new Empresa1.d(p:"EE.UU",pre:"Nicolo Laurent",num1:018000,num2:5600);
   
@@ -27,4 +27,4 @@ class Empresa1 extends Empresas{
 
   } 
  }
- 
+ ´´´
