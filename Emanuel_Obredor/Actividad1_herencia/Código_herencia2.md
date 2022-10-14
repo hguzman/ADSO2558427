@@ -4,7 +4,7 @@ void main(){
   for(int i = 0; i < 5; i++){
     Empresa empresa = Empresa("Colombia", "Centro", 1233);
     empresa.cantCaracteres();
-    print(empresa.generarCodigo()); 
+    print('    CODIGO: ${empresa.generarCodigo()}'); 
   }
 }
 
@@ -21,7 +21,11 @@ class Empresa{
     int cantPais = pais!.length;
     int cantNumero = numero!.toString().length;
     int cantOficina = oficina!.length;
-    print('La cantidad de caracteres del pais es: $cantPais, del numero: $cantNumero, de la oficina: $cantOficina');
+    print('''-----
+    EMPRESA
+    La cantidad de caracteres del pais es: $cantPais.
+    La cantidad de caracteres del numero: $cantNumero. 
+    La cantidad de caracteres de la oficina: $cantOficina''');
   }
   
   Empresa(this.pais, this.oficina, this.numero);
