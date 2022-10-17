@@ -2,9 +2,6 @@
 
 ```
 void main() {
-  /*List pais = ['Colombia', 'Chile', 'Peru'];
-  List oficina = ['Parque central', 'Jockey Plaza', 'Mall Plaza Trebol'];
-  List numero = [667145, 3065414, 81482];*/
   List empresas = [
     {'ciudad': 'Colombia', 'numero': 667145, 'oficina': 'Parque central'},
     {'ciudad': 'Chile', 'numero': 3065414, 'oficina': 'Jockey Plaza'},
