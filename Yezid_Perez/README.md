@@ -17,3 +17,5 @@
 ![ejercicio ciclo while2](/Ciclo_while/ejercicio_datos.md)
 ![ejericio orientado a objetos](/Yezid_Perez/OOP/estructura%20objeto.md)
 ![ejericio opp metodos y constructor](/Yezid_Perez/OOP/metados%20y%20constructor.md)
+![ejericio opp herencia](/Yezid_Perez/OOP/Herencia%20empresa.md)
+![ejericio opp jerearquia de herencia](/Yezid_Perez/OOP/Herencia%20mamiferos.md)
