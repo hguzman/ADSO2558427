@@ -18,3 +18,4 @@ Información Basica
 - [Ejercicio busqueda](/breitner/ejercicio2/README.md)
 - [Ejercicio dartpad](/breitner/ejercicio%204/README.md)
 - [Ejercicio dartpad #2](/breitner/ejercicio%205/README.md)
+- [Ejercicio dartpad #2](/breitner/ejercicio%206%20y%207%20de%20dart/README.md)
