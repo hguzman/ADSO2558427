@@ -18,3 +18,4 @@ Información Basica
 - [ejercicio ciclo mietras que 2](ejercicio2.md)
 - [ejercicio dart](ejercicioDARTPAD.md)
 - [ejercicio dart2](ejercicioDARTPAD2.md)
+- [ejercicio static and implements](implments%20and%20static.md)
