@@ -30,3 +30,5 @@ Información Basica
 
 - [Funciones manejo de cadenas para caracteres en Dart](/jhonSantander/manejoCadenasDart/README.md)
 
+- [Clase abstracta y metodo estatico](/jhonSantander/claseAbstractometodoStatic/README.md)
+
