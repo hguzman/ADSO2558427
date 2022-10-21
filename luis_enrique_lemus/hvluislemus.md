@@ -19,4 +19,5 @@ Información Basica
 - [Ejercicio Buscador de Datos por medio de la Cedula](buscadordedatos.md)
 - [Ejercicio 4](exercise4.md)
 - [Ejercicio 5](exercise5.md)
+- [Ejercicio Dart, Extends and Static](Dart_Static.md)
 
