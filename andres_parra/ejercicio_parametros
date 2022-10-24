@@ -1,3 +1,4 @@
+~~~
 void main() {
   Person person = new Person(nombre: "Andres", sexo: "Masculino");
   person.apellido = "Parra";
@@ -22,3 +23,4 @@ class Person {
     print('Terminara su formación a la edad a los $n años');
   }
 }
+~~~
