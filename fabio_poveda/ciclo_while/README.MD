@@ -38,4 +38,4 @@ ___
 
 # Diagrama de flujo
 
-![Ver diagrama](/ciclo_while/img/FlowchartDiagram1.jpg)
+![Ver diagrama](/fabio_poveda/ciclo_while/img/FlowchartDiagram1.jpg)
