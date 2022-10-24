@@ -20,4 +20,7 @@ Información Basica
 - [codigo objeto](https://github.com/Cristian-pacheco/ADSO2558427/blob/2558427/cristianpacheco/objeto.md)
 - [codigo contructor](https://github.com/Cristian-pacheco/ADSO2558427/blob/2558427/cristianpacheco/contructor.md)
 - [formulario](https://github.com/Cristian-pacheco/ADSO2558427/blob/2558427/cristianpacheco/formulario.md)
-- [contructor](https://github.com/Cristian-pacheco/ADSO2558427/blob/2558427/cristianpacheco/contructor.md)
+- [herencia](https://github.com/Cristian-pacheco/ADSO2558427/blob/2558427/cristianpacheco/Herencia.md)
+- [codigo animales #1](https://github.com/Cristian-pacheco/ADSO2558427/blob/2558427/cristianpacheco/animal.md)
+- [codigo animales #2](https://github.com/Cristian-pacheco/ADSO2558427/blob/2558427/cristianpacheco/animales2.md)
+-
