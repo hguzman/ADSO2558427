@@ -1,4 +1,4 @@
-
+```
 Private Sub btnbuscar_Click()
     frmbuscar.Show
     btneditar.Enabled = True
@@ -78,4 +78,4 @@ Private Sub btnnuevo_Click()
     reg.Cells(1, 16) = reg.Cells(1, 16) + 1
     reg.Cells(2, 16) = reg.Cells(1, 16)
 End Sub
-
+```
