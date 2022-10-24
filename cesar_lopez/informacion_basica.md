@@ -19,7 +19,7 @@ Información Basica
 - [ejercicio formulario](ejercicio3.md)
 - [ejercio dart1](ejercicio4.md)
 - [ejercio dart2](ejercicio5.md)
--[ejercicio dart3](ejercicio6.md)
--[ejercicio dart4](ejercicio7.md)
+- [ejercicio dart3](ejercicio6.md)
+- [ejercicio dart4](ejercicio7.md)
 
 
