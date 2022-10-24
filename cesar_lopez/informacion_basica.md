@@ -16,4 +16,6 @@ Información Basica
 ## Ejercicios
 - [EJERCICIO](ejercicio.md)
 - [ejercicio numero 2](ejercicio2.md)
-- [ejercio numero 4](ejercicio4.md)
+- [ejercicio formulario](ejercicio3.md)
+- [ejercio dart1](ejercicio4.md)
+- [ejercio dart2](ejercicio5.md)
