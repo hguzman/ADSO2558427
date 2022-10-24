@@ -14,7 +14,7 @@ Información Basica
 | **GitHub** | https://github.com/angelcastro0923 |
 
 ## Ejercicios
-- [Ejercicio Ciclo Mientras que](ejercicio.md)
+- [Ejercicio Ciclo Mientras que](ejercicios.md)
 - [segundo ejercicio ciclo mientras que](ejercicio2.md)
 - [ejercicio formulario](ejercicio3.md)
 - [ejercicio dart](ejercicio4.md)
