@@ -13,9 +13,7 @@ Información Basica
 | **Email** | jdhernandez032703@gmail.com|
 | **GitHub** | https://github.com/juanhsd |
 
-## Ejercicios
-- [Ejercicio Ciclo Mientras que](ejercicio.md)
-- [Base de datos](exercise2.md)
-- [Ejercicio 4](exercise4.md)
+
+
 
 

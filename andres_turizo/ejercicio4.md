@@ -1,4 +1,4 @@
-~~
+~~~
 void main(){
   Operacion operacion = Operacion(); 
   operacion.num1 = 2.0; 
@@ -27,4 +27,4 @@ class Operacion{
     
   }
 }
-~~
+~~~
