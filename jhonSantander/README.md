@@ -21,3 +21,14 @@ Información Basica
 - [Ejercicio Ciclo mientras que buscador](/jhonSantander/whileBaseDatos/README.md)
 
 - [Ejercicio formulario en VBA](/jhonSantander/Formulario/README.md)
+
+- [Ejercicio en Dart](/jhonSantander/dartMetodos/README.md)
+
+- [Constructores y parametros](/jhonSantander/constructorParametros/README.md)
+
+- [Herencia en Dart](/jhonSantander/herencia/README.md)
+
+- [Funciones manejo de cadenas para caracteres en Dart](/jhonSantander/manejoCadenasDart/README.md)
+
+- [Clase abstracta y metodo estatico](/jhonSantander/claseAbstractometodoStatic/README.md)
+

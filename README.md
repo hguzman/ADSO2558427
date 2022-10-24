@@ -3,7 +3,7 @@
 1. [Andrés David Turizo](/andres_turizo/hojadevida.md)
 2. [Andrés Felipe Parra](/andres_parra/hojadevida)
 3. [Breitner Daniel Mora](/breitner/README.md)
-4. [Cristian Pacheco](/breitner/README.md)
+4. [Cristian Pacheco](/cristianpacheco/datos.md)
 5. [Fabio Alberto Poveda](/fabio_poveda/README.MD)
 6. [Jaider Camilo Rojas](/Jaidercamiloo/README.md)
 7. [Jose Alberto Argote](/joseargote/joseargote.md)
@@ -15,5 +15,4 @@
 13. [Wilmer Nicolas Carmona](/wilmer_carmona/informacion_basica.md)
 14. [Yezid Perez Pertuz](/Yezid_Perez/README.ME)
 15. [Zharick Carolina Donado](/zharick_donado/hojadevida.md)
-
 
