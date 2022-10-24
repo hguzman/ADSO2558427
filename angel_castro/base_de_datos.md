@@ -16,5 +16,8 @@ Información Basica
 ## Ejercicios
 - [Ejercicio Ciclo Mientras que](ejercicio.md)
 - [segundo ejercicio ciclo mientras que](ejercicio2.md)
+- [ejercicio formulario](ejercicio3.md)
 - [ejercicio dart](ejercicio4.md)
 - [2ejercicio dart](ejercicio5.md)
+- [ejercicio dart herencia](ejercicio6.md)
+- [ejercicio dart empresas](ejercicio7.md)
