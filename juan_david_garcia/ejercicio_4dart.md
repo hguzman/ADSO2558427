@@ -7,7 +7,7 @@ void main() {
  perro.emitirSonido();
  gato.emitirSonido();
  perro.nombre = "Tobi";
- print(perro.nombre);
+ print("El nombre del perro es: ${perro.nombre}");
  Carnivoro.imc(10,10);  
 }
 abstract class Animal{
