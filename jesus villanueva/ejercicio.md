@@ -34,6 +34,6 @@ Sub ejercicio()
  MsgBox " la cantidad de estudiantes que no donaron" & " (" & nodar & ")" & " estudiantes"
  MsgBox " los estudiantes que donaron un cantidad superior a $10.000:" & "(" & darsup & ")" & " estudiantes "
 
- [diagrama de flujo](diagrama.jpg)
+ [diagrama de flujo](DiagramaCorrection.jpg)
  
 End Sub
