@@ -1,3 +1,4 @@
+~~~
 Sub ejercicio()
  dar = 0
  darsup = 0
@@ -37,3 +38,4 @@ Sub ejercicio()
  [diagrama de flujo](DiagramaCorrection.jpg)
  
 End Sub
+~~~
