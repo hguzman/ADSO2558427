@@ -14,7 +14,9 @@ Información Basica
 | **GitHub** | https://github.com/Editlopeztafur |
 [ejercicio 1](/edit_lopez/ejercicios.md)
 
-[Ejercicio 2](/edit_lopez/ejercicios2.md)
+[ejercicio 2](/edit_lopez/ejercicios2.md)
+
+[ejercicio 3](/edit_lopez/ejercicio%203.md/README.md)
 
 [Ejercicio 4](/edit_lopez/ejercicio4.md)
 
