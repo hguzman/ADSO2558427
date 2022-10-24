@@ -15,10 +15,4 @@ Información Basica
 
 ## Ejercicios
 - [Ejercicio Ciclo Mientras que](mientrasque.md)
-- [Ejercicio Buscador de Cedula](buscadorcedula.md)
-- [Ejercicio Buscador de Datos por medio de la Cedula](buscadordedatos.md)
-- [Ejercicio 4](exercise4.md)
-- [Ejercicio 5](exercise5.md)
-- [1 Ejercicio de Dart](dartexercise1.md)
-- [2 Ejercicio de Dart](dartexercise2.md)
-- [Ejercicio Dart, Extends and Static](Dart_Static.md)
+
