@@ -1,3 +1,4 @@
+~~~
 Sub recolecta()
     estudianteAbono = 0
     estudianteNoAbono = 0
@@ -26,4 +27,4 @@ Sub recolecta()
     MsgBox ("Promedio es $" & promedio)
     MsgBox (estudianteSolidario & " dieron mas de $10.000")
 End Sub
-
+~~~

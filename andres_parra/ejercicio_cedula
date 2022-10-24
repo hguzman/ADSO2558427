@@ -1,3 +1,4 @@
+~~~
 Sub tabla()
     r = 1
     n = 1
@@ -16,3 +17,4 @@ Sub tabla()
     Wend
 
 End Sub
+~~~

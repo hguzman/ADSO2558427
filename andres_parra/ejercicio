@@ -1,3 +1,4 @@
+~~~
 Sub prueba()
   n = 0
   c = 0
@@ -23,5 +24,6 @@ Sub prueba()
   MsgBox "los estudiantes que aportaron más de $10.000 " & p & " estudiantes"
   MsgBox "se ha alcanzado la meta"
 End Sub
+ ~~~
 
 ![diagrama_de_flujo](<a href="https://ibb.co/bFLK4HM"><img src="https://i.ibb.co/gdwR0vL/Flowchart-Diagram1.jpg" alt="Flowchart-Diagram1" border="0"></a>)
