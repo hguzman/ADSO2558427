@@ -19,3 +19,7 @@ Información Basica
 - [Formulario](formulario.md)
 - [Ejercicio 1 DartPad](Ejercicio_Dart.md)
 - [Ejercicio 2 DartPad](ejercicio_4.md)
+- [Herencia](ejercicio_Herencia.md)
+- [Ejercicio de empresa](ejerciciodeempresa.md)
+- [Extends](ejercicio_4dart.md)
+
