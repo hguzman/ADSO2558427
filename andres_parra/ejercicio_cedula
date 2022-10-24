@@ -1,18 +1,18 @@
 Sub tabla()
-r = 1
-n = 1
-a = Int(InputBox("cedula"))
-While r = 1
-If planilla.Cells(n, 1) = a Then
-r = r + 1
-MsgBox planilla.Cells(n, 2)
-Else
-n = n + 1
-End If
-If n = 20 Then
-MsgBox "no se ha encontrado"
-r = 2
-End If
-Wend
+    r = 1
+    n = 1
+    a = Int(InputBox("cedula"))
+    While r = 1
+        If planilla.Cells(n, 1) = a Then
+            r = r + 1
+            MsgBox planilla.Cells(n, 2)
+        Else
+            n = n + 1
+        End If
+    If n = 20 Then
+        MsgBox "no se ha encontrado"
+        r = 2
+    End If
+    Wend
 
 End Sub
