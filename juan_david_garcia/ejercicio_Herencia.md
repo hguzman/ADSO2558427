@@ -17,7 +17,7 @@ void main(){
   leon.peso = "181 Kg";
   print("""
   El nombre del leon es: ${leon.nombre}
-  La edad  es: ${leon.peso}
+  La edad  es: ${leon.edad}
   El peso es ${leon.peso}
   """);
   
