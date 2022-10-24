@@ -1,16 +1,16 @@
 ```
 void main(){
-  Empresa empresa = new Empresa(pais: "Colombia", numero: 200, oficina: "Pentecostal");
+  Empresa empresa = new Empresa(pais: "Colombia", numero: 200244, oficina: "Pentecostal");
     empresa.cantCaracteres();
     print( """
     El codigo es: ${empresa.generarCodigo()}
     """);
-  Empresa empresa1 = new Empresa(pais: "Mexico", numero: 125, oficina: "La trinidad");
+  Empresa empresa1 = new Empresa(pais: "Mexico", numero: 125345, oficina: "La trinidad");
     empresa1.cantCaracteres();
     print("""
     El codigo es: ${empresa1.generarCodigo()}
     """);
-  Empresa empresa2 = new Empresa(pais: "Marruecos", numero: 666, oficina: "Garena");
+  Empresa empresa2 = new Empresa(pais: "Marruecos", numero: 666343, oficina: "Garena");
     empresa2.cantCaracteres();
     print("""
     El codigo es: ${empresa2.generarCodigo()}
