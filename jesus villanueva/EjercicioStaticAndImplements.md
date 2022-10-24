@@ -29,6 +29,7 @@ abstract class Animal{
 }
 
 class Gato implements Animal{
+  @override
   void emitirSonido(){
     print("el gato hace: Miauuuuuuuu");
   }
