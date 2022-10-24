@@ -7,3 +7,10 @@
 - [EXERCISE CONSTRUCTOR](ejercicio5.md)
 - [EXERCISE COMPANY INHERITANCE](ejercicio6.md)
 - [EXERCISE ANIMALS INHERITANCE](ejercicio7.md)
+
+
+# Contenido
+
+- [Hoja de vida]()
+- [Ejercicio1]()
+
