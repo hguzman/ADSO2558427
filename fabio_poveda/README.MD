@@ -13,8 +13,10 @@ Información Basica
 | **Email** | fabio_poveda@hotmail.com |
 | **GitHub** | https://github.com/FabioP0 |
 
-![Ejercicio #1 Aporte de estudiantes](/fabio_poveda/ciclo_while/README.MD)
+![Ejercicio número: 1. Aporte de estudiantes](/fabio_poveda/ciclo_while/README.MD)
 
-![Ejercicio #2 Busqueda por cédula](/fabio_poveda/search_exercise/README.MD)
+![Ejercicio número: 2. Busqueda por cédula](/fabio_poveda/search_exercise/README.MD)
 
-![Ejercicio #4 Operaciones matematicas en Dart](/fabio_poveda/Exercise%20%234/README.MD)
+![Ejercicio número: 4 Operaciones en Dart](/fabio_poveda/Exercise_4/README.MD)
+
+![Ejercicio número: 5 Segundo ejercicio en Dart](/fabio_poveda/Exercise_5/README.MD)
