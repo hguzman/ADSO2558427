@@ -20,3 +20,4 @@ Información Basica
 - [codigo objeto](https://github.com/Cristian-pacheco/ADSO2558427/blob/2558427/cristianpacheco/objeto.md)
 - [codigo contructor](https://github.com/Cristian-pacheco/ADSO2558427/blob/2558427/cristianpacheco/contructor.md)
 - [formulario](https://github.com/Cristian-pacheco/ADSO2558427/blob/2558427/cristianpacheco/formulario.md)
+- [contructor](https://github.com/Cristian-pacheco/ADSO2558427/blob/2558427/cristianpacheco/contructor.md)
