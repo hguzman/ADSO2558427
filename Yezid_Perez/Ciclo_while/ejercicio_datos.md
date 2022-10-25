@@ -1,3 +1,4 @@
+```
 Sub datos()
    y = 2
    cedula = Int(InputBox("digite cedula: "))
@@ -16,3 +17,4 @@ Sub datos()
    Wend
       
 End Sub
+```

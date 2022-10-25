@@ -1,5 +1,5 @@
 / YEZID PEREZ PERTUZ
-+Información Basica
++ Información Basica
 
 | Campo | Información |
 |--------|------------|
@@ -13,10 +13,11 @@
 | **Email** | perezyezid34@gmail.com |
 | **GitHub** | https://github.com/Developeryezid |
 
-![ejercicio ciclo mientras que](/Ciclo_while/README.ME)
-![ejercicio ciclo while2](/Ciclo_while/ejercicio_datos.md)
-![ejercicio orientado a objetos](/Yezid_Perez/OOP/estructura%20objeto.md)
-![ejercicio oop metodos y constructor](/Yezid_Perez/OOP/metados%20y%20constructor.md)
-![ejercicio oop herencia](/Yezid_Perez/OOP/Herencia%20empresa.md)
-![ejercicio oop jerarquia de herencia](/Yezid_Perez/OOP/Herencia%20mamiferos.md)
-![ejercicio oop abstracta y estatico](/Yezid_Perez/OOP/Clase%20abstracta%20y%20estatico.md)
+![exercise cycle while collection](/Yezid_Perez/Ciclo_while/while_Recaudo.md)
+![exercise cycle while2](/Yezid_Perez/Ciclo_while/ejercicio_datos.md)
+![exercise exercise form VBA](/Yezid_Perez/Ciclo_while/Formulario_VBA.md)
+![exercise object oriented](/Yezid_Perez/OOP/estructura%20objeto.md)
+![exercise oop Methods and constructor](/Yezid_Perez/OOP/metados%20y%20constructor.md)
+![exercise oop company heritage](/Yezid_Perez/OOP/Herencia%20empresa.md)
+![exercise oop inheritance hierarchy](/Yezid_Perez/OOP/Herencia%20mamiferos.md)
+![exercise oop abstract y estatic](/Yezid_Perez/OOP/Clase%20abstracta%20y%20estatico.md)

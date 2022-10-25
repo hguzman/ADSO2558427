@@ -37,5 +37,5 @@ End Sub
 
 # Diagrama de flujo
 
-![Diagrama de flujo](/Ciclo_while/IMG/Diagram_while.jpg)
+![Diagrama de flujo](/Yezid_Perez/Ciclo_while/IMG/Diagram_while.jpg)
 
