@@ -1,6 +1,8 @@
 # ZHARICK CAROLINA DONADO CALIZ
 Información Basica
 
+| Campo | Información |
+| --- | --- |
 | **Identificación**  | 1043660098 |
 | **Nombre completo** | Zharick Carolina Donado Caliz |
 | **Edad**            | 18 |
