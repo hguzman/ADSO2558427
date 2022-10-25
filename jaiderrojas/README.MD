@@ -16,6 +16,6 @@ Información Basica
 ## Ejercicios
 - [Ejercicio Ciclo Mientras que](/jaiderrojas/ciclowhile/README.MD)
 - [Ejercicio busqueda](/jaiderrojas/ejercicio2/README.MD)
-- [Ejercicio dart](/ADSO2558427/jaiderrojas/ejercicio4/README.MD)
+- [Ejercicio dart](/jaiderrojas/ejercicio4/README.MD)
 - [Ejercicio dart2](/jaiderrojas/ejercicio5/README.MD)
 
