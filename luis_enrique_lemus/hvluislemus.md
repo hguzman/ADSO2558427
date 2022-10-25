@@ -13,12 +13,15 @@ Información Basica
 | **Email** | luislemus0109@gmail.com |
 | **GitHub** | https://github.com/Luislemus0109 |
 
-## Ejercicios
-- [Ejercicio Ciclo Mientras que](mientrasque.md)
-- [Ejercicio Buscador de Cedula](buscadorcedula.md)
-- [Ejercicio Buscador de Datos por medio de la Cedula](buscadordedatos.md)
-- [Ejercicio 4](exercise4.md)
-- [Ejercicio 5](exercise5.md)
-- [1 Ejercicio de Dart](dartexercise1.md)
-- [2 Ejercicio de Dart](dartexercise2.md)
-- [Ejercicio Dart, Extends and Static](Dart_Static.md)
+# Ejercicios de Programacion
+## Ejercicios de Visual Basic
+- [Ejercicio Ciclo Mientras que](Visual_Basic/mientrasque.md)
+- [Ejercicio Buscador de Cedula](Visual_Basic/buscadorcedula.md)
+- [Ejercicio Buscador de Datos por medio de la Cedula, Formulario](Visual_Basic/buscadordedatos.md)
+
+## Ejercicios de Dart
+- [Dart, Objetos, clases y Metodos](Dart/dart_exercise1.md)
+- [Tipos de parametros y constructores](Dart/dart_exercise2.md)
+- [Herencia](Dart/dart_exercise3.md)
+- [Manejo de cadenas](Dart/dart_exercise4.md)
+- [Clase abstracta y metodo estatico](Dart/dart_exercise5.md)

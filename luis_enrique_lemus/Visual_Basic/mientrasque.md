@@ -1,4 +1,6 @@
-# Algoritmo
+
+## Mientras Que
+### Algoritmo
 
 ~~~
 
@@ -29,7 +31,7 @@ End Sub
 ~~~
 
 
-# Diagrama de Flujo
+### Diagrama de Flujo
 
 
 
