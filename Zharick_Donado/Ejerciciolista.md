@@ -1,7 +1,7 @@
 ### Ejercicio en dartpad con lista 
 
 ~~~
-oid main(){
+void main(){
 
   List listapais = ['Argentina', 'Colombia', 'Mexico']; 
   List listanumero = [1043660098, 3242828122, 8566820]; 
