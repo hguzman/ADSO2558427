@@ -1,5 +1,7 @@
 ## Camilo Lafaurie
 ## Clase abstracta y metodo estatico 
+
+~~~
 void main() {
   
   Vaca vaca = Vaca();
@@ -48,6 +50,5 @@ class Perro extends Carnivoro implements Animal{
     print("El sonido del perro es: GuaU guaU guaU");
   }
 }
-
 
 ~~~
