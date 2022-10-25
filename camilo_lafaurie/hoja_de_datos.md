@@ -16,13 +16,13 @@ Información Basica
 ## Ejercicios de Programacion
 
 # Ejercicio de Visual Basic
-![evidencia ingresos](VisualBasic/evidencia_ingre.md)
-![evidencia recolecta](VisualBasic/evidencia_rec.md)
-![evidencia formulario](VisualBasic/evidencia_form.md)
+-[evidencia ingresos](VisualBasic/evidencia_ingre.md)
+-[evidencia recolecta](VisualBasic/evidencia_rec.md)
+-[evidencia formulario](VisualBasic/evidencia_form.md)
 
 # Ejercicio de Dart
-![evidencia dart objetos, clases y metodos](Dart/Dart_objetos_clases_y_metodos.md)
-![evidencia dart herencia](Dart/herencia.md)
-![evidencia dart manejo de cadenas](Dart/manejo_de_cadenas.md)
-![evidencia dart metodos estatico y clase abstracta](Dart/metodoestatico_y_claseabstracta.md)
-![evidencia dart tipos de parametros y constructores](Dart/tipos_de_parametros_y_constructores.md)
+-[evidencia dart objetos, clases y metodos](Dart/Dart_objetos_clases_y_metodos.md)
+-[evidencia dart herencia](Dart/herencia.md)
+-[evidencia dart manejo de cadenas](Dart/manejo_de_cadenas.md)
+-[evidencia dart metodos estatico y clase abstracta](Dart/metodoestatico_y_claseabstracta.md)
+-[evidencia dart tipos de parametros y constructores](Dart/tipos_de_parametros_y_constructores.md)
