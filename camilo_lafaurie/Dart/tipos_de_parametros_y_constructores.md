@@ -15,7 +15,7 @@ void main() {
   person.edadMas(4);
 }
 
-class Persona{
+class Person{
   String? nombre, sexo, apellido;
   int? edad;
   
