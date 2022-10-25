@@ -1,4 +1,4 @@
-# Ronaldo Gomez castro
+# Algoritmo formulario visual basic
 
 Formulario Menu:
 

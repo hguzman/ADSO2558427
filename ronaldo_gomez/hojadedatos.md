@@ -12,10 +12,15 @@ Información Basica
 | **Email** | ronaldogomez1101@gmail.com |
 | **GitHub** | https://github.com/RonaldoGomezCastro2558427 |
 
-## Ejercicios
-- [Evidencia impuesto](evidencia_impuesto.md)
-- [Evidencia recolecta](evidencia_recolecta.md)
+# Ejercicios de programacion
+## Ejercicios de programacion de visual basic
+- [Evidencia recolecta con While](evidencia_recolecta.md)
+- [Ejercicio de buscador de cedula](buscador_de_cedula_mientras.md)
 - [Evidencia formulario](evidencia_formulario.md)
-- [Evidencia dart](evidencia_dart.md)
-- [Evidencia dart 1](evidencia_dart1.md)
-- [Evidencia dart 2](evidencia_dart2.md)
+- [Evidencia impuesto](evidencia_impuesto.md)
+
+## Ejercicios del lenguaje de programacion Dart
+- [Evidencia dart operaciones basicas](evidencia_dart_operaciones.md)
+- [Evidencia parametros y constructores dart](tipos_parametros_y_constructores.md)
+- [Evidencia dart herencia](evidencia_dart_herencia.md)
+- [Evidencia dart manejo de cadenas](evidencia_dart_cadenas.md)

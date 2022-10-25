@@ -1,4 +1,4 @@
-# Ronaldo Gomez castro
+# Algoritmo mientras que
 
 ~~~~
 Sub inicio()

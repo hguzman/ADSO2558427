@@ -1,6 +1,5 @@
-# Programa de calculo de impuesto 26/08/22
+# Programa de calculo de impuesto 
 
-Ejercicio del ingreso anual
 
 ~~~
 
