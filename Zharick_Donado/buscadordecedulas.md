@@ -2,7 +2,6 @@
 
 ```
 Sub tarea()
-
             ID = True
             fila = 2
             a = 0
