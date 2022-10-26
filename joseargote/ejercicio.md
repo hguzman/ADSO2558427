@@ -1,3 +1,4 @@
+```
 Sub proyecto()
   h = InputBox("por favor ingrese la cantidad:")
   If h < 1000 Then
@@ -29,3 +30,4 @@ Sub proyecto()
         End If
     End If
 End If
+```
