@@ -32,11 +32,11 @@ Else
                     If ingresoanual > 10000001 Then
                     total = ingresoanual * 0.25
                     MsgBox ("El total a pagar es: ") & total
-		    
+		    End If
                 End If
             End If
         End If
     End If
 End If
-
+End Sub
 ~~~
