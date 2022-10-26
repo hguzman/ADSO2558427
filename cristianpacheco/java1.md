@@ -1,3 +1,4 @@
+```
 public class HelloWorld{
 
      public static void main(String []args){
@@ -30,3 +31,4 @@ class Person{
          return imc;
      }
 }
+```
