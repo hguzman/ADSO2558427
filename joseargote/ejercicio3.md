@@ -1,3 +1,4 @@
+```
 Sub inicio()
      For x = 1 To 15
    c = InputBox(" ingrese un nombre: ")
@@ -7,3 +8,4 @@ Sub inicio()
           Next x
            MsgBox ("Muchas gracias")
 end sub 
+```
