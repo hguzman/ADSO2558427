@@ -22,5 +22,5 @@ Información Basica
 - [Herencia](ejercicio_Herencia.md)
 - [Ejercicio de empresa](ejerciciodeempresa.md)
 - [Extends](extends.md)
-- [Extends](Ejercicio%20Java.md)
+- [Ejercicio Public - private](Ejercicio%20Java.md)
 
