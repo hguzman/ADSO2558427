@@ -1,4 +1,4 @@
-# Ejercicio número 2 en Dart
+# Tipos de parametros y constructores en Dart
 
 ~~~
 void main() {
@@ -17,12 +17,13 @@ class Person {
 Person ({String? nom, String? sex}){
   nombre = nom;
   sexo = sex;
-  
  }
+
  String? nombrecompleto(){
     String r = nombre! + ' ' + apellido!;
     return r;
-        }
+  }
+  
   void edadMas({num1}){
     int eda = edad! + 3; 
     print('${eda}');

@@ -1,4 +1,4 @@
-# Operaciones en Dart
+# Objetos, clases, y métodos en Dart
 
 ~~~
 void main() {
