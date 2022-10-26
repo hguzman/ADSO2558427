@@ -1,6 +1,6 @@
 # Algoritmo mientras que
 
-~~~~
+~~~
 Sub inicio()
 
     abono = 0
