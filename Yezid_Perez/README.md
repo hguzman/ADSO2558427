@@ -14,6 +14,7 @@
 | **GitHub** | https://github.com/Developeryezid |
 
 -[exercise cycle while collection](/Yezid_Perez/Ciclo_while/while_Recaudo.md)
+
 -[exercise cycle while2](/Yezid_Perez/Ciclo_while/ejercicio_datos.md)
 -[exercise exercise form VBA](/Yezid_Perez/Ciclo_while/Formulario_VBA.md)
 -[exercise object oriented](/Yezid_Perez/OOP/estructura_objeto.md)
