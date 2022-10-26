@@ -1,3 +1,5 @@
+~~~ 
+
 
 Sub evento_escolar()
 
@@ -27,5 +29,7 @@ Sub evento_escolar()
     MsgBox "La cantidad de estudiantes que no donaron " & "(" & no_abono & ")" & " Estudiantes"
     MsgBox "Los estudiantes que aportaron una cantidad superior a $10.000:   " & "(" & csuperior & ")" & " Estudiantes"
 End Sub
+
+~~~ 
 
 ![Diagrama](diagrama.jpg) 
