@@ -1,3 +1,4 @@
+```
 void main(){
    Conejo conejo = Conejo();
     conejo.nombre = "cacio";
@@ -65,3 +66,4 @@ class Omnivoro extends Animal{
 class Hombre extends Omnivoro{
   String? apellido;
 }
+```
