@@ -22,3 +22,4 @@ Información Basica
 - [Ejercicio de empresas](dart2.md)
 - [EJercicio de animales](dart3.md)
 - [Ejercico extends & implements](extends.md)
+- [Ejercicio private & public java](java1.md)
