@@ -1,4 +1,4 @@
-# Ronaldo Gomez castro
+# ALgoritmo Dart, Objetos, clases y Metodos
 
 ~~~
 void main() {

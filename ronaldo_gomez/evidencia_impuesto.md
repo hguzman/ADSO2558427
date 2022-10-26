@@ -1,6 +1,5 @@
-# Programa de calculo de impuesto 26/08/22
+# Programa de calculo de impuesto 
 
-Ejercicio del ingreso anual
 
 ~~~
 
@@ -33,11 +32,11 @@ Else
                     If ingresoanual > 10000001 Then
                     total = ingresoanual * 0.25
                     MsgBox ("El total a pagar es: ") & total
-		    
+		    End If
                 End If
             End If
         End If
     End If
 End If
-
+End Sub
 ~~~
