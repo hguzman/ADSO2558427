@@ -32,3 +32,5 @@ Información Basica
 
 - [Clase abstracta y metodo estatico](/jhonSantander/claseAbstractometodoStatic/README.md)
 
+- [Encapsulamiento - alcance public, private - metodos Setter y Getter](/jhonSantander/encapsulamiento/README.md)
+
