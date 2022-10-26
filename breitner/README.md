@@ -15,5 +15,9 @@ Información Basica
 
 ## Ejercicios
 - [Ejercicio Ciclo Mientras que](/breitner/ciclowhile/README.md)
-- [Ejercicio busqueda](/breitner/ejercicio2/README.md)
-- [Ejercicio dartpad](/breitner/ejercicio%204/README.md)
+- [Ejercicio vba #2](/breitner/ejercicio_2/README.md)
+- [Ejercicio  formulario vba #3](/breitner/ejercicio_3/README.md)
+- [Ejercicio dartpad #4](/breitner/ejercicio_4/README.md)
+- [Ejercicio metodo constructor #5](/breitner/ejercicio_5/README.md)
+- [Ejercicio dartpad # 6 dart](/breitner/ejercicio_6/README.md)
+- [Ejercicio dartpad # 7 dart](/breitner/ejercicio_7/README.md)
