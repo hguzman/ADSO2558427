@@ -24,3 +24,5 @@ Información Basica
 [ejerccio  5](/edit_lopez/ejercicio5.md)
 
 [ejercicio 6](/edit_lopez/ejercicio6.md)
+
+[ejercicio 7](/edit_lopez/ejercicio7.md)
