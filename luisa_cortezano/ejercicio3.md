@@ -21,9 +21,9 @@ Private Sub btnbc_Click()
         txttel.Enabled = False
     Wend
     fila = fila + 1
-
 End Sub
-
+```
+```
 Private Sub btnedt_Click()
     fila = registro.Cells(1, 6)
     sw = True
@@ -47,8 +47,8 @@ Private Sub btnedt_Click()
        txttel.Enabled = True
     Wend
 End Sub
-
-
+```
+```
 Private Sub btnelm_Click()
     frmeli.Show
     
@@ -76,9 +76,9 @@ Private Sub btngr_Click()
     txtape.Enabled = False
     txtcedu.Enabled = False
     txttel.Enabled = False
-
 End Sub
-
+```
+```
 Private Sub btnnv_Click()
     txtnomb.Enabled = True
     txtape.Enabled = True
@@ -93,9 +93,9 @@ Private Sub btnnv_Click()
     btnelm.Enabled = False
     txtnomb.SetFocus
     registro.Cells(1, 6) = registro.Cells(1, 6) + 1
-   
 End Sub
-
+```
+```
 Private Sub UserForm_Click()
 
 End Sub
@@ -107,9 +107,9 @@ Private Sub btnap_Click()
   txtcedu.Text = ""
   txttel.Text = ""
   MsgBox "los datos se eliminaron"
-
 End Sub
-
+```
+```
 Private Sub btneli_Click()
   fila = registro.Cells(1, 6)
     sw = True
