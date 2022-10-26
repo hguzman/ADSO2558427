@@ -1,3 +1,4 @@
+```
 Private Sub btnBuscar_Click()
          frmbuscar.Show
        btnEditar.Enabled = True
@@ -80,3 +81,4 @@ Private Sub btnnuevo_Click()
     
     
 End Sub
+```
