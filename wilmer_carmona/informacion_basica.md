@@ -16,6 +16,7 @@ Información Basica
 ## Ejercicios
 - [Ejercicio Ciclo Mientras que](ejercicio.md)
 - [ejercicio Ciclo Mientras que buscador de nombre](ejercicio2.md)
+- [Ejercicio del for en excel](ejecicio_for.md)
 - [ejecicio de modulo en excel](ejercicio3ex.md)  
 - [Ejercicio numero uno de dart](ejercicio_dart.md)
 - [ejecicio numero dos de dart](ejercicio_dart2.md)
