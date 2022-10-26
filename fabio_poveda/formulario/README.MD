@@ -17,7 +17,7 @@ Private Sub btnnuevo_Click()
     txtcedula.SetFocus
     datos.Cells(1, 7) = datos.Cells(1, 7) + 1
     datos.Cells(2, 7) = datos.Cells(1, 7)
-~~~
+    
 Private Sub btnGuardar_Click()
     fila = datos.Cells(2, 7)
     datos.Cells(fila, 1) = txtcedula.Text
@@ -36,7 +36,7 @@ Private Sub btnGuardar_Click()
     txtnombre.Enabled = False
     txtcorreo.Enabled = False
     txttelefono.Enabled = False
-~~~
+
 Private Sub btnbuscar_Click()
     frmbuscar.Show
     btneditar.Enabled = True
@@ -45,7 +45,7 @@ Private Sub btnbuscar_Click()
     txtcedula.Enabled = False
     txtcorreo.Enabled = False
     txttelefono.Enabled = False
-~~~
+
 Private Sub btneditar_Click()
     txtnombre.Enabled = True
     txtcedula.Enabled = True
@@ -58,7 +58,7 @@ Private Sub btneditar_Click()
     btneditar.Enabled = False
     btnGuardar.Enabled = True
     txtcedula.Enabled = False
-~~~
+
 Private Sub btneliminar_Click()
     actual = datos.Cells(2, 7)
     datos.Rows(actual).EntireRow.Delete
