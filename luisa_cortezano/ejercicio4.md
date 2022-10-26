@@ -1,14 +1,11 @@
 ```
 void main() {
- 
   Operacion operacion = new Operacion();
   operacion.num1 = 3.5;
   operacion.num2 = 2.0; 
   print('la suma es: ${operacion.sumar()}');
   operacion.restar();
   print('la multiplicacion es: ${operacion.multiplicar()}');
-  
- 
 }
 class Operacion{
   double? num1;
@@ -27,7 +24,6 @@ class Operacion{
   double multiplicar(){
     double m = num1! * num2!; 
     return m;
-  }
-  
+  } 
 }
 ``` 

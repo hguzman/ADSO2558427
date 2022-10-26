@@ -1,13 +1,10 @@
 ```
 void main(){
-  
   Person person = new Person (n: 'andrea ', s: 'femenino');
-  
   person.apellido = 'guitierrez';
   person.edad = 19;
   print('El nombre completo es: ${person.nombreCompleto()}');
   person.edadMas(20);
-  
 }
 class Person{
   String? nombre, apellido, sexo;

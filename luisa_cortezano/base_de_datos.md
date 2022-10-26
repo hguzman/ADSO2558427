@@ -14,7 +14,12 @@ Información Basica
 | **GitHub** | https://github.com/luisafernanda29|
 
 ## Ejercicios
-- [Ejercicio Ciclo Mientras que](ejercicio.md)
-- [Segundo Ejercicio Ciclo Mientras que](ejercicio2.md)
-- [Ejercicio dart](ejercicio4.md)
-- [Ejercicio dart2](ejercicio5.md)
+- [Ejercicio For](ejercicio.md)
+- [Ejercicio Ciclo MQ 1](ejercicio1.md)
+- [Ejercicio Ciclo MQ 2](ejercicio2.md)
+- [Ejercicio Formulario](ejercicio3.md)
+- [Ejercicio Dart, objetos, clases y metodos](ejercicio4.md)
+- [Ejercicio Dart Parametros y constructores](ejercicio5.md)
+- [Ejercicio Dart Herencia](ejercicio6.md)
+- [Ejercicio Dart Cadenas](ejercicio7.md)
+- [Ejercicio Dart Abstracta y Estatico](ejercicio8.md)

@@ -6,20 +6,21 @@ Sub recolecta()
  a = 0
  vs = 0
  
- While tr <= 3000000
-   a = Int(InputBox("ingrese una cantidad"))
-     If a > 0 Then
-          sb = sb + 1
-       If a >= 10000 Then
-          vs = vs + 1
-       End If
-     Else
-          nb = nb + 1
-     End If
-     
- Wend
+ For e = 1 To 3
+  a = Int(InputBox("ingrese una cantidad"))
+    If a >= 1000 Then
+        sb = sb + 1
+      If a >= 10000 Then
+        vs = vs + 1
+      End If
+    Else
+      nb = nb + 1
+    End If
+    
+  tr = tr + a
  
- tr = tr + a
+ Next e
+ 
  promedio = tr / sb
  MsgBox "si abono: " & sb
  MsgBox "no abono: " & nb
@@ -27,8 +28,5 @@ Sub recolecta()
  MsgBox "total: " & tr
  MsgBox "promedio: " & promedio
  
- 
 End Sub
-
 ```
-![diagrama](diagramadeflujo.jpg)
