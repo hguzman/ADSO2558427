@@ -18,4 +18,7 @@ Información Basica
 - [Ejercicio busqueda](/jaiderrojas/ejercicio2/README.MD)
 - [Ejercicio dart](/jaiderrojas/ejercicio4/README.MD)
 - [Ejercicio dart2](/jaiderrojas/ejercicio5/README.MD)
-
+- [Ejercicio dart2](/jaiderrojas/ejercicio6/README.MD)
+- [Ejercicio dart2](/jaiderrojas/ejercicio7/README.MD)
+- [Ejercicio dart2](/jaiderrojas/ejercicio8/README.MD)
+- [Ejercicio dart2](/jaiderrojas/ejercicio9/README.MD)
