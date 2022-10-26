@@ -21,6 +21,5 @@ Información Basica
 - [Ejercicio dart2](/jaiderrojas/ejercicio5/README.MD)
 - [Ejercicio dart3](/jaiderrojas/ejercicio6/README.MD)
 - [Ejercicio dart4](/jaiderrojas/ejercicio7/README.MD)
-- [Ejercicio dart5](/jaiderrojas/ejercicio8/README.MD)
-- [Ejercicio dart6](/jaiderrojas/ejercicio9/README.MD)
+- [Ejercicio dart5](/jaiderrojas/ejercicio9/README.MD)
 
