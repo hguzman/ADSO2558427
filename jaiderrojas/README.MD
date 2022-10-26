@@ -22,3 +22,4 @@ Información Basica
 - [Ejercicio dart2](/jaiderrojas/ejercicio7/README.MD)
 - [Ejercicio dart2](/jaiderrojas/ejercicio8/README.MD)
 - [Ejercicio dart2](/jaiderrojas/ejercicio9/README.MD)
+- [Ejercicio dart2](/jaiderrojas/ejerciciobuscador/README.MD)
