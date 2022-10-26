@@ -1,3 +1,4 @@
+```
 Sub ejercicio()
     x = 2
     sw = True
@@ -11,10 +12,9 @@ Sub ejercicio()
         If x = 20 Then
             MsgBox " su cedula no esta registrada"
             sw = False
-        End If
-    
+        End If  
     x = x + 1
-
     Wend
   
 End Sub
+```

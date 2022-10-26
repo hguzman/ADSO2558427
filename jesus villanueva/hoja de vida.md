@@ -16,6 +16,7 @@ Información Basica
 ## Ejercicios
 - [Ejercicio Ciclo Mientras que](ejercicio.md)
 - [ejercicio ciclo mietras que 2](ejercicio2.md)
+- [formulario](formulario.md)
 - [ejercicio dart](ejercicioDARTPAD.md)
 - [ejercicio dart2](ejercicioDARTPAD2.md)
 - [ejercicio static and implements](EjercicioStaticAndImplements.md)
