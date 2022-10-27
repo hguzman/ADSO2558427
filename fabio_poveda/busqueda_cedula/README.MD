@@ -1,4 +1,4 @@
-# Ejercicio de Busqueda
+# Ciclo MQ (2) Búsqueda por número de cédula
 
 ~~~
 Sub buscar()

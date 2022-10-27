@@ -1,4 +1,4 @@
-# Ciclo While
+# Ciclo MQ (1) Reccolecta en escuela
 
 ~~~
 Sub aporte_estudiantes()
@@ -38,4 +38,4 @@ ___
 
 # Diagrama de flujo
 
-![Ver diagrama](/fabio_poveda/ciclo_while/img/FlowchartDiagram1.jpg)
+![Ver diagrama](/fabio_poveda/aporte_estudiante/img/FlowchartDiagram1.jpg)
