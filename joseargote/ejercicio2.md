@@ -1,3 +1,4 @@
+```
 Sub registro()
     fila = datos.Cells(1, 6)
     datos.Cells(fila, 1) = registro.Cells(6, 4)
@@ -7,3 +8,4 @@ Sub registro()
     MsgBox "Datos Guardados"
     datos.Cells(1, 6) = fila + 1
 End Sub
+```
