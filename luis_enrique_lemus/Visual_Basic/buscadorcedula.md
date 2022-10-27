@@ -1,3 +1,4 @@
+## Buscador de Cedula con Mientras que y Switch
 ~~~
 
 Sub buscador()
