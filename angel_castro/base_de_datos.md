@@ -14,10 +14,12 @@ Información Basica
 | **GitHub** | https://github.com/angelcastro0923 |
 
 ## Ejercicios
-- [Ejercicio Ciclo Mientras que](ejercicios.md)
-- [segundo ejercicio ciclo mientras que](ejercicio2.md)
-- [ejercicio formulario](ejercicio3.md)
-- [ejercicio dart](ejercicio4.md)
-- [2ejercicio dart](ejercicio5.md)
-- [ejercicio dart herencia](ejercicio6.md)
-- [ejercicio dart empresas](ejercicio7.md)
+- [Ejercicio para](ejercicio.md)
+- [Ejercicio Ciclo MQ 1](ejercicio1.md)
+- [Ejercicio Ciclo MQ 2](ejercicio2.md)
+- [Ejercicio Formulario](ejercicio3.md)
+- [Ejercicio Dart, objetos](ejercicio4.md)
+- [Ejercicio Dart Parametros](ejercicio5.md)
+- [ejercicio Dart Herencia](ejercicio6.md)
+- [ejercicio Dart Cadenas](ejercicio7.md)
+- [ejercicio Dart Abstracta, Static](ejercicio8.md)
