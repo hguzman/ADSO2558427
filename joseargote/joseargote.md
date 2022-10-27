@@ -8,7 +8,7 @@ Información Basica
 | **Nombre completo** | Jose Alberto Argote Chico |
 | **Edad** | 17 |
 | **Dirección** | carrera #112 e31 |
-| **Barrio** | Los Olivos 2 |
+| **Barrio** | Los Olivos  2 |
 | **Celular** | 3188838844 |
 | **Email** | joseargote777@gmail.com |
 | **GitHub** | https://github.com/Jxze18  |
