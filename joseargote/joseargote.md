@@ -14,8 +14,8 @@ Información Basica
 | **GitHub** | https://github.com/Jxze18 |
 
 ## Ejercicios
--[ejercicio] (ejercicio.md)
--[ejercicio] (ejercicio2.md)
+-[ejercicio](ejercicio)
+-[ejercicio2](ejercicio2.md)
 - [ejercicio3](ejercicio3.md)
 - [ejercicio4](ejercicio4.md)
 - [ejerciciodartpad](ejerciciodartpad.md)
