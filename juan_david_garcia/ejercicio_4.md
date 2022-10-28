@@ -8,12 +8,7 @@
      print("la edad es: ${person.edad}");
      print("el nombre completo es: ${person.nombreCompleto()}");
      person.edadMas(num2: 4);
-     
-     
-     
-       
-     
-
+ 
 }
 class Person{
   String? nombre,sexo,apellido;
@@ -27,14 +22,12 @@ String? nombreCompleto(){
   String no = nombre! + apellido!;
   return no;
   
-  
 }
 void edadMas({int? num2}){
   int nu = edad!+ num2!;
   print(nu);
   
 }
-
 
 }
 ```
