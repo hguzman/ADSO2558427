@@ -14,5 +14,5 @@
 12. [Ronaldo Gomez Castro](/ronaldo_gomez/hojadedatos.md)
 13. [Wilmer Nicolas Carmona](/wilmer_carmona/informacion_basica.md)
 14. [Yezid Perez Pertuz](/Yezid_Perez/README.ME)
-15. [Zharick Carolina Donado](/zharick_donado/hojadevida.md)
+15. [Zharick Carolina Donado](/Zharick_Donado/hojadevida.md)
 
