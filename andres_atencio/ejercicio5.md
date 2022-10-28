@@ -32,7 +32,7 @@ class Vaca implements Animal{
 }
 class Perro extends Carnivoro implements Animal{
   void emitirSonido(){
-    print("El Perro hace: "guauuuuu");
+    print("El Perro hace: guauuuuu");
   }
 }
 ~~~

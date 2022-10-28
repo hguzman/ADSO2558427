@@ -15,7 +15,7 @@ class Person{
   int? edad;
   
   Person({String? s, n}){
-    sexo = m;
+    sexo = s;
     nombre = p;
   }
 String? nombreCompleto(){
