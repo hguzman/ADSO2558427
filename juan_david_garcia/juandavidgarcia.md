@@ -17,7 +17,7 @@ Información Basica
 - [Ejercicio Ciclo mientras que](ejercicio_1visual.md)
 - [Ejercicio de Buscador](ejercicio_2visual.md)
 - [Formulario](formulario.md)
-- [Ejercicio 1 DartPad](Ejercicio1_dart.md)
+- [Ejercicio 1 DartPad](Ejercicio_1Dart.md)
 - [Ejercicio 2 DartPad](ejercicio_4.md)
 - [Herencia](ejercicio_Herencia.md)
 - [Ejercicio de empresa](ejerciciodeempresa.md)
