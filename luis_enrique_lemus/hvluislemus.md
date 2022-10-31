@@ -25,3 +25,4 @@ Información Basica
 - [Herencia](Dart/dart_exercise3.md)
 - [Manejo de cadenas](Dart/dart_exercise4.md)
 - [Clase abstracta y metodo estatico](Dart/dart_exercise5.md)
+- [Http Request](Dart/http_requests.md)
