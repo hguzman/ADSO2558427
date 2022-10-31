@@ -1,7 +1,8 @@
+```
 Sub ejercicio()
     x = 2
     sw = True
-    cedula = Int(InputBox("ingrese la ceudla de ciudadania"))
+    cedula = Int(InputBox("ingrese la cedula de ciudadania"))
     While sw
         If cedula = Hoja1.Cells(x, 1) Then
             nombre = Hoja1.Cells(x, 2)
@@ -11,10 +12,9 @@ Sub ejercicio()
         If x = 20 Then
             MsgBox " su cedula no esta registrada"
             sw = False
-        End If
-    
+        End If  
     x = x + 1
-
     Wend
   
 End Sub
+```
