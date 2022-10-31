@@ -14,7 +14,7 @@ class Person{
   String? nombre,sexo,apellido;
   int? edad;
   
-  Person({String? s, n}){
+  Person({String? s, p}){
     sexo = s;
     nombre = p;
   }
