@@ -29,11 +29,15 @@ void main() async {
    final response = await https.get(url);
   if (response.statusCode == 200){
     final json = convert.jsonDecode(response.body);
-    print(response.body);
+    print(json["userId"]);
+    print(json["id"]);
+    print(json["title"]);
+    print(json["body"]);
     
  }else{
     print("problemas con la peticion");
   }
+  
   
 }
 ``` 
