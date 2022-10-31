@@ -22,3 +22,4 @@ Información Basica
 - [ejercicio dart2](ejercicioDARTPAD2.md)
 - [ejercicio static and implements](EjercicioStaticAndImplements.md)
 - [Ejercicio Cadenas Dart](manejoCadenasDart.md)
+-[ejercicio reqres](reqres.md)
