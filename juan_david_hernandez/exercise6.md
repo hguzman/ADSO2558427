@@ -1,10 +1,15 @@
 ~~~
 void main(){ 
-  List listaCiudades = ['Barranquilla','Bogota','Medellin'];
-  List listaNumeros = [270403, 071003, 199609, 202284];
-  List listaOficina = ['Norte', 'Sur', 'Centro'];
+  List listaEmpresas = [
+    {'ciudad': 'Barranquilla', 'numero': 270403, 'oficina': 'Parque Central'},
+    {'ciudad': 'Bogota', 'numero': 199609, 'oficina': 'Sur'},
+    {'ciudad': 'Medellin', 'numero': 541251, 'oficina': 'Norte'},
+   ];
+  
+
+  
   for (int i = 0; i < 3; i++){
-    Empresa empresa = Empresa(ciudad:listaCiudades[i],oficina:listaOficina[i],numero:listaNumeros[i]);
+    Empresa empresa = Empresa(ciudad: listaEmpresas[i]['ciudad'], numero: listaEmpresas[i]['numero'], oficina: listaEmpresas[i]['oficina']);
     print ('El codigo de la empresa es ${empresa.generarCodigo()}');
     
     empresa.cantCaracteres();
