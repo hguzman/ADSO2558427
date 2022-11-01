@@ -14,12 +14,13 @@ Información Basica
 | **GitHub** | https://github.com/JuanDavid0630 |
 
 ## Ejercicios
-- [Ejercicio 1 Visual](ejercicio.md)
-- [Ejercicio 2 Visual](ejercicio_2.md)
+- [Ejercicio Ciclo mientras que](ejercicio_1visual.md)
+- [Ejercicio de Buscador](ejercicio_2visual.md)
 - [Formulario](formulario.md)
-- [Ejercicio 1 DartPad](Ejercicio_Dart.md)
+- [Ejercicio 1 DartPad](Ejercicio_1Dart.md)
 - [Ejercicio 2 DartPad](ejercicio_4.md)
 - [Herencia](ejercicio_Herencia.md)
 - [Ejercicio de empresa](ejerciciodeempresa.md)
-- [Extends](ejercicio_4dart.md)
+- [Extends](extends.md)
+- [Ejercicio Public - private](Ejercicio%20Java.md)
 
