@@ -22,3 +22,4 @@ Información Basica
 - [Parametros y constructores en Dart](exercise5.md)
 - [Listas y String en Dart](exercise6.md)
 - [Herencia](exercise7.md)
+- [Metodo getter y setter, private y public](exercise8.md)
