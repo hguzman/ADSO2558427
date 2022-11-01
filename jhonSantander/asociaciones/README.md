@@ -8,7 +8,8 @@ void main(){
   car.setAccesorio(androidCar);
   car.setAccesorio(radio);
   
-  print(car.getAccesorios());
+  print(androidCar.nombre);
+  print(radio.nombre);
   
 }
 
