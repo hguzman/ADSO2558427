@@ -25,3 +25,7 @@ Información Basica
 - [Herencia](Dart/dart_exercise3.md)
 - [Manejo de cadenas](Dart/dart_exercise4.md)
 - [Clase abstracta y metodo estatico](Dart/dart_exercise5.md)
+- [Listas y Asociaciones en Dart](Dart/dart_exercise6.md)
+
+## Ejercicios de Java
+-[Setter y Getter](Java/setter_getter.md)
