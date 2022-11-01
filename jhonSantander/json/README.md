@@ -1,24 +1,8 @@
-"id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
-    "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
-    "company": {
-      "name": "Romaguera-Crona",
-      "catchPhrase": "Multi-layered client-server neural-net",
-      "bs": "harness real-time e-markets"
+<h2 align="center">Json, mapa, lista y asincronismo</h2>
 
+<h3 align="center">Ejemplo del instructor</h3>
+
+```
 import 'package:http/http.dart' as http;
 import 'dart:convert' as convert;
 
@@ -34,3 +18,24 @@ void main() async {
     print('Problemas con la petición');
   }
 }
+```
+
+<h3 align="center">Desarrollo de la Json fake</h3>
+
+```
+import 'package:http/http.dart' as http;
+import 'dart:convert' as convert;
+
+void main() async {
+  final url = Uri.https('jsonplaceholder.typicode.com', '/posts/4');
+  final response = await http.get(url);
+  if (response.statusCode == 200){
+    final json = convert.jsonDecode(response.body);
+    print(json["userId"]);
+    print(json["id"]);
+    print(json["title"]);
+  }else{
+    print('Problemas con la petición');
+  }
+}
+```
