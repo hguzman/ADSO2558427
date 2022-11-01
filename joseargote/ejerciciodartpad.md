@@ -1,7 +1,7 @@
 ```
 void main() {
 
-  Person j = new Person (x;"Hombre", p; "Jose");
+  Person j = new Person (x:"Hombre", p: "Jose");
   
    j.apellido = "argote";
    j.edad = 17;
@@ -33,6 +33,7 @@ void main() {
       int w = edad! + numer2!;
        print ("la suma de la edad es $w");
       
+}
 }
 ```
    
