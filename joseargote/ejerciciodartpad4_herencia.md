@@ -66,4 +66,5 @@ class Omnivoro extends Animal{
 class Hombre extends Omnivoro{
   String? apellido;
 }
+
 ```
