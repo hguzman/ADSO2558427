@@ -15,9 +15,9 @@ Información Basica
 
 ## Ejercicios
 - [Ejercicio](ejercicio.md)
-- [Ejercicio_2](ejercicio2.md)
-- [Ejercicio_3](ejercicio3.md)
-- [Ejercicio_4](ejercicio4.md)
+- [Ejercicio_2](ejercicio_2.md)
+- [Ejercicio_3](ejercicio_3.md)
+- [Ejercicio_4](ejercicio_4.md)
 - [Formulario](formulario.md)
 - [Ejercicio Dartpad](ejerciciodartpad.md)
 - [Ejercicio Operaciones](ejerciciodartpad2_operacion.md)
