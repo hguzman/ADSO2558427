@@ -9,6 +9,7 @@
 - [EXERCISE CONSTRUCTOR](ejercicio5.md)
 - [EXERCISE COMPANY INHERITANCE](ejercicio6.md)
 - [EXERCISE ANIMALS INHERITANCE](ejercicio7.md)
+- [EXERCISE ABSTRACT/STATIC](ejercicio8.md)
 
 
 ## CONTENIDO(2do trimestre)
