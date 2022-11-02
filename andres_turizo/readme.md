@@ -15,4 +15,5 @@
 ## CONTENIDO(2do trimestre)
 
 - [EXERCISE ASOCIATION](ejercicio9.md)
+- [EXERCISE JAVA SETTER/GETTER](ejercicio10.md)
 
