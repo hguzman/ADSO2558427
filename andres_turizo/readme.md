@@ -1,6 +1,8 @@
-## CONTENIDO
+## CONTENIDO(1er trimestre)
+
 - [HOJA DE VIDA](hojadevida.md)
-- [EXERCISE WHILE](ejercicio.md)
+- [EXERCISE FOR](ejercicio0.md)
+- [EXERCISE WHILE](ejercicio1.md)
 - [EXERCISE SEARCH](ejercicio2.md)
 - [EXERCISE FORMULARIO](ejercicio3.md)
 - [EXERCISE CLASS/OBJECT](ejercicio4.md)
@@ -9,7 +11,7 @@
 - [EXERCISE ANIMALS INHERITANCE](ejercicio7.md)
 
 
-## CONTENIDO
+## CONTENIDO(2do trimestre)
 
 - [EXERCISE ASOCIATION](ejercicio9.md)
 
