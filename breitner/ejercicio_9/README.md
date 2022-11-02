@@ -1,41 +1,38 @@
-## json
-
-~~~
-import 'package:http/http.dart' as http;
-import 'dart:convert' as convert;
-
-void main() async {
-  final url = Uri.https('jsonplaceholder.typicode.com', '/posts/4');
-  final response = await http.get(url);
-  if (response.statusCode == 200) {
-    final json = convert.jsonDecode(response.body);
-    print(json["id"]);
-    print(json["title"]);
-    print(json["body"]);
-  } else {
-    print('conteo de destruccion');
-  }
-}
-~~~
-
-##
+## getter y setter java
 
 ~~~
 
-import 'package:http/http.dart' as http;
-import 'dart:convert' as convert;
+public class Main{
+    public static void main (String[] args){
 
-void main() async {
-  final url = Uri.https('reqres.in', 'api/users/1');
-  final response = await http.get(url);
-  if (response.statusCode == 200) {
-    final json = convert.jsonDecode(response.body);
-    print(json["data"]["email"]);
-    print(json["data"]["first_name"]);
-    print(json["support"]["url"]);
-  } else {
-    print('conteo de destruccion');
-  }
+        Person person = new Person ('Mora');
+        Person.nombre= "breitner";
+
+        system.out.printIn("el nombre es: " + person.nombre);
+        system.out.printIn("el apellido es: " + person.getapellido());
+        system.out.printIn(person.imc(1.76, 55));
+
+    }
 }
 
-~~~
+class Person{
+
+    public String nombre;
+    private String apellido;
+    private String genero;
+
+    Person(String a){
+        this.apellido = a;
+    }
+    String getapelido(){
+        return this.apellido;
+    }
+    void setgenero(String g){
+        this.genero = g;
+        g = "Masculino";
+    }
+    public static double imc (double altura, int peso){
+        double a = (altura* peso);
+        return a;
+    }
+}
