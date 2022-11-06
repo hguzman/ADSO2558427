@@ -24,3 +24,5 @@ Información Basica
 - [Evidencia parametros y constructores dart](tipos_parametros_y_constructores.md)
 - [Evidencia dart herencia](evidencia_dart_herencia.md)
 - [Evidencia dart manejo de cadenas](evidencia_dart_cadenas.md)
+- [Evidencia asociaciaiones y agrgacion](asociaciones_agregracion.md)
+- [Evidencia Json](json_mapa_lista_asincronismo.md)
