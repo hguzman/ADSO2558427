@@ -14,6 +14,13 @@ Información Basica
 | **GitHub** |[cristian-pacheco](https://github.com/Cristian-pacheco) |
 
 ## Ejercicios
-- [ciclo mientras que en codigo](https://github.com/Cristian-pacheco/ADSO2558427/blob/main/cristianpacheco/codigo.md)
-- [ciclo mientras que en diagrama](https://github.com/Cristian-pacheco/ADSO2558427/blob/main/cristianpacheco/Diagrama%20sin%20t%C3%ADtulo.drawio.png)
-- [codigo buscar](https://github.com/Cristian-pacheco/ADSO2558427/blob/main/cristianpacheco/codigobuscar.md)
+- [ciclo mientras que en codigo](codigo.md)
+- [Diagrama sin título.drawio.png](Diagrama%20sin%20t%C3%ADtulo.drawio.png)
+- [codigo buscar](codigobuscar.md)
+- [codigo objeto](objeto.md)
+- [codigo contructor](contructor.md)
+- [formulario](formulario.md)
+- [herencia](Herencia.md)
+- [codigo animales #1](animal.md)
+- [codigo animales #2](animales2.md)
+- [Atributos privados y publicos en java](java1.md)
