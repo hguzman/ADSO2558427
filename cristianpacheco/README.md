@@ -15,7 +15,7 @@ Información Basica
 
 ## Ejercicios
 - [ciclo mientras que en codigo](codigo.md)
-- [ciclo mientras que en diagrama](Diagrama sin título.drawio.png)
+- [Diagrama sin título.drawio.png](Diagrama%20sin%20t%C3%ADtulo.drawio.png)
 - [codigo buscar](codigobuscar.md)
 - [codigo objeto](objeto.md)
 - [codigo contructor](contructor.md)
