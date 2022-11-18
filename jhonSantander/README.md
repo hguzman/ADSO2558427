@@ -40,4 +40,6 @@ Información Basica
 
 - [Flutter - Mi primer codigo](/jhonSantander/dartPrimerCodigo/README.md)
 
-- [Flutter - Peticiones HTTP](/jhonSantander/flutterPeticionHTTP/README.md)
+- [Flutter - Peticiones HTTP para un usuario](/jhonSantander/flutterPeticionHTTP/README.md)
+
+-[Flutter - Peticiones HTTP para una lista de usuarios](/jhonSantander/peticionesHttpListaUsuarios/README.md)
