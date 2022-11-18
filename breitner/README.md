@@ -25,4 +25,4 @@ Información Basica
 - [Ejercicio Java # 9 ](/breitner/ejercicio_9/README.md)
 - [Ejercicio Json # 11 ](/breitner/ejercicio_11/README.md)
 - [Ejercicio Flutter # 12 ](/breitner/ejercicio_12/README.md)
-- [Ejercicio aplicativo # 13 flutter](/breitner/aplicacion/README.MD)
+- [Ejercicio aplicativo # 13 flutter](/breitner/aplicacion_13/README.MD)
