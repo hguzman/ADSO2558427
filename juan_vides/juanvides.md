@@ -1,4 +1,5 @@
 # JUAN DAVID VIDES JIMENEZ
+
 Información Basica
 
 | Campo | Información |
@@ -11,9 +12,10 @@ Información Basica
 | **Barrio** | Nuevo milenio |
 | **Celular** | 3225670757 |
 | **Email** | juanvides112011@gmail.com |
-| **GitHub** | https://github.com/JuanCito16 |
+| **GitHub** | <https://github.com/JuanCito16> |
 
 ## Ejercicios
+
 - [Ejercicio Ciclo Mientras que](ejercicio.md)
 - [Ejercicio de buscador](ejercicio2.md)
 - [Formulario](tablaformu.md)
@@ -24,3 +26,5 @@ Información Basica
 - [Ejercico extends & implements](extends.md)
 - [Ejercicio private & public java](java1.md)
 - [Ejercicio de lista](lista.md)
+- [Ejercicio flutter #1](tablaflutter1.md)
+- [Ejercicio flutter #2](tablaflutter2.md)
