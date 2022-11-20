@@ -23,3 +23,6 @@ Información Basica
 - [Ejercicio Dart Herencia](ejercicio6.md)
 - [Ejercicio Dart Cadenas](ejercicio7.md)
 - [Ejercicio Dart Abstracta y Estatico](ejercicio8.md)
+- [Ejercicio JAVA Setter y Getter](ejercicio9.md)
+- [Ejercicio Dart Lista y Asociaciones](ejercicio10.md)
+- [Ejercicio Dart Json](ejercicio11.md)
