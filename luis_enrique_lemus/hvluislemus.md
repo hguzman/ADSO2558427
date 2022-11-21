@@ -26,3 +26,7 @@ Información Basica
 - [Manejo de cadenas](Dart/dart_exercise4.md)
 - [Clase abstracta y metodo estatico](Dart/dart_exercise5.md)
 - [Http Request](Dart/http_requests.md)
+
+## Ejercicios de Flutter
+- [Primera App de Flutter](Flutter/priflutter.md)
+- [Segunda App de Flutter](Flutter/segflutter.md)
