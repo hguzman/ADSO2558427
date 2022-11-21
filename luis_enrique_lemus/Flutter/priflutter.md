@@ -1,6 +1,6 @@
 # Primera Aplicacion en Flutter
 
-![imagen 1](../fotos/flutter1.jpgs)
+![imagen 1](../fotos/flutter1.jpg)
 - Main
 ~~~~
 import 'package:flutter/material.dart';
