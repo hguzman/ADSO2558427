@@ -1,6 +1,6 @@
 # Segunda Aplicacion en Flutter
 
-![imagen 2](../fotos/flutter2.jpg)
+![imagen 2](../fotos/flutter2.jpg){width='100px'}
 - Main
 
 ~~~~
