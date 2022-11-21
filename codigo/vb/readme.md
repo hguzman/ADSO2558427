@@ -1,5 +1,7 @@
 # CRUD VB
 
+Permite registrar información en una Hoja de Calculo
+
 ```
 Private Sub btnBuscar_Click()
   frmBuscar.Show
