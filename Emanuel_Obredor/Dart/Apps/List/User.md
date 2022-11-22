@@ -1,3 +1,4 @@
+```
 import 'dart:convert';
 
 List<User> userFromJson(String str) =>
@@ -21,3 +22,4 @@ class User {
         avatar: json["avatar"],
       );
 }
+```
