@@ -30,3 +30,11 @@ Información Basica
 [Clases_abstractas_metodos_estaticos](https://github.com/andresg122/ADSO2558427/blob/trabajo/aprendices/andres_garcia/ejercicio_8)
 
 [Encapsulamiento](https://github.com/andresg122/ADSO2558427/blob/trabajo/aprendices/andres_garcia/ejercicio_9)
+
+[Asociaciones](https://github.com/andresg122/ADSO2558427/blob/trabajo/aprendices/andres_garcia/ejercicio_10)
+
+[Json_mapa_lista_y_asincronismo](https://github.com/andresg122/ADSO2558427/blob/trabajo/aprendices/andres_garcia/ejercicio_11)
+
+[Mi_primera_App](https://github.com/andresg122/ADSO2558427/blob/trabajo/aprendices/andres_garcia/ejercicio_12)
+
+[Peticiones_HTTP_para_un_usuario](https://github.com/andresg122/ADSO2558427/blob/trabajo/aprendices/andres_garcia/ejercicio_13)
