@@ -1,0 +1,36 @@
+
+```
+  public class Main {
+  public static void main(String[] args) {
+    Person persona = new Person("Sanchez");
+    persona.nombre = "Camila";
+    System.out.println("El nombre es: "+ persona.nombre);
+    System.out.println("Su apellido: "+ persona.getapellido());
+    System.out.println("El imc de "+persona.nombre +" "+ persona.getapellido()     +"es de "+ Person.imc(1.70,54));
+  }
+  }
+  class Person {
+    public String nombre;
+    private String apellido;
+    private String genero;
+  
+    Person(String f){
+      this.apellido = f;
+  
+  }
+  String getapellido(){
+    return this.apellido;
+    
+  }
+  void getgenero(String g){
+    this.genero = g;
+    g = "femenino";
+    
+  }
+  public static double imc (double altura, int peso){
+  double i = (altura * peso);
+  return i;
+  
+  }
+}
+```
