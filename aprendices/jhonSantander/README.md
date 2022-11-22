@@ -20,28 +20,28 @@ Información Basica
 
 - [Ejercicio Ciclo Mientras que Recaudo](/aprendices/jhonSantander/actividades/vba/whileRecaudo/README.md)
 
-- [Ejercicio Ciclo mientras que buscador](/jhonSantander/whileBaseDatos/README.md)
+- [Ejercicio Ciclo mientras que buscador](/aprendices/jhonSantander/actividades/vba/whileBaseDatos/README.md)
 
-- [Ejercicio formulario en VBA](/jhonSantander/Formulario/README.md)
+- [Ejercicio formulario en VBA](/aprendices/jhonSantander/actividades/vba/Formulario/README.md)
 
-- [Ejercicio en Dart](/jhonSantander/dartMetodos/README.md)
+- [Ejercicio en Dart](/aprendices/jhonSantander/actividades/dart/dartMetodos/README.md)
 
-- [Constructores y parametros](/jhonSantander/constructorParametros/README.md)
+- [Constructores y parametros](/aprendices/jhonSantander/actividades/dart/constructorParametros/README.md)
 
-- [Herencia en Dart](/jhonSantander/herencia/README.md)
+- [Herencia en Dart](/aprendices/jhonSantander/actividades/dart/herencia/README.md)
 
-- [Funciones manejo de cadenas para caracteres en Dart](/jhonSantander/manejoCadenasDart/README.md)
+- [Funciones manejo de cadenas para caracteres en Dart](/aprendices/jhonSantander/actividades/dart/manejoCadenasDart/README.md)
 
-- [Clase abstracta y metodo estatico](/jhonSantander/claseAbstractometodoStatic/README.md)
+- [Clase abstracta y metodo estatico](/aprendices/jhonSantander/actividades/dart/claseAbstractometodoStatic/README.md)
 
-- [Encapsulamiento - alcance public, private - metodos Setter y Getter](/jhonSantander/encapsulamiento/README.md)
+- [Encapsulamiento - alcance public, private - metodos Setter y Getter](/aprendices/jhonSantander/actividades/dart/encapsulamiento/README.md)
 
-- [Asociaciones](/jhonSantander/asociaciones/README.md)
+- [Asociaciones](/aprendices/jhonSantander/actividades/dart/asociaciones/README.md)
 
-- [Json, mapa y asincronismo](/jhonSantander/json/README.md)
+- [Json, mapa y asincronismo](/aprendices/jhonSantander/actividades/dart/json/README.md)
 
-- [Flutter - Mi primer codigo](/jhonSantander/dartPrimerCodigo/README.md)
+- [Flutter - Mi primer codigo](/aprendices/jhonSantander/actividades/flutter/dartPrimerCodigo/README.md)
 
-- [Flutter - Peticiones HTTP para un usuario](/jhonSantander/flutterPeticionHTTP/README.md)
+- [Flutter - Peticiones HTTP para un usuario](/aprendices/jhonSantander/actividades/flutter/flutterPeticionHTTP/README.md)
 
-- [Flutter - Peticiones HTTP para una lista de usuarios](/jhonSantander/peticionesHttpListaUsuarios/README.md)
+- [Flutter - Peticiones HTTP para una lista de usuarios](/aprendices/jhonSantander/actividades/flutter/peticionesHttpListaUsuarios/README.md)

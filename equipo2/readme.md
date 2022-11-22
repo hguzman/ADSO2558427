@@ -6,7 +6,7 @@ Aplicativo de inventario para una MiPyme
 
 - Fabio Poveda
 - Yezid Perez
-- Breidner Mora
+- Breitner Mora
 - Jaider Rojas
 - Andres Garcia
 - Jhon Santander
