@@ -46,10 +46,12 @@ Información Basica
 
 - [Json, mapa y asincronismo](/aprendices/jhonSantander/actividades/dart/json/README.md)
 
-- [Flutter - Mi primer codigo](/aprendices/jhonSantander/actividades/flutter/dartPrimerCodigo/README.md)
+<h4 align=center>Flutter</h4>
 
-- [Flutter - Peticiones HTTP para un usuario](/aprendices/jhonSantander/actividades/flutter/flutterPeticionHTTP/README.md)
+- [Mi primer codigo](/aprendices/jhonSantander/actividades/flutter/dartPrimerCodigo/README.md)
 
-- [Flutter - Peticiones HTTP para una lista de usuarios](/aprendices/jhonSantander/actividades/flutter/peticionesHttpListaUsuarios/README.md)
+- [Peticiones HTTP para un usuario](/aprendices/jhonSantander/actividades/flutter/flutterPeticionHTTP/README.md)
 
-- []()
+- [Peticiones HTTP para una lista de usuarios](/aprendices/jhonSantander/actividades/flutter/peticionesHttpListaUsuarios/README.md)
+
+- [Widget Background](/aprendices/jhonSantander/actividades/flutter/background/README.md)

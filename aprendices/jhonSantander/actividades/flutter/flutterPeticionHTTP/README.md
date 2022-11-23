@@ -4,9 +4,9 @@
 
 <h3 align="center">Partes del codigo</h3>
 
-- [Codigo principal](/jhonSantander/flutterPeticionHTTP/lib/README.md)
+- [Codigo principal](/aprendices/jhonSantander/actividades/flutter/flutterPeticionHTTP/lib/README.md)
 
-- [Clase User](/jhonSantander/flutterPeticionHTTP/lib/model/README.md)
+- [Clase User](/aprendices/jhonSantander/actividades/flutter/flutterPeticionHTTP/lib/model/README.md)
 
-- [Widget plantilla](/jhonSantander/flutterPeticionHTTP/lib/widgets/README.md)
+- [Widget plantilla](/aprendices/jhonSantander/actividades/flutter/flutterPeticionHTTP/lib/widgets/README.md)
 
