@@ -7,7 +7,7 @@
 5. [Fabio Alberto Poveda](/fabio_poveda/README.MD)
 6. [Jaider Camilo Rojas](/Jaidercamiloo/README.md)
 7. [Jose Alberto Argote](/joseargote/joseargote.md)
-8. [Jhon Fredy Santander Patiño](/jhonSantander/README.md)
+8. [Jhon Fredy Santander Patiño](/aprendices/jhonSantander/README.md)
 9. [Juan David Hernández ](/juan_david_hernandez/hvjuandavid.md)
 10. [Juan David Garcia ](/juan_david_garcia/juandavidgarcia.md)
 11. [Luis Enrique Lemus](/luis_enrique_lemus/hvluislemus.md)
