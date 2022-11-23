@@ -3,10 +3,7 @@ Información Basica
 
 | Campo | Información |
 | --- | --- |
-| **Tipo** | Cedula |
-| **Identificación** | 1002303631 |
 | **Nombre completo** | Wilmer Nicolas Carmona Alvarez |
-| **Edad** | 20 |
 | **Dirección** | Calle 7b 3 sur #79 |
 | **Barrio** | Bellavista |
 | **Celular** | 3016745851 |
