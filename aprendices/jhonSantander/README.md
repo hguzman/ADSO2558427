@@ -18,13 +18,19 @@ Información Basica
 
 ### Trimestre 1
 
+<h4 align=center>VBA</h4>
+
 - [Ejercicio Ciclo Mientras que Recaudo](/aprendices/jhonSantander/actividades/vba/whileRecaudo/README.md)
 
 - [Ejercicio Ciclo mientras que buscador](/aprendices/jhonSantander/actividades/vba/whileBaseDatos/README.md)
 
 - [Ejercicio formulario en VBA](/aprendices/jhonSantander/actividades/vba/Formulario/README.md)
 
+<h4 align=center>Dart</h4>
+
 - [Ejercicio en Dart](/aprendices/jhonSantander/actividades/dart/dartMetodos/README.md)
+
+### Trimestre 2
 
 - [Constructores y parametros](/aprendices/jhonSantander/actividades/dart/constructorParametros/README.md)
 
@@ -45,3 +51,5 @@ Información Basica
 - [Flutter - Peticiones HTTP para un usuario](/aprendices/jhonSantander/actividades/flutter/flutterPeticionHTTP/README.md)
 
 - [Flutter - Peticiones HTTP para una lista de usuarios](/aprendices/jhonSantander/actividades/flutter/peticionesHttpListaUsuarios/README.md)
+
+- []()
