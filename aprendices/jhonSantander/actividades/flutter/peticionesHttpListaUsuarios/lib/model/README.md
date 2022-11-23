@@ -1,4 +1,4 @@
-<h2 align="center">Clase user</h2>
+<h2 align="center">Clase User</h2>
 
 ```
 import 'package:listadeusuarios/main.dart';

@@ -4,7 +4,7 @@
 
 <h3 align="center">Partes del codigo</h3>
 
-- [Codigo principal](/jhonSantander/peticionesHttpListaUsuarios/lib/README.md)
+- [Codigo principal](/aprendices/jhonSantander/actividades/flutter/peticionesHttpListaUsuarios/lib/README.md)
 
-- [Clase User](/jhonSantander/peticionesHttpListaUsuarios/lib/model/README.md)
+- [Clase User](/aprendices/jhonSantander/actividades/flutter/peticionesHttpListaUsuarios/lib/model/README.md)
 
