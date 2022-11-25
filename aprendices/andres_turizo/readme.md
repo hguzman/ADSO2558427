@@ -1,16 +1,21 @@
 ## CONTENIDO
-- [HOJA DE VIDA](hojadevida.md)
-- [EXERCISE WHILE](ejercicio.md)
-- [EXERCISE SEARCH](ejercicio2.md)
-- [EXERCISE FORMULARIO](ejercicio3.md)
-- [EXERCISE CLASS/OBJECT](ejercicio4.md)
-- [EXERCISE CONSTRUCTOR](ejercicio5.md)
-- [EXERCISE COMPANY INHERITANCE](ejercicio6.md)
-- [EXERCISE ANIMALS INHERITANCE](ejercicio7.md)
 
+#### NO códigos
 
-# Contenido
+- [HOJA DE VIDA](ADSO1.md)
+- [CUADERNO ELECTRÓNICO](ADSO3.md)
 
-- [Hoja de vida]()
-- [Ejercicio1]()
+#### Visual Basic
+
+- [CICLO PARA](ADSO4.md)
+- [CICLO MQ1](ADSO5.md)
+- [CICLO MQ2](ADSO6.md)
+- [FORMULARIO](ADSO7.md)
+
+#### Dart
+
+- [OBJETOS, CLASES Y MÉTODOS](ADSO8.md)
+- [PARÁMETROS Y CONSTRUCTORES](ADSO9.md)
+- [HERENCIA](ADSO10.md)
+- [MANEJO DE CADENAS](ADSO11.md)
 
