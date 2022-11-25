@@ -3,7 +3,6 @@
 #### NO códigos
 
 - [HOJA DE VIDA](ADSO1.md)
-- [CUADERNO ELECTRÓNICO](ADSO3.md)
 
 #### Visual Basic
 
@@ -22,4 +21,5 @@
 
 #### Flutter
 
+- [PETICIÓN BACKEND OBJETO](ADSO13.md)
 - [PETICIÓN BACKEND LISTA OBJETOS](ADSO14.md)
