@@ -1,6 +1,6 @@
 <h2 align=center>Lista de aprendices</h2>
 
-1. [Andrés David Turizo](/andres_turizo/hojadevida.md)
+1. [Andrés David Turizo](/andres_turizo/readme.md)
 2. [Andrés Felipe Parra](/andres_parra/hojadevida)
 3. [Breitner Daniel Mora](/breitner/README.md)
 4. [Cristian Pacheco](/cristianpacheco/datos.md)
