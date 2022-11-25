@@ -23,3 +23,4 @@ Información Basica
 - [ejercicio numero tres de dart](/wilmer_carmona/ejercicio_extends.md)
 - [ejercicio numero cuatro de dart](ejercicio_dartherencia.md)
 - [ejercicio numero cinco de dart](ejercicio_implements.md)
+- [ejrcicio de java set&get](/aprendices/wilmer_carmona/java/set%26get.md)
