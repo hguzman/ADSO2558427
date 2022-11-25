@@ -2,7 +2,7 @@
 
 #### NO códigos
 
-- [HOJA DE VIDA](no_códigos/ADSO1.md)
+- [HOJA DE VIDA](no_codigos/ADSO1.md)
 
 #### Visual Basic
 
