@@ -12,4 +12,4 @@ Información Basica
 | **Celular** | 3014586416 |
 | **Email** | adtd_07@hotmail.com |
 | **GitHub** | https://github.com/andresdtd |
-| **Página** | andresdtd.github.io/index.html |
+| **Página** | https://andresdtd.github.io/index.html |
