@@ -12,6 +12,7 @@ Información Basica
 | **Celular** | 3105027548|
 | **Email** | cristianpacheco10a@gmail.com |
 | **GitHub** |[cristian-pacheco](https://github.com/Cristian-pacheco) |
+| **pagina** |[mi pajina](https://cristian-pacheco.github.io/)
 
 ## Ejercicios
 - [ciclo mientras que en codigo](codigo.md)
