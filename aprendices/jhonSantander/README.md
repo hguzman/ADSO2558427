@@ -55,3 +55,5 @@ Información Basica
 - [Peticiones HTTP para una lista de usuarios](/aprendices/jhonSantander/actividades/flutter/peticionesHttpListaUsuarios/README.md)
 
 - [Widget Background](/aprendices/jhonSantander/actividades/flutter/background/README.md)
+
+- [Widget Stack](/aprendices/jhonSantander/actividades/flutter/stackBrackground/README.md)
