@@ -1,27 +1,27 @@
 ``` 
 Sub b()
-    si_abona = 0
-    no_abona = 0
-    abono_10000 = 0
-    total_abonado = 0
-    For i = 1 To 3
-        pregunta = InputBox("¿Va a abonar? " & i)
-        If pregunta = "si" Then
-            si_abono = si_abono + 1
-            dinero = Int(InputBox("¿Cuánto va a abonar?"))
-            total_abonado = total_abonado + dinero
-            If dinero >= 10000 Then
-                abono_10000 = abono_10000 + 1
-            End If
-        Else
-            no_abono = no_abono + 1
-        End If
-    Next i
-    promedio = total_abonado / si_abono
-    MsgBox "Donaron " & si_abono & " personas"
-    MsgBox "No donaron " & no_abono & " personas"
-    MsgBox "Donaron más de 10000 " & abono_10000 & " personas"
-    MsgBox "El total abonado fue " & total_abonado
-    MsgBox "El promedio de los estudiantes que donaron es " & promedio
+    m = 0
+    i = 0
+    For t = 1 To 3
+        m = Int(InputBox("cunto desea aportar"))
+        c = c + m
+        If m < 100000 Then
+        am = am + 1
+       Else
+        am2 = am2 + 1
+       End If
+       If m = 0 Then
+        no = no + 1
+        i = i-1
+       End If
+        i = i + 1
+    Next t
+    vrp = c / i
+    MsgBox "total recaudado por los estudiantes:" & c
+    MsgBox "valor recaudado promedio:" & vrp
+    MsgBox "estudiantes que aportaron:" & i
+    MsgBox "estudiantes que no aportaron:" & no
+    MsgBox "estudiantes que aportaron menos de 100000:" & am
+    MsgBox "estudiantes que aportaron mas de 100000:" & am2
 End Sub
 ```
