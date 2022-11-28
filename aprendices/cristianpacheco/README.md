@@ -15,6 +15,8 @@ Información Basica
 | **pagina** |[mi pajina](https://cristian-pacheco.github.io/)
 
 ## Ejercicios
+
+- [ciclo PARA](ADSO4.md)
 - [ciclo MQ (1)](ADSO5.md)
 - [ciclo MQ (1) Diagrama](ADSO5(diagrama).png)
 - [ciclo MQ (2)](ADSO6.md)
