@@ -1,16 +1,25 @@
-import 'dart:convert' as convert;
+```
+import 'template.dart';
+import 'dart:convert';
 
-class User{
-  String? nombre;
-  String? apellido;
+List<User> userFromJson(String str)=>List<User>.from(json.decode(str)['data'].map((x)=> User.fromJson(x)));
+class User {
+  User({
+    this.correoElectronico,
+    this.firstName,
+    this.lastName,
+    this.avatar,
+  });
+  String? correoElectronico;
+  String? firstName;
+  String? lastName;
   String? avatar;
-  String? email;
 
-  User(String json){
-    final jsonResponse = convert.jsonDecode(json);
-    nombre = jsonResponse['data']['first_name'];
-    apellido = jsonResponse['data']['last_name'];
-    avatar = jsonResponse['data']['avatar'];
-    email = jsonResponse['data']['email'];
-  }
+  factory User.fromJson(Map<String, dynamic> json)=> User(
+    correoElectronico: json['email'],
+    firstName: json['first_name'],
+    lastName: json['last_name'],
+    avatar: json['avatar'],
+  );
 }
+```
