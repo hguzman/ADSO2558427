@@ -4,7 +4,7 @@
 2. [Andrés Felipe Parra](/andres_parra/hojadevida)
 3. [Breitner Daniel Mora](/breitner/README.md)
 4. [Cristian Pacheco](/cristianpacheco/datos.md)
-5. [Fabio Alberto Poveda](/fabio_poveda/README.MD)
+5. [Fabio Alberto Poveda](/aprendices/fabio_poveda/README.MD)
 6. [Jaider Camilo Rojas](/Jaidercamiloo/README.md)
 7. [Jose Alberto Argote](/joseargote/joseargote.md)
 8. [Jhon Fredy Santander Patiño](/jhonSantander/README.md)
