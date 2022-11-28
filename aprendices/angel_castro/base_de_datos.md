@@ -23,3 +23,11 @@ Información Basica
 - [ejercicio Dart Herencia](ejercicio6.md)
 - [ejercicio Dart Cadenas](ejercicio7.md)
 - [ejercicio Dart Abstracta, Static](ejercicio8.md)
+## Ejercicios 2 TRIMESTRE
+- [java](ejercicio9.md)
+- [Ejercicio dart agregacion, get y set](ejercicio10.md)
+- [Ejercicio dart peticiones, Json](ejercicio11.md)
+- [Flutter primera app, peticion](ejercicio12.md)
+- [flutter primera app actualizacion, lista](ejercicio13.md)
+
+
