@@ -12,6 +12,7 @@ Información Basica
 | **Celular** | +57 3043798632 |
 | **Email** | fabio_poveda@hotmail.com |
 | **GitHub** | https://github.com/FabioP0 |
+| **Pagina web** | https://fabiop0.github.io/ |
 
 - [Ejercicio número 1:  Ciclo PARA Recaudo escuela](/aprendices/fabio_poveda/ciclo_para/README.MD)
 
