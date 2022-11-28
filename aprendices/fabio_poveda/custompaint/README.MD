@@ -156,28 +156,3 @@ class _HeaderLoginPainter extends CustomPainter {
   }
 }
 ~~~
-
-___
-
-## Template
-
-~~~
-import 'package:nueva_aplicacion/models/user.dart';
-import 'package:flutter/material.dart';
-import 'package:nueva_aplicacion/widgets/background.dart';
-
-class Template extends StatelessWidget {
-  const Template({Key? key, required this.user}) : super(key: key);
-
-  final User user;
-
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      home: Scaffold(body: Background1(),
-      
-      )
-    );
-  }
-}
-~~~
