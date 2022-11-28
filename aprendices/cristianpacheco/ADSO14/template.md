@@ -2,8 +2,8 @@
 import 'package:flutter/material.dart';
 import 'user.dart';
 
-class Template extends StatelessWidget {
-  const Template({
+class ItemData extends StatelessWidget {
+  const ItemData({
     Key? key,
     required this.user,
   }) : super(key: key);
@@ -11,28 +11,18 @@ class Template extends StatelessWidget {
   final User user;
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context){
     return Column(
-      children: [
-        SizedBox(height: 15.0),
-        Text('${user.nombre!} ${user.apellido}'),
-        SizedBox(height: 15.0),
-        Image(
-          image: NetworkImage(user.avatar!),
+      children:[
+        ListTile(
+          title: Text('${user.firstName!} ${user.lastName!}'),
+          subtitle: Text(user.correoElectronico!),
+          leading: CircleAvatar(backgroundImage: NetworkImage(user.avatar!),),
+          trailing: const Icon(Icons.arrow_forward_ios, color: Colors.blue),
         ),
-        SizedBox(height: 15.0),
-        Row(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            const Icon(
-              Icons.email,
-              color: Colors.black,
-              size: 15.0),
-            Text(':'),
-            Text(user.email!),
-          ]
-        ),
-      ],);
+        Divider(),
+      ],
+    );
   }
 }
 ```
