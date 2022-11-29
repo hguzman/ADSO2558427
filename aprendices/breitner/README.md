@@ -23,3 +23,4 @@ Información Basica
 - [ADSO11 Manejo de cadenas dart](/aprendices/breitner/ADSO11/README.md)
 - [ADSO12 Clase abstractas y metodos estaticos](/aprendices/breitner/ADSO12/README.md)
 - [ADSO13 Desarrollo con peticion GET a backend un objeto](/aprendices/breitner/ADSO13/README.md)
+- [ADSO14 Desarrollo con peticion GET a backend lista de  objetos](/aprendices/breitner/ADSO14/README.md)
