@@ -7,7 +7,7 @@
 4. [Camilo Lafaurie](/aprendices/camilo_lafaurie/hoja_de_datos.md)
 5. [Cristian Pacheco](/aprendices/cristianpacheco/datos.md)
 6. [Fabio Alberto Poveda](/aprendices/fabio_poveda/README.MD)
-7. [Jaider Camilo Rojas](/aprendices/Jaidercamiloo/README.md)
+7. [Jaider Camilo Rojas](/aprendices/jaiderrojas/README.MD)
 8. [Jose Alberto Argote](/aprendices/joseargote/joseargote.md)
 9. [Jhon Fredy Santander Patiño](/aprendices/jhonSantander/README.md)
 10. [Juan David Hernández ](/aprendices/juan_david_hernandez/hvjuandavid.md)
