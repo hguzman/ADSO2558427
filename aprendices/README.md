@@ -15,5 +15,5 @@
 12. [Luis Enrique Lemus](/aprendices/luis_enrique_lemus/hvluislemus.md)
 13. [Ronaldo Gomez Castro](/aprendices/ronaldo_gomez/hojadedatos.md)
 14. [Wilmer Nicolas Carmona](/aprendices/wilmer_carmona/informacion_basica.md)
-15. [Yezid Perez Pertuz](/aprendices/Yezid_Perez/README.ME)
+15. [Yezid Perez Pertuz](/aprendices/Yezid_Perez/README.md)
 16. [Zharick Carolina Donado](/aprendices/Zharick_Donado/hojadevida.md)
