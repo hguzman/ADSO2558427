@@ -5,7 +5,7 @@
 3. [Andrés Garcia](/aprendices/andres_garcia/README.md)
 3. [Breitner Daniel Mora](/aprendices/breitner/README.md)
 4. [Camilo Lafaurie](/aprendices/camilo_lafaurie/hoja_de_datos.md)
-5. [Cristian Pacheco](/aprendices/cristianpacheco/datos.md)
+5. [Cristian Pacheco](/aprendices/cristianpacheco/README.md)
 6. [Fabio Alberto Poveda](/aprendices/fabio_poveda/README.MD)
 7. [Jaider Camilo Rojas](/aprendices/Jaidercamiloo/README.md)
 8. [Jose Alberto Argote](/aprendices/joseargote/joseargote.md)
