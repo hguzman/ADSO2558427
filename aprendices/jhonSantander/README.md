@@ -14,11 +14,9 @@ Información Basica
 | **Email** | jsantander1219@gmail.com |
 | **GitHub** | https://github.com/GoJhon |
 
-<h3 align=center>Ejercicios</h3>
+<h2 align=center>Ejercicios</h2>
 
-### Trimestre 1
-
-<h4 align=center>VBA</h4>
+<h3>VBA</h3>
 
 - [Ejercicio Ciclo Mientras que Recaudo](/aprendices/jhonSantander/actividades/vba/whileRecaudo/README.md)
 
@@ -26,11 +24,9 @@ Información Basica
 
 - [Ejercicio formulario en VBA](/aprendices/jhonSantander/actividades/vba/Formulario/README.md)
 
-<h4 align=center>Dart</h4>
+<h3>Dart</h3>
 
 - [Ejercicio en Dart](/aprendices/jhonSantander/actividades/dart/dartMetodos/README.md)
-
-### Trimestre 2
 
 - [Constructores y parametros](/aprendices/jhonSantander/actividades/dart/constructorParametros/README.md)
 
@@ -46,7 +42,7 @@ Información Basica
 
 - [Json, mapa y asincronismo](/aprendices/jhonSantander/actividades/dart/json/README.md)
 
-<h4 align=center>Flutter</h4>
+<h3>Flutter</h3>
 
 - [Mi primer codigo](/aprendices/jhonSantander/actividades/flutter/dartPrimerCodigo/README.md)
 
