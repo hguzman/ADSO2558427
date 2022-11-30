@@ -13,6 +13,7 @@ Información Basica
 | **Celular** | 3013387548|
 | **Email** | jsantander1219@gmail.com |
 | **GitHub** | https://github.com/GoJhon |
+| **Pagina** | https://gojhon.github.io |
 
 <h2 align=center>Ejercicios</h2>
 
