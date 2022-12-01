@@ -1,16 +1,25 @@
 ## CONTENIDO
-- [HOJA DE VIDA](hojadevida.md)
-- [EXERCISE WHILE](ejercicio.md)
-- [EXERCISE SEARCH](ejercicio2.md)
-- [EXERCISE FORMULARIO](ejercicio3.md)
-- [EXERCISE CLASS/OBJECT](ejercicio4.md)
-- [EXERCISE CONSTRUCTOR](ejercicio5.md)
-- [EXERCISE COMPANY INHERITANCE](ejercicio6.md)
-- [EXERCISE ANIMALS INHERITANCE](ejercicio7.md)
 
+#### NO códigos
 
-# Contenido
+- [HOJA DE VIDA](no_codigos/ADSO1.md)
 
-- [Hoja de vida]()
-- [Ejercicio1]()
+#### Visual Basic
 
+- [CICLO PARA](vb/ADSO4.md)
+- [CICLO MQ1](vb/ADSO5.md)
+- [CICLO MQ2](vb/ADSO6.md)
+- [FORMULARIO](vb/ADSO7.md)
+
+#### Dart
+
+- [OBJETOS, CLASES Y MÉTODOS](dart/ADSO8.md)
+- [PARÁMETROS Y CONSTRUCTORES](dart/ADSO9.md)
+- [HERENCIA](dart/ADSO10.md)
+- [MANEJO DE CADENAS](dart/ADSO11.md)
+- [CLASE ABSTRACTA/MÉTODO ESTÁTICO](dart/ADSO12.md)
+
+#### Flutter
+
+- [PETICIÓN BACKEND OBJETO](flutter/ADSO13.md)
+- [PETICIÓN BACKEND LISTA OBJETOS](flutter/ADSO14.md)
