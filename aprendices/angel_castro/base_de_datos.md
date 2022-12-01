@@ -14,20 +14,20 @@ Información Basica
 | **GitHub** | https://github.com/angelcastro0923 |
 
 ## Ejercicios
-- [Ejercicio para](ejercicio.md)
-- [Ejercicio Ciclo MQ 1](ejercicio1.md)
-- [Ejercicio Ciclo MQ 2](ejercicio2.md)
-- [Ejercicio Formulario](ejercicio3.md)
-- [Ejercicio Dart, objetos](ejercicio4.md)
-- [Ejercicio Dart Parametros](ejercicio5.md)
-- [ejercicio Dart Herencia](ejercicio6.md)
-- [ejercicio Dart Cadenas](ejercicio7.md)
-- [ejercicio Dart Abstracta, Static](ejercicio8.md)
+- [ciclo para](adso4.md)
+- [Ejercicio Ciclo MQ 1(adso5.md)
+- [Ejercicio Ciclo MQ 2](adso6.md)
+- [Ejercicio Formulario](adso7.md)
+- [Ejercicio Dart, objetos](adso8.md)
+- [Ejercicio Dart Parametros](adso9.md)
+- [ejercicio Dart Herencia](adso10.md)
+- [ejercicio Dart Cadenas](adso11.md)
+- [ejercicio Dart Abstracta, Static](adso12.md)
 ## Ejercicios 2 TRIMESTRE
-- [java](ejercicio9.md)
-- [Ejercicio dart agregacion, get y set](ejercicio10.md)
+- [java](java.md)
+- [getter y setter](getter y setter.md)
 - [Ejercicio dart peticiones, Json](ejercicio11.md)
-- [Flutter primera app, peticion](ejercicio12.md)
-- [flutter primera app actualizacion, lista](ejercicio13.md)
+- [Flutter primera app, peticion](adso13.md)
+- [flutter primera app actualizacion, lista](adso14.md)
 
 
