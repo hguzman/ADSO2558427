@@ -3,7 +3,7 @@
 
 <h3>carpetas del codigo main y models</h3> 
 
-- [Clase lib main](/aprendices/Yezid_Perez/OOP/Usuario_API_REST/main.md)
+- [ Main](/aprendices/Yezid_Perez/OOP/Usuario_API_REST/main.md)
 
-- [Clase lib main](/aprendices/Yezid_Perez/OOP/Usuario_API_REST/Models/user.md)
+- [Models](/aprendices/Yezid_Perez/OOP/Usuario_API_REST/Models/user.md)
 

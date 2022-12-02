@@ -15,23 +15,23 @@
 | **Pagesweb** | https://developeryezid.github.io/ |
 
 ## Ejercicios de VBA
-- [exercise cycle Para](/aprendices/Yezid_Perez/Ciclo_while/Ciclo_PARA.md)
-- [exercise cycle while1 collection](/aprendices/Yezid_Perez/Ciclo_while/while_Recaudo.md)
-- [exercise cycle while2](/aprendices/Yezid_Perez/Ciclo_while/ejercicio_datos.md)
-- [exercise exercise form VBA](/aprendices/Yezid_Perez/Ciclo_while/Formulario_VBA.md)
+- [ADSO4 cycle Para](/aprendices/Yezid_Perez/Ciclo_while/Ciclo_PARA.md)
+- [ADSO5 cycle while1 collection](/aprendices/Yezid_Perez/Ciclo_while/while_Recaudo.md)
+- [ADSO6 cycle while2](/aprendices/Yezid_Perez/Ciclo_while/ejercicio_datos.md)
+- [ADSO7 exercise form VBA](/aprendices/Yezid_Perez/Ciclo_while/Formulario_VBA.md)
 
 ## Ejercicios de Dart
-- [exercise Estructura de Objeto](/aprendices/Yezid_Perez/OOP/estructura_objeto.md)
-- [exercise oop Methods and constructor](/aprendices/Yezid_Perez/OOP/metados_y_constructor.md)
-- [exercise oop company heritage](/aprendices/Yezid_Perez/OOP/Herencia_empresa.md)
-- [exercise oop inheritance hierarchy](/aprendices/Yezid_Perez/OOP/Herencia_mamiferos.md)
-- [exercise oop abstract y estatic](/aprendices/Yezid_Perez/OOP/Clase_abstracta_y_estatico.md)
-- [exercise oop Public and Private Java](/aprendices/Yezid_Perez/OOP/public_and_private.md)
-- [exercise oop composition and aggregation](/aprendices/Yezid_Perez/OOP/Composicion_y_agregacion.md)
+- [ADSO8 Objetos,clases y metodos](/aprendices/Yezid_Perez/OOP/estructura_objeto.md)
+- [ADSO9 oop Methods and constructor](/aprendices/Yezid_Perez/OOP/metados_y_constructor.md)
+- [ADSO10 oop company heritage](/aprendices/Yezid_Perez/OOP/Herencia_empresa.md)
+- [ADSO11 oop inheritance hierarchy](/aprendices/Yezid_Perez/OOP/Herencia_mamiferos.md)
+- [ADSO12 oop abstract y estatic](/aprendices/Yezid_Perez/OOP/Clase_abstracta_y_estatico.md)
+- [ADSO oop Public and Private Java](/aprendices/Yezid_Perez/OOP/public_and_private.md)
+- [ADSO oop composition and aggregation](/aprendices/Yezid_Perez/OOP/Composicion_y_agregacion.md)
 
 ## Ejercicios Flutter
-- [exercise oop GET Json](/aprendices/Yezid_Perez/OOP/Json_API.md)
-- [exercise oop GET User API](/aprendices/Yezid_Perez/OOP/Usuario_API_REST/Readme.md)
-- [exercise oop GET Listuser API](/aprendices/Yezid_Perez/OOP/ListasdeUsuariosHttp/Usuarios/Readme.md)
+- [ADSO oop GET Json](/aprendices/Yezid_Perez/OOP/Json_API.md)
+- [ADSO13 oop GET User API](/aprendices/Yezid_Perez/OOP/Usuario_API_REST/Readme.md)
+- [ADSO14 oop GET Listuser API](/aprendices/Yezid_Perez/OOP/ListasdeUsuariosHttp/Usuarios/Readme.md)
 
 
