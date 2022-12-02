@@ -12,12 +12,4 @@ Información Basica
 | **Celular** | 3014586416 |
 | **Email** | adtd_07@hotmail.com |
 | **GitHub** | https://github.com/andresdtd |
-
-
-## Ejercicios
-- [EXERCISE WHILE](ejercicio.md)
-- [EXERCISE SEARCH](ejercicio2.md)
-- [EXERCISE FORMULARIO](ejercicio3.md)
-- [EXERCISE CLASS/OBJECT](ejercicio4.md)
-- [EXERCISE CONSTRUCTOR](ejercicio5.md)
-
+| **Página** | https://andresdtd.github.io/index.html |
