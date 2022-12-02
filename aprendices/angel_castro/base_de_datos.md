@@ -15,7 +15,7 @@ Información Basica
 
 ## Ejercicios
 - [ciclo para](adso4.md)
-- [Ejercicio Ciclo MQ 1(adso5.md)
+- [Ejercicio Ciclo MQ 1](adso5.md)
 - [Ejercicio Ciclo MQ 2](adso6.md)
 - [Ejercicio Formulario](adso7.md)
 - [Ejercicio Dart, objetos](adso8.md)
@@ -25,8 +25,8 @@ Información Basica
 - [ejercicio Dart Abstracta, Static](adso12.md)
 ## Ejercicios 2 TRIMESTRE
 - [java](java.md)
-- [getter y setter](getter y setter.md)
-- [Ejercicio dart peticiones, Json](ejercicio11.md)
+- [getter y setter](getter_y_setter.md)
+- [Ejercicio dart peticiones, Json](ejercicio_json.md)
 - [Flutter primera app, peticion](adso13.md)
 - [flutter primera app actualizacion, lista](adso14.md)
 
