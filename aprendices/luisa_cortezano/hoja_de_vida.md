@@ -11,7 +11,9 @@ Información Basica
 | **Barrio** | carrizal  |
 | **Celular** | 3024539086|
 | **Email** | luisacortezano135@gmail.com |
-| **GitHub** | https://github.com/luisafernanda29|
+| **GitHub** | https://github.com/Luisafernanda29|
+| **Pagina** | https://github.com/Luisafernanda29.github.io|
+
 
 ## Ejercicios Visual Basic
 - [Ciclo PARA](VisualBasic/ADSO4.md)
@@ -25,3 +27,7 @@ Información Basica
 - [Herencia](Dart/ADSO10.md)
 - [Manejo de Cadenas en Dart](Dart/ADSO11.md)
 - [Clase Abstracta y Metodo Estatico](Dart/ADSO12.md)
+- [Http Json](Dart/Json.md)
+
+## Ejercicios Flutter
+- [Desarrollo con Peticion GET a Backend un Objeto](Flutter/ADSO13.md)
