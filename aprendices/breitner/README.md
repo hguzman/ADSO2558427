@@ -14,6 +14,7 @@ Información Basica
 | **GitHub** | https://github.com/Breitner12 |
 
 ## Ejercicios
+- [ADSO4 Ciclo PARA](/aprendices/breitner/ADSO4/README.md)
 - [ADSO5 CICLO MQ (1)](/aprendices/breitner/ADSO5/README.md)
 - [ADSO6 CICLO MQ (2)](/aprendices/breitner/ADSO6/README.md)
 - [ADSO7 FORMULARIO VISUAL BASIC](/aprendices/breitner/ADSO7/README.md)
