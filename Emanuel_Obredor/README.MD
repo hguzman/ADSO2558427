@@ -20,4 +20,5 @@
 - [ADSO5](/Emanuel_Obredor/Actividad_5/)  
 - [ADSO6](/Emanuel_Obredor/Actividad1_herencia/C%C3%B3digo_herencia.md)
 - [ADSO7](/Emanuel_Obredor/Actividad1_herencia/C%C3%B3digo_herencia2.md)
-- [Ir a las actividades Dart](/Emanuel_Obredor/Dart/)
+- [ADSO8](/Emanuel_Obredor/Dart/Agregaci%C3%B3n%20y%20Composicion/Agregacion_y_composicion.md)
+- [ADSO9]
