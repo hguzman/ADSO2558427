@@ -11,8 +11,9 @@
 9. [Juan David Hernández ](/juan_david_hernandez/hvjuandavid.md)
 10. [Juan David Garcia ](/juan_david_garcia/juandavidgarcia.md)
 11. [Luis Enrique Lemus](/luis_enrique_lemus/hvluislemus.md)
-12. [Ronaldo Gomez Castro](/ronaldo_gomez/hojadedatos.md)
-13. [Wilmer Nicolas Carmona](/wilmer_carmona/informacion_basica.md)
-14. [Yezid Perez Pertuz](/Yezid_Perez/README.ME)
-15. [Zharick Carolina Donado](/Zharick_Donado/hojadevida.md)
+12. [Luisa Fernanda Cortezano](/aprendices/luisa_cortezano/hoja_de_vida.md)
+13. [Ronaldo Gomez Castro](/ronaldo_gomez/hojadedatos.md)
+14. [Wilmer Nicolas Carmona](/wilmer_carmona/informacion_basica.md)
+15. [Yezid Perez Pertuz](/Yezid_Perez/README.ME)
+16. [Zharick Carolina Donado](/Zharick_Donado/hojadevida.md)
 
