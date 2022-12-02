@@ -28,6 +28,8 @@ Información Basica
 - [Manejo de Cadenas en Dart](Dart/ADSO11.md)
 - [Clase Abstracta y Metodo Estatico](Dart/ADSO12.md)
 - [Http Json](Dart/Json.md)
+- [Setter y Getter](Dart/Java.md)
+- [Lista y Asociaciones](Dart/Asociaciones.md)
 
 ## Ejercicios Flutter
 - [Desarrollo con Peticion GET a Backend un Objeto](Flutter/ADSO13.md)
