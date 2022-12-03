@@ -8,3 +8,6 @@
 
 - [Clase User](/aprendices/jhonSantander/actividades/flutter/peticionesHttpListaUsuarios/lib/model/README.md)
 
+- [Ver repositio del ejercicio](https://github.com/GoJhon/Chat-App/tree/main/chatapp)
+
+- [Descargar del repositorio](https://github.com/GoJhon/Chat-App/releases/tag/1.0.0)
