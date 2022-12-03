@@ -15,14 +15,24 @@ Información Basica
 
 ## Ejercicios de Programacion
 
+# Personal
+- [ADSO-1 /Hoja de vida](https://github.com/CamiloLafaurie/camilolafaurie.git)
+- [ADSO-3 /Cuaderno virtual](https://github.com/CamiloLafaurie/CUADERNO-.git)
+
 # Ejercicio de Visual Basic
-- [evidencia ingresos](VisualBasic/evidencia_ingre.md)
-- [evidencia recolecta](VisualBasic/evidencia_rec.md)
-- [evidencia formulario](VisualBasic/evidencia_form.md)
+- [ADSO-4 /Evidencia mientras que](VisualBasic/evidencia_mq.md)
+- [ADSO-5 /Evidencia ingresos anuales](VisualBasic/evidencia_ingre.md)
+- [ADSO-6 /Evidencia recolecta](VisualBasic/evidencia_rec.md)
+- [ADSO-7 /Evidencia formulario](VisualBasic/evidencia_form.md)
 
 # Ejercicio de Dart
-- [evidencia dart objetos, clases y metodos](Dart/Dart_objetos_clases_y_metodos.md)
-- [evidencia dart herencia](Dart/herencia.md)
-- [evidencia dart manejo de cadenas](Dart/manejo_de_cadenas.md)
-- [evidencia dart metodos estatico y clase abstracta](Dart/metodoestatico_y_claseabstracta.md)
-- [evidencia dart tipos de parametros y constructores](Dart/tipos_de_parametros_y_constructores.md)
+- [ADSO-8 /Evidencia dart objetos, clases y metodos](Dart/Dart_objetos_clases_y_metodos.md)
+- [ADSO-9 /Evidencia dart tipos de parametros y constructores](Dart/tipos_de_parametros_y_constructores.md)
+- [ADSO-10 /Evidencia dart herencia](Dart/herencia.md)
+- [ADSO-11 /Evidencia dart manejo de cadenas](Dart/manejo_de_cadenas.md)
+- [ADSO-12 /Evidencia dart metodos estatico y clase abstracta](Dart/metodoestatico_y_claseabstracta.md)
+- [(ejemplo) Evidencia dart JSon ](Dart/Json%3DJsonDecode.md)
+ 
+# Ejercicios de Flutter
+- [ADSO-13 /APP flutter SIN LISTA](Flutter/prototipoapp1.md)
+- [ADSO-14 /APP flutter CON LISTA](Flutter/prototipoapp2.md)
