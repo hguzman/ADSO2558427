@@ -10,3 +10,6 @@
 
 - [Widget plantilla](/aprendices/jhonSantander/actividades/flutter/flutterPeticionHTTP/lib/widgets/README.md)
 
+- [Ver repositorio del archivo](https://github.com/GoJhon/Flutter-petici-n-HTTP-/tree/main/hojavida)
+
+- [Descargar aplicativo](https://github.com/GoJhon/Flutter-petici-n-HTTP-/releases/tag/1.0)

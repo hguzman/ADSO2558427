@@ -28,28 +28,28 @@ class Template extends StatelessWidget {
         Text(user.email!),
         SizedBox(height: 5.0,),
         Row( 
-            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-            children: [
-              Icon(
-                Icons.mail,
-                color: Colors.red,
-                size: 24.0,
-                semanticLabel: 'Text to announce in accessibility modes',
-              ),
-              Icon(
-                Icons.add_ic_call_rounded,
-                color: Colors.red,
-                size: 30.0,
-              ),
-              Icon(
-                Icons.facebook,
-                color: Colors.red,
-                size: 36.0,
-              ),
-            ],
+          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+          children: [
+            Icon(
+              Icons.mail,
+              color: Colors.red,
+              size: 24.0,
+              semanticLabel: 'Text to announce in accessibility modes',
+            ),
+            Icon(
+              Icons.add_ic_call_rounded,
+              color: Colors.red,
+              size: 30.0,
+            ),
+            Icon(
+              Icons.facebook,
+              color: Colors.red,
+              size: 36.0,
+            ),
+          ],
         ),
       ]
-        );
+    );
   }
 }
 ```

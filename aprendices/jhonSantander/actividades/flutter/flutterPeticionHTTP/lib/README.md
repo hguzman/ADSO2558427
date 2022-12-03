@@ -6,10 +6,7 @@ import 'package:hojavida/widgets/template.dart';
 import 'package:http/http.dart' as http;
 import 'model/user.dart';
 
-void main() {
-  runApp(MyApp());
-  }
-
+void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
   @override
@@ -27,7 +24,7 @@ class MyApp extends StatelessWidget {
             }
             return Center(child: CircularProgressIndicator());
           },
-          )
+        )
       ),
     );
   }
