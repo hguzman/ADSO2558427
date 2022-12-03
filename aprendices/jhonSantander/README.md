@@ -47,9 +47,9 @@ Información Basica
 
 - [Mi primer codigo](/aprendices/jhonSantander/actividades/flutter/dartPrimerCodigo/README.md)
 
-- [Peticiones HTTP para un usuario](/aprendices/jhonSantander/actividades/flutter/flutterPeticionHTTP/README.md)
+- [Peticiones GET para un usuario](/aprendices/jhonSantander/actividades/flutter/flutterPeticionHTTP/README.md)
 
-- [Peticiones HTTP para una lista de usuarios](/aprendices/jhonSantander/actividades/flutter/peticionesHttpListaUsuarios/README.md)
+- [Peticiones GET para una lista de usuarios](/aprendices/jhonSantander/actividades/flutter/peticionesHttpListaUsuarios/README.md)
 
 - [CustomPaint](/aprendices/jhonSantander/actividades/flutter/background/README.md)
 

@@ -2,9 +2,13 @@
 
 <p align=center><img src="https://i.imgur.com/T3Hfa8t.png"></p>
 
-**Nota:** Hecho en pantalla de iphone X con emulador de Chrome
+**Nota:** Hecho en pantalla de iphone X SE con emulador de Chrome
 
-<h3 align=center>Cdogido del Main</h3>
+- [Ver repositorio del ejercicio](https://github.com/GoJhon/CustomPaint-Stack-y-Positioned)
+
+- [Descargar ejercicio](https://github.com/GoJhon/CustomPaint-Stack-y-Positioned/releases/tag/1.0.0)
+
+<h3 align=center>Codgido del Main</h3>
 
 ```
 import 'package:flutter/material.dart';
