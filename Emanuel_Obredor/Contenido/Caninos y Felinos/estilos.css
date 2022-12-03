@@ -1,0 +1,123 @@
+main{
+    margin: auto;
+    height: 820px;
+    width: 650px;
+}
+
+header{
+    height: 140px;
+}
+
+header img{
+    height: 140px;
+    width: 650px;
+}
+
+nav{
+    background-color: darkslategrey;
+    border-radius: 0px 0px 15px 15px;
+    height: 50px;
+    padding-top: 1px;
+}
+
+ul li{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    color: white;
+    display: inline-block;
+    margin-right: 70px;
+}
+
+section{
+    float: left;
+    height: 500px;
+    width: 50%;
+    margin-right: 30px;
+    margin-top: 15px;
+}
+
+.arriba{
+    border-radius: 15px 15px 0px 0px;
+    background-color: khaki;
+    margin-bottom: 20px;
+    height: 240px;
+}
+
+article img{
+    margin-bottom: 60px;
+    margin-top: 10px;
+    margin-right: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    float: right;
+    height: 100px;
+    width: 100px;
+
+}
+
+article p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-size: 13px;
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 2px;
+    float: left;
+    width: 180px;
+    height: 150px;
+
+}
+
+article h4{
+    float: left;
+    width: 100%;
+    margin-left: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 0px;
+}
+
+article a{
+    float:left;
+    margin-left: 15px;
+}
+.abajo{
+    border-radius: 0px 0px 15px 15px;
+    background-color: khaki;
+    height: 240px;
+}
+
+aside{
+    background-color: rgb(24, 41, 41);
+    border-radius: 15px;
+    float: right;
+    height: 500px;
+    width: 289px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+aside header{
+    background-color: black;
+    border-radius: 15px 15px 0px 0px;
+    height: 40px;
+    padding-top: 20px;
+}
+aside header h3{
+    text-align: center;
+    color: white;
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+footer{
+    padding-top: 1px;
+    float: none;
+    background-color: rgb(24, 41, 41);
+    border-radius: 0px 0px 15px 15px;
+    height: 85px;
+    clear: both;
+}
+
+footer p{
+    color: white;
+    text-align: center;
+    opacity: 60%;
+}

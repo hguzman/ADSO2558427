@@ -25,3 +25,5 @@
 - [ADSO13](Contenido/Peticiones%20a%20Json/)
 - [ADSO14](Contenido/Peticiones%20a%20Json%20con%20Lista/)
 - [ADSO15](Contenido/CustomPaint/)
+- [ADSO16](https://emanuelobredor18.github.io/)
+- [ADSO17](Contenido/Caninos%20y%20Felinos/)
