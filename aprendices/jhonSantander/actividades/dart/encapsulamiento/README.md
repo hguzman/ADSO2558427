@@ -9,7 +9,7 @@ public class Main {
       System.out.println(persona1.nombre);
       System.out.println(persona1.getApellido());
       persona1.setGenero("Masculino");
-      System.out.println(persona1.imc(80.4,1.70));
+      System.out.println(Person.imc(80.4,1.70));
     }
 }
 
@@ -30,7 +30,7 @@ class Person {
         this.apellido = apellido;
     }
     
-    public double imc(double peso, double altura){
+    public static double imc(double peso, double altura){
         return (peso / (altura*altura));
     }
 }

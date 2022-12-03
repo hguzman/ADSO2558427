@@ -13,24 +13,50 @@ Información Basica
 | **Celular** | 3013387548|
 | **Email** | jsantander1219@gmail.com |
 | **GitHub** | https://github.com/GoJhon |
+| **Pagina** | https://gojhon.github.io |
 
-<h3 align=center>Ejercicios</h3>
+<h2 align=center>Ejercicios</h2>
 
-- [Ejercicio Ciclo Mientras que Recaudo](/jhonSantander/whileRecaudo/README.md)
+<h3>VBA</h3>
 
-- [Ejercicio Ciclo mientras que buscador](/jhonSantander/whileBaseDatos/README.md)
+- [Ejercicio Ciclo Mientras que Recaudo](/aprendices/jhonSantander/actividades/vba/whileRecaudo/README.md)
 
-- [Ejercicio formulario en VBA](/jhonSantander/Formulario/README.md)
+- [Ejercicio Ciclo mientras que buscador](/aprendices/jhonSantander/actividades/vba/whileBaseDatos/README.md)
 
-- [Ejercicio en Dart](/jhonSantander/dartMetodos/README.md)
+- [Ejercicio formulario en VBA](/aprendices/jhonSantander/actividades/vba/Formulario/README.md)
 
-- [Constructores y parametros](/jhonSantander/constructorParametros/README.md)
+<h3>Dart</h3>
 
-- [Herencia en Dart](/jhonSantander/herencia/README.md)
+- [Ejercicio en Dart](/aprendices/jhonSantander/actividades/dart/dartMetodos/README.md)
 
-- [Funciones manejo de cadenas para caracteres en Dart](/jhonSantander/manejoCadenasDart/README.md)
+- [Constructores y parametros](/aprendices/jhonSantander/actividades/dart/constructorParametros/README.md)
 
-- [Clase abstracta y metodo estatico](/jhonSantander/claseAbstractometodoStatic/README.md)
+- [Herencia en Dart](/aprendices/jhonSantander/actividades/dart/herencia/README.md)
 
-- [Encapsulamiento - alcance public, private - metodos Setter y Getter](/jhonSantander/encapsulamiento/README.md)
+- [Funciones manejo de cadenas para caracteres en Dart](/aprendices/jhonSantander/actividades/dart/manejoCadenasDart/README.md)
 
+- [Clase abstracta y metodo estatico](/aprendices/jhonSantander/actividades/dart/claseAbstractometodoStatic/README.md)
+
+- [Encapsulamiento - alcance public, private - metodos Setter y Getter](/aprendices/jhonSantander/actividades/dart/encapsulamiento/README.md)
+
+- [Asociaciones](/aprendices/jhonSantander/actividades/dart/asociaciones/README.md)
+
+- [Json, mapa y asincronismo](/aprendices/jhonSantander/actividades/dart/json/README.md)
+
+<h3>Flutter</h3>
+
+- [Mi primer codigo](/aprendices/jhonSantander/actividades/flutter/dartPrimerCodigo/README.md)
+
+- [Peticiones GET para un usuario](/aprendices/jhonSantander/actividades/flutter/flutterPeticionHTTP/README.md)
+
+- [Peticiones GET para una lista de usuarios](/aprendices/jhonSantander/actividades/flutter/peticionesHttpListaUsuarios/README.md)
+
+- [CustomPaint](/aprendices/jhonSantander/actividades/flutter/background/README.md)
+
+- [Stack y positioned](/aprendices/jhonSantander/actividades/flutter/stackBrackground/README.md)
+
+<h3>HTML</h3>
+
+- [Maqueta y contenido de pagina web veterinaria](/aprendices/jhonSantander/actividades/html/mascotas/README.md)
+
+- [Maqueta y contenido de pagina web de banco](/aprendices/jhonSantander/actividades/html/bancoop/README.md)
