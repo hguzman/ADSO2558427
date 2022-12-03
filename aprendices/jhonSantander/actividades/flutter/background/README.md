@@ -1,5 +1,11 @@
 <h2 align=center>Widget background</h2>
 
+<p align=center><img src="https://i.imgur.com/Tj1oANB.png"></p>
+
+- [Ir al repositorio del aplicativo](https://github.com/GoJhon/Aplicativo-custompaint/tree/main/dibujo)
+
+- [Descargar proyecto](https://github.com/GoJhon/Aplicativo-custompaint/releases/tag/1.0.0)
+
 <h3 align=center>Main</h3>
 
 ```
