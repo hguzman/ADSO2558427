@@ -12,13 +12,16 @@
 |Estado cívil|Soltero|
 |Sexo|Masculino|  
 
-## Ejercicio 
-- [ADSO4](/Emanuel_Obredor/Actividad_1/Codigo.md)  
-- [ADSO2](/Emanuel_Obredor/Actividad_2//)  
-- [ADSO3](/Emanuel_Obredor/Actividad_3/)  
-- [ADSO4](/Emanuel_Obredor/Actividad_4/)  
-- [ADSO5](/Emanuel_Obredor/Actividad_5/)  
-- [ADSO6](/Emanuel_Obredor/Actividad1_herencia/C%C3%B3digo_herencia.md)
-- [ADSO7](/Emanuel_Obredor/Actividad1_herencia/C%C3%B3digo_herencia2.md)
-- [ADSO8](/Emanuel_Obredor/Dart/Agregaci%C3%B3n%20y%20Composicion/Agregacion_y_composicion.md)
-- [ADSO9]
+## Ejercicios
+- [ADSO4](/Emanuel_Obredor/Ciclo%20For.md)  
+- [ADSO5](/Emanuel_Obredor/Ciclo%20MQ(1).md)  
+- [ADSO6](/Emanuel_Obredor/Ciclo%20MQ(2).md)  
+- [ADSO7](/Emanuel_Obredor/Formularios/)  
+- [ADSO8](/Emanuel_Obredor/Objetos%2C%20clases%20y%20m%C3%A9todos.md)  
+- [ADSO9](/Emanuel_Obredor/Par%C3%A1metros%20y%20Constructores.md)
+- [ADSO10](/Emanuel_Obredor/Herencia/)
+- [ADSO11](/Emanuel_Obredor/Agregacion_y_composicion.md)
+- [ADSO12](Clase%20abstracta%20y%20m%C3%A9todo%20est%C3%A1tico.md)
+- [ADSO13](Peticiones%20a%20Json/)
+- [ADSO14](Peticiones%20a%20Json%20con%20Lista/)
+- [ADSO15](CustomPaint/)

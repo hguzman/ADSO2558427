@@ -1,4 +1,4 @@
-# Cédula register code
+# Ciclo "Mientras Que" 2
 ``` 
 Sub inicio()
     c = 0

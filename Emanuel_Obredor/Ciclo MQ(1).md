@@ -1,3 +1,4 @@
+# Ciclo "Mientras Que" 1
 ``` 
 Sub Inicio()
  total_recolecta = 0
