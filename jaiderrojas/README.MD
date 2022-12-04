@@ -23,7 +23,7 @@ Información Basica
 - [funciones de cadenas en dart](/jaiderrojas/funciones%20de%20manejo%20de%20cadenas%20en%20dart/README.MD)
 - [clase abstracta y metodo estatico](/jaiderrojas/ejercicio9/README.MD)
 - [LISTA FLUTTER](/jaiderrojas/lista%20flutter/README.MD)
-- - [metodos setter y getter](/jaiderrojas/metodos%20setter%20y%20getter/README.MD)
+-  [metodos setter y getter](/jaiderrojas/metodos%20setter%20y%20getter/README.MD)
 - [flutter mi primer codigo](/jaiderrojas/flutter%20mi%20primer%20codigo/README.MD)
 - [peticiones get para usuario en flutter](/jaiderrojas/peticiones%20get%20para%20usuario%20en%20flutter/README.MD)
 - [peticiones HTTP para lista de usuario](/jaiderrojas/peticiones%20HTTP%20lista%20de%20usuarios/README.MD)
