@@ -33,3 +33,4 @@ Información Basica
 
 ## Ejercicios Flutter
 - [Desarrollo con Peticion GET a Backend un Objeto](Flutter/ADSO13.md)
+- [Desarrollo Con Peticion GET a Backend Lista Objetos](Flutter/ADSO14.md)
