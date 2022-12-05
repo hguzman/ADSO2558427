@@ -21,4 +21,4 @@
 | ADSO15 | CustomPaint, Stack y positioned | 11/23/22 | Rediseñar la interfaz grafica del APP ADSO13 utilizando Stack y CustomPaint en el diseño |
 | ADSO16 | Html Básico | 11/25/22 | Pagina WEB inicial, publicada en GitHub |
 | ADSO17 | Maquetado Html Veterinaria | 11/28/22 | Pagina WEB con maquetado HTML proyecto Veterinaria |
-| ADSO18 | Maquetado Html Banco | 11/28/22 | Pagina WEB con maquetado HTML proyecto Banco |
+| ADSO18 | Maquetado Html Banco | 12/02/22 | Pagina WEB con maquetado HTML proyecto Banco |
