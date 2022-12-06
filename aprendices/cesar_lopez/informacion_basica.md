@@ -22,4 +22,5 @@ Información Basica
 - [ejercicio dart3](ADSO10.md)
 - [ejercicio dart4](ADSO11.md)
 - [ejercicio dart5 ](ADSO12.md)
+- [ejercicio flutter objet](ADSO13.md)
 - [ejercicio flutter list](ADSO14.md) 
