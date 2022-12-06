@@ -24,7 +24,7 @@ Información Basica
 - [ejercicio Dart Cadenas](adso11.md)
 - [ejercicio Dart Abstracta, Static](adso12.md)
 ## Ejercicios 2 TRIMESTRE
-- [java](java.md)
+- [Java](ejercicio_java.md)
 - [getter y setter](getter_y_setter.md)
 - [Ejercicio dart peticiones, Json](ejercicio_json.md)
 - [Flutter primera app, peticion](adso13.md)
