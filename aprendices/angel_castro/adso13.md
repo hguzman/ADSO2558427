@@ -2,46 +2,45 @@
 # MAIN
 
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/user.dart';
-import 'package:flutter_application_1/widget/template.dart';
+import 'package:flutter_application_1/widgets/user.dart';
+import 'package:flutter_application_1/widgets/Template.dart';
 import 'package:http/http.dart' as http;
 
 
 void main() => runApp(MiApp());
 
 class MiApp extends StatelessWidget {
-  
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context){
     return MaterialApp(
-      title: ('MiApp'),
-      home: Scaffold(
-        appBar: AppBar(title: Text('Usuario')),
+      title: 'Usuario',
+      home: Scaffold( 
+        appBar: AppBar(title: Text('Usuario'), backgroundColor: Color.fromARGB(255, 30, 112, 234),),
         body: FutureBuilder<User>(
           future: getUser(),
           builder: (context, snapshot) {
-            if (snapshot.connectionState == ConnectionState.done){
+            if(snapshot.connectionState == ConnectionState.done){
               User user = snapshot.data as User;
               return Template(user: user);
             }
             return Center(child: CircularProgressIndicator());
-            }
-           )
-        ),
+          },
+        )
+      ),
     );
   }
 
- Future<User> getUser() async {
-   final url = Uri.http('reqres.in','/api/users/2');
-   final response =  await http.get(url);
-   return User(response.body);
- }
+  Future<User> getUser() async {
+    final url = Uri.https('reqres.in', '/api/users/2');
+    final response = await http.get(url);
+    return User(response.body);
+  }
 }
 
 # TEMPLATE
 
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/user.dart';
+import 'package:flutter_application_1/widgets/user.dart';
 
 
 class Template extends StatelessWidget {
@@ -85,11 +84,11 @@ class Template extends StatelessWidget {
             )
            ],)
           ],);
-  }
+}
+}
 
-  # USER
-
-  import 'dart:convert' as convert;
+# USER
+import 'dart:convert' as convert;
 
 class User{
   String? nombre;
