@@ -1,4 +1,4 @@
-## ejercicio 2
+## CICLO MIENTRAS Q 1
 
 ~~~
 Sub ejercicio()

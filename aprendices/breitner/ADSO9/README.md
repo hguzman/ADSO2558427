@@ -1,4 +1,4 @@
-## ejercicio de dartpad
+## ejercicio de dartpad parametros y constructores
 
 ~~~
 void main() {
