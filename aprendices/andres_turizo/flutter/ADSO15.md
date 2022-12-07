@@ -48,7 +48,7 @@ class App extends StatelessWidget {
                       child: Column(
                         children: [
                           SizedBox(height: 5.0,),
-                          Text(user.nombre!, style: TextStyle(fontSize: 25.0, fontWeight: FontWeight.bold),),
+                          Text(user.nombre!, style: TextStyle(fontSize: 20.0, fontWeight: FontWeight.bold),),
                           SizedBox(height: 5.0),
                           Text(user.email!),
                           SizedBox(height: 5.0,),
@@ -57,19 +57,18 @@ class App extends StatelessWidget {
                             children: [
                               Icon(
                                 Icons.mail,
-                                color: Colors.blue,
+                                color: Colors.red,
                                 size: 24.0,
-                                semanticLabel: 'text to announce in accessibility modes',
                                 ),
                               Icon(
                                 Icons.add_ic_call_rounded,
-                                color: Colors.blue,
-                                size: 30.0,
+                                color: Colors.green,
+                                size: 24.0,
                               ),
                               Icon(
                                 Icons.facebook,
                                 color: Colors.blue,
-                                size: 36.0,
+                                size: 24.0,
                               ),
                             ],
                           ),
@@ -89,9 +88,9 @@ class App extends StatelessWidget {
 }
 
 Future<User> getUser() async {
-    final url = Uri.https('reqres.in','/api/users/3');
+    final url = Uri.https('reqres.in','/api/users/2');
     final response = await http.get(url);
-      return User(response.body);
+    return User(response.body);
 }
 ~~~
 
@@ -174,7 +173,7 @@ class Mipaint extends StatelessWidget {
       height: double.infinity,
       width: double.infinity,
       child: CustomPaint(
-        painter: Mipagina(),
+        painter: Perfil(),
       ),
     );
   }
