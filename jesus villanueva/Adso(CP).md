@@ -1,3 +1,4 @@
+``` 
 Sub recolecta() 
 tr = total_recaudado 
 sb = si_abono 
@@ -21,3 +22,4 @@ MsgBox "no abono: " & nb
 MsgBox "abono mas de 10mil: " & vs 
 MsgBox "total: " & tr 
 MsgBox "promedio: " & promedio
+``` 
