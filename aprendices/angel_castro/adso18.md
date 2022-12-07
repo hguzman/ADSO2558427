@@ -1,3 +1,4 @@
+~~~
 <!DOCTYPE html>
 <html lang="es-CO">
 <head>
@@ -225,3 +226,4 @@ footer{
     text-align: center;
     padding-top: 10px;
 }
+~~~
