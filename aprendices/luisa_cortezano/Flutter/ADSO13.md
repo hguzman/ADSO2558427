@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
       body: FutureBuilder<User>(
         future: getUser(),
         builder: (context, snapshot) {
-        if (snapshot.connectionState == ConnectionState) {
+        if (snapshot.connectionState == ConnectionState.done) {
              User user = snapshot.data as User;
              return Template(user: user);
         }
@@ -33,6 +33,7 @@ class MyApp extends StatelessWidget {
 Future<User> getUser() async {
     final url = Uri.https('reqres.in', '/api/users/2');
     final response = await http.get(url);
+    return User(response.body);
 }
 }
 ~~~
