@@ -23,3 +23,5 @@ Información Basica
 - [ejercicio numero tres de dart](/wilmer_carmona/ejercicio_extends.md)
 - [ejercicio numero cuatro de dart](ejercicio_dartherencia.md)
 - [ejercicio numero cinco de dart](ejercicio_implements.md)
+- [ejercicio de json1](json1.md) 
+- [ejercicio de json2](json2.md) 
