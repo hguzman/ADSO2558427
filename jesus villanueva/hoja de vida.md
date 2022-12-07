@@ -14,12 +14,18 @@ Información Basica
 | **GitHub** |  |https://github.com/Jesusvillanueva07 |
 
 ## Ejercicios
-- [Ejercicio Ciclo Mientras que](ejercicio.md)
-- [ejercicio ciclo mietras que 2](ejercicio2.md)
-- [ejercicio ciclo mientras que 3](ejercicio3.md)
-- [formulario](formulario.md)
-- [ejercicio dart](ejercicioDARTPAD.md)
-- [ejercicio dart2](ejercicioDARTPAD2.md)
-- [ejercicio static and implements](EjercicioStaticAndImplements.md)
-- [Ejercicio Cadenas Dart](manejoCadenasDart.md)
-- [ejercicio reqres](reqres.md)
+- [Adso04(para)](Adso(CP).md)
+- [Adso04(while)](ejercicio.md)
+- [Adso05](ejercicio2.md)
+- [Adso06](ejercicio3.md)
+- [Adso07](formulario.md)
+- [Adso08](ejercicioDARTPAD.md)
+- [Adso09](ejercicioDARTPAD2.md)
+- [Adso10](EjercicioStaticAndImplements.md)
+- [Adso11](manejoCadenasDart.md)
+- [Adso12](reqres.md)
+- [Adso13](Adso13.md)
+- [Adso14](Adso14.md)
+- [Adso15](Adso15.md)
+
+
