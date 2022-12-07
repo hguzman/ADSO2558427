@@ -1,7 +1,6 @@
 ```
 import 'package:sena_example/main.dart';
 import 'package:sena_example/models/user.dart';
-
 import 'package:flutter/material.dart';
 
 class Template extends StatefulWidget {

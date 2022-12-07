@@ -33,5 +33,11 @@
 - [ADSO oop GET Json](/aprendices/Yezid_Perez/OOP/Json_API.md)
 - [ADSO13 oop GET User API](/aprendices/Yezid_Perez/OOP/Usuario_API_REST/Readme.md)
 - [ADSO14 oop GET Listuser API](/aprendices/Yezid_Perez/OOP/ListasdeUsuariosHttp/Usuarios/Readme.md)
+- [ADSO15 oop Custompaint,stack,positioned](/aprendices/Yezid_Perez/OOP/Custompaint/Readme.md)
+
+## Paginas Web
+- [ADSO17 Pagina Web Veterinaria](/aprendices/Yezid_Perez/Paginas_web/PG_Veterinaria.md)
+
+
 
 
