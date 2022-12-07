@@ -55,8 +55,10 @@ Información Basica
 
 - [Stack y positioned](/aprendices/jhonSantander/actividades/flutter/stackBrackground/README.md)
 
-<h3>HTML</h3>
+<h3>HTML5 Y CSS3</h3>
 
 - [Maqueta y contenido de pagina web veterinaria](/aprendices/jhonSantander/actividades/html/mascotas/README.md)
 
 - [Maqueta y contenido de pagina web de banco](/aprendices/jhonSantander/actividades/html/bancoop/README.md)
+
+- [Boostrap](/aprendices/jhonSantander/actividades/html/bootstrap/README.md)
