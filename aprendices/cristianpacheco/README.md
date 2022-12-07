@@ -12,15 +12,20 @@ Información Basica
 | **Celular** | 3105027548|
 | **Email** | cristianpacheco10a@gmail.com |
 | **GitHub** |[cristian-pacheco](https://github.com/Cristian-pacheco) |
+| **pagina** |[mi pajina](https://cristian-pacheco.github.io/)
 
 ## Ejercicios
-- [ciclo mientras que en codigo](codigo.md)
-- [Diagrama sin título.drawio.png](Diagrama%20sin%20t%C3%ADtulo.drawio.png)
-- [codigo buscar](codigobuscar.md)
-- [codigo objeto](objeto.md)
-- [codigo contructor](contructor.md)
-- [formulario](formulario.md)
-- [herencia](Herencia.md)
-- [codigo animales #1](animal.md)
-- [codigo animales #2](animales2.md)
-- [Atributos privados y publicos en java](java1.md)
+
+- [ciclo PARA](ADSO4.md)
+- [ciclo MQ (1)](ADSO5.md)
+- [ciclo MQ (1) Diagrama](ADSO5(diagrama).png)
+- [ciclo MQ (2)](ADSO6.md)
+- [formulario Visual Basic](ADSO7.md)
+- [Dart, objeto, claces y metodos](ADSO8.md)
+- [Tipos de parametros y contructores](ADSO9.md)
+- [herencia](ADSO10.md)
+- [manejo de cadena en Dart](ADSO11.md)
+- [Clase abstracta y metodo estatico](ADSO12.1.md)
+- [atributos publicos y privados java](ADSO12.2.md)
+- [Desarrollo con peticion GET a Backend un objeto](ADSO13)
+- [Desarrollo con peticion GET a Backend lista objetos](ADSO14)
