@@ -29,7 +29,8 @@ Información Basica
 - [getter y setter](getter_y_setter.md)
 - [Ejercicio dart peticiones, Json](ejercicio_json.md)
 - [Flutter primera app, peticion](adso13.md)
-- [flutter primera app actualizacion, lista](adso14.md)
+- [Flutter primera app actualizacion listas](adso14.md)
+- [CustomPaint, Stack y positioned](adso15.md)
 - [Primera pagina caninos y felinos, maqueta](adso17.md)
 - [segunda pagina banco, maqueta](adso18.md)
 
