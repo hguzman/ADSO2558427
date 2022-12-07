@@ -6,7 +6,7 @@
 
 <h1 align=center>Tablet</h1>
 
-<p align=center><img src="https://i.imgur.com/Wt7OzwP.png"></p>
+<p align=center><img src="https://i.imgur.com/J9UC08w.png"></p>
 
 <h2 align=center>HTML</h2>
 
