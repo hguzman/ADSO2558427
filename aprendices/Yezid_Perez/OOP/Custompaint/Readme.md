@@ -1,6 +1,6 @@
 <h3 align="center">Flutter - Custompaint,stack,positioned</h3>
 
-![imagen de custompaint](/aprendices/Yezid_Perez/OOP/custompaint/widget/stack.PNG)
+![imagen de custompaint](/aprendices/Yezid_Perez/OOP/Custompaint/widget/stack.PNG)
 
 
 - [lib main](/aprendices/Yezid_Perez/OOP/Custompaint/main.md)
