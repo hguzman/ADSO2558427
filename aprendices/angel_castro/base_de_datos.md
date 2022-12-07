@@ -12,6 +12,7 @@ Información Basica
 | **Celular** | 3153434252 |
 | **Email** | angelcastro.s878@gmail.com |
 | **GitHub** | https://github.com/angelcastro0923 |
+| **Pagina** | https://angelcastro0923.github.io/ |
 
 ## Ejercicios
 - [ciclo para](adso4.md)
@@ -29,5 +30,8 @@ Información Basica
 - [Ejercicio dart peticiones, Json](ejercicio_json.md)
 - [Flutter primera app, peticion](adso13.md)
 - [flutter primera app actualizacion, lista](adso14.md)
+- [Primera pagina caninos y felinos, maqueta](adso17.md)
+- [segunda pagina banco, maqueta](adso18.md)
+
 
 
