@@ -35,3 +35,8 @@ Información Basica
 ## Ejercicios de flutter
 - [ADSO 13 / Evidencia MYAPP](flutter/my_app.md)
 - [ADSO 14 / Evidencia MYAPP LIST](flutter/my_app_list.md)
+
+## Ejercicios de html
+- [ADSO 16 / Evidencia html basico](html/html_basico.md)
+- [ADSO 17 / Evidencia Pagina web caninos](html/pagina_caninos.md)
+- [ADSO 18 / Evidencia pagina web banco](html/pagina_banco.md)
