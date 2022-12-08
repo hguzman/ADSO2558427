@@ -18,4 +18,3 @@
 16. [Wilmer Nicolas Carmona](/aprendices/wilmer_carmona/informacion_basica.md)
 17. [Yezid Perez Pertuz](/aprendices/Yezid_Perez/README.md)
 18. [Zharick Carolina Donado](/aprendices/Zharick_Donado/hojadevida.md)
-
