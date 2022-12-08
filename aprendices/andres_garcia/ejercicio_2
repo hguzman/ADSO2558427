@@ -1,3 +1,4 @@
+
 ~~~
 Sub actividad()
   c = 0
@@ -37,5 +38,4 @@ inicio
     fin Si
   fin MQ
 fin
-
-      
+~~~
