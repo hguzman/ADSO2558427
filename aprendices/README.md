@@ -10,7 +10,7 @@
 8. [Jaider Camilo Rojas](/aprendices/jaiderrojas/README.MD)
 9. [Jose Alberto Argote](/aprendices/joseargote/joseargote.md)
 10. [Jhon Fredy Santander Patiño](/aprendices/jhonSantander/README.md)
-11. [Juan David Hernández](/aprendices/juan_david_hernandez/hvjuandavid.md)
+11. [Juan David Hernández](/aprendices/juan_david_hernandez/readme.md)
 12. [Juan David Garcia](/aprendices/juan_david_garcia/juandavidgarcia.md)
 13. [Luis Enrique Lemus](/aprendices/luis_enrique_lemus/hvluislemus.md)
 14. [Luisa Fernanda Cortezano](/aprendices/luisa_cortezano/hoja_de_vida.md)
