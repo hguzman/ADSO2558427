@@ -6,14 +6,14 @@ Sub b()
         m = Int(InputBox("cunto desea aportar"))
         c = c + m
         If m < 100000 Then
-        am = am + 1
-       Else
-        am2 = am2 + 1
-       End If
-       If m = 0 Then
-        no = no + 1
-        i = i-1
-       End If
+            am = am + 1
+        Else
+            am2 = am2 + 1
+        End If
+        If m = 0 Then
+            no = no + 1
+            i = i-1
+        End If
         i = i + 1
     Next t
     vrp = c / i
