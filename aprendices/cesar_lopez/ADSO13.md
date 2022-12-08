@@ -1,4 +1,5 @@
 ## main 
+~~~
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/widgets/user.dart';
 import 'package:flutter_application_1/widgets/Template.dart';
@@ -82,7 +83,9 @@ class Template extends StatelessWidget {
           ],);
 }
 }
+~~~
 ## user
+~~~
 import 'dart:convert' as convert;
 
 class User{
@@ -97,3 +100,4 @@ class User{
     email = jsonResponse["data"]["email"];
   }
 }
+~~~
