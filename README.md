@@ -20,3 +20,5 @@
 | ADSO14 | Desarrollo Con peticion GET a Backend Lista Objetos | 11/16/22 | El aprendiz debe construir un APP en flutter, que permita consumir una lista de objetos de un Backend gratis. |
 | ADSO15 | CustomPaint, Stack y positioned | 11/23/22 | Rediseñar la interfaz grafica del APP ADSO13 utilizando Stack y CustomPaint en el diseño |
 | ADSO16 | Html Básico | 11/25/22 | Pagina WEB inicial, publicada en GitHub |
+| ADSO17 | Maquetado Html Veterinaria | 11/28/22 | Pagina WEB con maquetado HTML proyecto Veterinaria |
+| ADSO18 | Maquetado Html Banco | 12/02/22 | Pagina WEB con maquetado HTML proyecto Banco |
