@@ -24,7 +24,7 @@ Información Basica
 - [ejercicio dart5 ](ADSO12.md)
 - [ejercicio flutter objet](ADSO13.md)
 - [ejercicio flutter list](ADSO14.md)
--[ejercico CustomPaint](ADSO15.md)
+- [ejercico CustomPaint](ADSO15.md)
 - [ejercico Html Básico](ADSO16.md)
 - [ejercico Maquetado Html Veterinaria](ADSO17.md)
 - [ejercico Maquetado Html Banco](ADSO18.md)
