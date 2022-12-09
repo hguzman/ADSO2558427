@@ -36,3 +36,9 @@ Información Basica
 # Ejercicios de Flutter
 - [ADSO-13 /APP flutter SIN LISTA](Flutter/prototipoapp1.md)
 - [ADSO-14 /APP flutter CON LISTA](Flutter/prototipoapp2.md)
+- [ADSO-15 /CustomPaint,Stack ypositioned](Flutter/prototipoapp3.md)
+
+# Ejercicios de HTML
+-[ADSO-16 /HTML basico](Html/html_basico.md)
+-[ADSO-17 /Maquetado veterinaria](Html/pagina_veterinaria.md)
+-[ADSO-18 /Maquetado banco](Html/pagina_banco.md)
