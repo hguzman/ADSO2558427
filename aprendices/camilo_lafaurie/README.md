@@ -39,6 +39,6 @@ Información Basica
 - [ADSO-15 /CustomPaint,Stack ypositioned](Flutter/prototipoapp3.md)
 
 # Ejercicios de HTML
--[ADSO-16 /HTML basico](Html/html_basico.md)
--[ADSO-17 /Maquetado veterinaria](Html/pagina_veterinaria.md)
--[ADSO-18 /Maquetado banco](Html/pagina_banco.md)
+- [ADSO-16 /HTML basico](Html/html_basico.md)
+- [ADSO-17 /Maquetado veterinaria](Html/pagina_veterinaria.md)
+- [ADSO-18 /Maquetado banco](Html/pagina_banco.md)
