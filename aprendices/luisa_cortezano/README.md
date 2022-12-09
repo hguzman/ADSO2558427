@@ -12,7 +12,7 @@ Información Basica
 | **Celular** | 3024539086|
 | **Email** | luisacortezano135@gmail.com |
 | **GitHub** | https://github.com/Luisafernanda29|
-| **Pagina** | https://github.com/Luisafernanda29.github.io|
+| **Pagina** | https://Luisafernanda29.github.io|
 
 
 ## Ejercicios Visual Basic
@@ -34,3 +34,8 @@ Información Basica
 ## Ejercicios Flutter
 - [Desarrollo con Peticion GET a Backend un Objeto](Flutter/ADSO13.md)
 - [Desarrollo Con Peticion GET a Backend Lista Objetos](Flutter/ADSO14.md)
+- [CustomPaint, Stack y positioned](flutter/ADSO15.md)
+
+## Ejercicios HTML
+- [Maquetado Html Veterinaria](html/ADSO17.md)
+- [Maquetado Html Banco](html/ADSO18.md)
