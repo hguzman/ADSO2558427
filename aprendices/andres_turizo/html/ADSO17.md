@@ -25,19 +25,33 @@
                 Solicitar cita medica
             </header>
             <p>
-                <b> Mascota: </b>
-                <input type="text"><br>
-                <b> Edad: </b>
-                <input type="number"><br>
-                <b> Raza: </b>
-                <input type="text"><br>
-                <b> Fecha: </b>
-                <input type="date"><br>
-                <b> Hora: </b>
-                <input type="time"><br>
-                <b> Amo: </b>
-                <input type="text"><br>
-                <input id="boton_validar" value="VALIDAR CITA" type="button">
+                <form action="">
+                    <div>
+                        <label> Mascota: </label>
+                        <input type="text">
+                    </div>
+                    <div>
+                        <label> Edad: </label>
+                        <input type="number">
+                    </div>
+                    <div>
+                        <label> Raza: </label>
+                        <input type="text">
+                    </div>
+                    <div>
+                        <label> Fecha: </label>
+                        <input type="date">
+                    </div>
+                    <div>
+                        <label> Hora: </label>
+                        <input type="time">
+                    </div>
+                    <div>
+                        <label> Amo: </label>
+                        <input type="text">
+                    </div>
+                    <input id="boton_validar" value="VALIDAR CITA" type="button">
+                </form>
             </p>
         </aside>
         <section>
@@ -156,9 +170,17 @@ aside input{
     width: 150px;
     margin-right: 30px;
 }
+aside form label{
+    color: #d9e0e1;
+    display: inline-block;
+    padding-bottom: 15px;
+    padding-left: 40px ;
+    padding-top: 15px;
+}
+
 #boton_validar{
     margin-top: 15px;
-    margin-left: 15px;
+    margin-left: 75px;
 }
 section{
     width: 480px;
