@@ -1,0 +1,217 @@
+main{
+    height: 1340px;
+    width: 990px;
+    margin: auto;
+}
+header{
+    height: 180px;
+}
+
+header img{
+    width: 990px;
+    height: 180px
+}
+
+nav{
+    height: 60px;
+    background-color: rgb(236, 154, 0);
+    padding-top: 10px;
+    width: 990px;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+}
+
+ul li{
+    margin: auto;
+    text-align: center;
+    font-size: 22px;
+    list-style: none;
+    font-weight: bold;
+}
+
+.limite-uno{
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    width: 200px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.limite-dos{
+    border-right: 2px solid white;
+    width: 200px;
+    width: 200px;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+aside{
+    margin-top: 20px;
+    width: 290px;
+    height: 880px;
+    float: left;
+    margin-right: 30px;
+}
+
+aside header h4{
+    padding-top: 7%;
+    color: white;
+    margin: 0;
+    text-align: center;
+    font-size: 16px;
+}
+
+.formulario{
+    border-radius: 20px 20px 0 0;
+    background-color: rgb(165, 165, 165);
+    height: 350px;
+    margin-bottom: 15px;
+}
+
+.formulario header{
+    border-radius: 20px 20px 0 0;
+    background-color: black;
+    height: 60px;
+}
+
+.formulario form{
+    margin: 20px;
+    height: 350px;
+}
+
+.formulario form label{
+    float: left;
+    margin-bottom: 30px;
+    
+}
+
+.formulario form input{
+    height: 25px;
+    margin-bottom: 30px;
+    float: right;
+    border-radius: 5px;
+}
+
+.formulario form button{
+    border-radius: 5px;
+    width: 100px;
+    float: left;
+    margin-left: 75px;
+    margin-top: 10px;
+    color: black;
+    background-color: rgb(236, 154, 0);
+}
+
+.navegacion{
+    height: 517px;
+    background-color: rgb(17, 17, 17);
+}
+
+.navegacion header{
+    background-color: black;
+    height: 50px;
+}
+.navegacion header h4{
+    color: rgb(236, 154, 0);
+}
+
+.navegacion button{
+    border-color: white;
+    border: 
+    border-right: 0;
+    border-left: 0;
+    width: 260px;
+    margin-left: 15px ;
+    color: white;
+    background-color: rgb(17, 17, 17);;
+}
+
+section{
+    float: right;
+    height: 880px;
+    margin-top: 20px;
+    width: 670px;
+}
+
+section article{
+    height: 420px;
+    width: 315px;
+    background-color: rgb(216, 216, 216);
+}
+
+section article header{
+    height: 60px;
+    background-color: black;
+    margin-bottom: 10px;
+}
+
+section article header h4{
+    padding-top: 7%;
+    color: white;
+    margin: 0;
+    text-align: center;
+    font-size: 16px;
+}
+section article img{
+    height: 200px;
+    width: 200px;
+    margin-left: 65px;
+}
+
+section article p{
+    margin: 10px;
+    font-size: 16px;
+    text-align: center;
+}
+.superior-izquierda{
+    border-top-left-radius: 20px;
+    float: left;
+}
+
+.superior-izquierda header{
+    border-top-left-radius: 20px;
+}
+
+.superior-derecha{
+    border-top-right-radius: 20px;
+    margin-left: 40px;
+    float: right;
+}
+
+.superior-derecha header{
+    border-top-right-radius: 20px;
+}
+
+.inferior-izquierda{
+    border-bottom-left-radius: 20px;
+    margin-top: 40px;
+    float: left;
+}
+
+.inferior-derecha{
+    border-bottom-right-radius: 20px;
+    margin-top: 40px;
+    margin-left: 40px;
+    float: right;
+}
+
+footer{
+    border-radius: 0 0 20px 20px;
+    clear: both;
+    display: inline-block;
+    margin: auto;
+    background-color: black;
+    width: 100%;
+    height: 120px;
+    margin-top: 20px;
+}
+
+footer p{
+    margin-top: 30px;
+    text-align: center;
+    color: white;
+    opacity: 70%;
+}
