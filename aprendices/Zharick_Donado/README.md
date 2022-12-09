@@ -34,6 +34,13 @@ Información Basica
 ### Ejercicios Flutter 
 - [**ADSO 13 - Ejercicio APP en flutter que permita consumir un objeto de un Backend**](flutter/ejercicio1.md)
 - [**ADSO 14 - Ejercicio  APP en flutter, que permita consumir una lista de objetos de un Backend**](flutter/ejercicio2.md)
+- [**ADSO 15 - Rediseñar la interfaz grafica del APP ADSO13 utilizando Stack y CustomPaint en el diseño**](flutter/ejercicio3.md)
+
+### Ejercicio HTML
+- [**ADSO 16 - Pagina WEB inicial, publicada en GitHub**](html/ejercicio1.md)
+- [**ADSO 17 - Pagina WEB con maquetado HTML proyecto Veterinaria**](html/Ejercicio2.md)
+- [**ADSO 18 - Pagina WEB con maquetado HTML proyecto Banco** ](html/ejercicio3.md)
+- [**ADSO 19 - bootstrap** ](html/ejercicio4.md)
 
 
 
