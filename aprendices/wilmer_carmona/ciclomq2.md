@@ -1,3 +1,5 @@
+~~~ 
+
 
 Sub evento_escolar()
 
@@ -5,7 +7,8 @@ Sub evento_escolar()
     no_abono = 0
     csuperior = 0
     total_reca = 0
-    
+    dinero_re =0
+
     While total_reca <= 3000000
         dinero_re = InputBox("Cuanto desea a abonar?")
         If dinero_re > 0 Then
@@ -27,4 +30,6 @@ Sub evento_escolar()
     MsgBox "Los estudiantes que aportaron una cantidad superior a $10.000:   " & "(" & csuperior & ")" & " Estudiantes"
 End Sub
 
-![Diagrama](diagrama_de_flujo.jpg) 
+~~~ 
+
+![Diagrama](diagrama.jpg) 
