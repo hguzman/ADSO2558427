@@ -1,5 +1,6 @@
 Sub inicio()
-    
+ 
+ ~~~
 abono = 0
 no_abono = 0
 cant = 0
@@ -26,3 +27,4 @@ MsgBox "Numero de estudiantes que si donaron " & "(" & abono & ")" & " Estudiant
 MsgBox "Numero de estudiantes que no donaron " & "(" & no_abono & ")" & " Estudiantes"
 MsgBox "Estudiantes que aportaron mas de $10.000:   " & "(" & cant & ")" & " Estudiantes"
 End sub
+~~~
