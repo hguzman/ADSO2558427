@@ -26,5 +26,5 @@
 - [ADSO14](Contenido/Peticiones%20a%20Json%20con%20Lista/)
 - [ADSO15](Contenido/CustomPaint/)
 - [ADSO16](https://emanuelobredor18.github.io/)
-- [ADSO17](Contenido/Caninos%20y%20Felinos/index.html)
-- [ADSO18](Contenido/Bancoop/index.html)
+- [ADSO17](Contenido/Caninos%20y%20Felinos/)
+- [ADSO18](Contenido/Bancoop/)
