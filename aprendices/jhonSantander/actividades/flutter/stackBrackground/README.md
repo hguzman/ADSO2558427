@@ -8,7 +8,7 @@
 
 - [Descargar ejercicio](https://github.com/GoJhon/CustomPaint-Stack-y-Positioned/releases/tag/1.0.0)
 
-<h3 align=center>Codgido del Main</h3>
+<h3 align=center>Codigo del Main</h3>
 
 ```
 import 'package:flutter/material.dart';
@@ -110,7 +110,7 @@ class MyApp extends StatelessWidget {
 }
 ```
 
-<h3 align=center>Codgido de User</h3>
+<h3 align=center>Codigo de User</h3>
 
 ```
 import 'dart:convert' as convert;
