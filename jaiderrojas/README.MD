@@ -29,3 +29,6 @@ Información Basica
 - [peticiones HTTP para lista de usuario](/jaiderrojas/peticiones%20HTTP%20lista%20de%20usuarios/README.MD)
 - [custompaint flutter](/jaiderrojas/custompaint%20flutter/README.MD)
 - [stack y posicionado](/jaiderrojas/stack%20y%20posicionado/README.MD)
+- [pagina web veterinaria HTML](/jaiderrojas/pagina%20web%20veterinaria%20HTML/README.MD)
+- [pagina web banco](/jaiderrojas/pagina%20web%20banco/README.MD)
+
