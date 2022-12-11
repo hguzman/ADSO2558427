@@ -1,8 +1,21 @@
+# ANDRÉS DAVID TURIZO DIAZ
+Información Basica
+
+| Campo | Información |
+| --- | --- |
+| **Tipo** | Cedula |
+| **Identificación** | 1001780670 |
+| **Nombre completo** | Andrés David Turizo Diaz |
+| **Edad** | 18 |
+| **Dirección** | Cra 4 # 31-56 |
+| **Barrio** | Universal |
+| **Celular** | 3014586416 |
+| **Email** | adtd_07@hotmail.com |
+| **GitHub** | https://github.com/andresdtd |
+| **Página** | https://andresdtd.github.io/index.html |
+
+
 ## CONTENIDO
-
-#### NO códigos
-
-- [HOJA DE VIDA](no_codigos/ADSO1.md)
 
 #### Visual Basic
 
@@ -23,3 +36,10 @@
 
 - [PETICIÓN BACKEND OBJETO](flutter/ADSO13.md)
 - [PETICIÓN BACKEND LISTA OBJETOS](flutter/ADSO14.md)
+- [CUSTOM PAINT, STACK Y POSITIONED](flutter/ADSO15.md)
+
+#### Html
+
+- [VETERINARIA HTML](html/ADSO17.md)
+- [BANCO HTML](html/ADSO18.md)
+- [BOOTSTRAP](html/ADSO19.md)
