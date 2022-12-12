@@ -34,8 +34,8 @@ Información Basica
 ## Ejercicios Flutter
 - [Desarrollo con Peticion GET a Backend un Objeto](Flutter/ADSO13.md)
 - [Desarrollo Con Peticion GET a Backend Lista Objetos](Flutter/ADSO14.md)
-- [CustomPaint, Stack y positioned](flutter/ADSO15.md)
+- [CustomPaint, Stack y positioned](Flutter/ADSO15.md)
 
 ## Ejercicios HTML
-- [Maquetado Html Veterinaria](html/ADSO17.md)
-- [Maquetado Html Banco](html/ADSO18.md)
+- [Maquetado Html Veterinaria](Html/ADSO17.md)
+- [Maquetado Html Banco](Html/ADSO18.md)
