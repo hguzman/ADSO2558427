@@ -1,6 +1,6 @@
 <h2 align=center>Lista de aprendices</h2>
 
-1. [Andrés David Turizo](/aprendices/andres_turizo/hojadevida.md)
+1. [Andrés David Turizo](/aprendices/andres_turizo/readme.md)
 2. [Andrés Felipe Parra](andres_parra/hojadevida)
 3. [Andrés Garcia](/aprendices/andres_garcia/README.md)
 4. [Breitner Daniel Mora](/aprendices/breitner/README.md)
@@ -10,11 +10,11 @@
 8. [Jaider Camilo Rojas](/aprendices/jaiderrojas/README.MD)
 9. [Jose Alberto Argote](/aprendices/joseargote/joseargote.md)
 10. [Jhon Fredy Santander Patiño](/aprendices/jhonSantander/README.md)
-11. [Juan David Hernández](/aprendices/juan_david_hernandez/hvjuandavid.md)
+11. [Juan David Hernández](/aprendices/juan_david_hernandez/readme.md)
 12. [Juan David Garcia](/aprendices/juan_david_garcia/juandavidgarcia.md)
 13. [Luis Enrique Lemus](/aprendices/luis_enrique_lemus/hvluislemus.md)
-14. [Luisa Fernanda Cortezano](/aprendices/luisa_cortezano/hoja_de_vida.md)
-15. [Ronaldo Gomez Castro](/aprendices/ronaldo_gomez/hojadedatos.md)
+14. [Luisa Fernanda Cortezano](/aprendices/luisa_cortezano/README.md)
+15. [Ronaldo Gomez Castro](ronaldo_gomez/README.md)
 16. [Wilmer Nicolas Carmona](/aprendices/wilmer_carmona/informacion_basica.md)
 17. [Yezid Perez Pertuz](/aprendices/Yezid_Perez/README.md)
 18. [Zharick Carolina Donado](/aprendices/Zharick_Donado/hojadevida.md)
