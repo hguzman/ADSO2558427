@@ -37,3 +37,7 @@ Información Basica
 - [Ejercicio número  11: Petición GET a backend lista objeto](/aprendices/fabio_poveda/backend_lista/README.MD)
 
 - [Ejercicio número  12: CustomPaint, Stack y positioned](/aprendices/fabio_poveda/custompaint/README.MD)
+
+- [Ejercicio número  13: Html Básico](https://fabiop0.github.io/)
+
+- [Ejercicio número  14: Maquetado html Veterinaria](/aprendices/fabio_poveda//veterinaria/README.MD)
