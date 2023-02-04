@@ -16,11 +16,14 @@ Información Basica
 
 ## Ejercicios
 
-- [Ejercicio Ciclo Mientras que](ejercicio.md)
-- [Ejercicio de buscador](ejercicio2.md)
-- [Formulario](tablaformu.md)
-- [Ejercicio Dart](ejercicio3.md)
-- [2do Ejercicio Dart](ejerciciodart.md)
+-[ADSO 1 - Hoja de vida](https://github.com/JuanCito16/Hojadevida)
+-[ADSO 3 - Cuaderno electrónico](https://github.com/JuanCito16/Agenda)
+- [ADSO 4 - Ciclo PARA](ejercicio.md)
+- [ADSO 5 - Ciclo MQ(1)](mq1.md)
+- [ADSO 6 -  Ciclo MQ(2)](ejercicio2.md)
+- [ADSO 7 - Formulario Visual Basic](tablaformu.md)
+- [ADSO 8 - Dart, objetos, clases y metodos](ejercicio3.md)
+- [ADSO 9 - Tipos de parametros y constructores](ejerciciodart.md)
 - [Ejercicio de empresas](dart2.md)
 - [EJercicio de animales](dart3.md)
 - [Ejercico extends & implements](extends.md)
