@@ -16,8 +16,8 @@ Información Basica
 
 ## Ejercicios
 
--[ADSO 1 - Hoja de vida](https://github.com/JuanCito16/Hojadevida)
--[ADSO 3 - Cuaderno electrónico](https://github.com/JuanCito16/Agenda)
+- [ADSO 1 - Hoja de vida](https://github.com/JuanCito16/Hojadevida)
+- [ADSO 3 - Cuaderno electrónico](https://github.com/JuanCito16/Agenda)
 - [ADSO 4 - Ciclo PARA](ejercicio.md)
 - [ADSO 5 - Ciclo MQ(1)](mq1.md)
 - [ADSO 6 -  Ciclo MQ(2)](ejercicio2.md)
