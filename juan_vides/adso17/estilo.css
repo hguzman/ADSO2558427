@@ -1,0 +1,120 @@
+main{
+    border: 1px solid black;
+    width: 800px;
+    height: 637px;
+    margin: auto;
+    border-radius: 10px;
+    
+}
+
+header{
+    border: 1px solid red;
+    height: 90px;
+    border-radius: 10px;
+}
+
+nav{
+    border: 1px solid red;
+    height: 50px;
+    border-radius: 10px;
+    background-color:#004030;
+}
+
+section{
+    height: 200px;
+    width: 300px;
+    float: left;
+    border-radius: 10px;
+}
+
+article{
+    border: 1px solid red;
+    background-color: #ffff99;
+    height: 200px;
+    border-radius: 10px;
+    margin: 6px -50px 5px 7px    
+}
+
+aside{
+    border: 1px solid black;
+    height: 414px;
+    width: 300px;
+    float: right;
+    border-radius: 10px;
+    margin: 3px 7px 0px 0px;
+    background-color:#004030;
+}
+
+footer{
+    border: 1px solid red;
+    height: 71px;
+    width: 798px;
+    margin: 422px 0px 0px 0px;
+    border-radius: 10px;
+    background-color: #004030;
+    
+    
+}
+
+article img{
+    border: 1px solid black;
+    width: 92px; 
+    height: 103px;
+    position: relative;
+    left: 69%;
+    bottom: 52%;
+    float: left;  
+    border-radius: 10px;
+
+}
+
+img {
+    height: 90px;
+    width: 799px;
+    border-radius: 10px;
+   
+}
+
+ul li{
+    border-right: 1px solid white;
+    display: inline-flex;
+    color: white;
+    margin-left: 87px;
+}
+
+h4{
+    margin-block: -80px;
+}
+
+h3.bloque2 {
+    position: relative;
+    right: 87px;
+}
+
+header.punto{
+    height: 40px;
+    border: 1px solid black;
+    background-color: #091a15;
+    color: white;
+}
+
+h3.bloque1{
+    margin: 9px 0px 0px 66px;
+    color: gainsboro;
+}
+
+ul.documentos{
+    margin-block: 409px;
+    margin-left: -30px;
+    color: gainsboro;
+}   
+ 
+button.nine{
+    margin: 380px 0px 0px 105px;
+}
+
+h5.work{
+    color: white;
+    margin: 8px 0px 0px 293px;
+}
+

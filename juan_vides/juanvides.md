@@ -31,3 +31,5 @@ Información Basica
 - [Ejercicio de lista](lista.md)
 - [Ejercicio flutter #1](tablaflutter1.md)
 - [Ejercicio flutter #2](tablaflutter2.md)
+- [ADSO 19](adso19.dart)
+)
